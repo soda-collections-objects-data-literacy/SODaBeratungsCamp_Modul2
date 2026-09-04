@@ -36,11 +36,17 @@ Lernende können...
 
 ---
 
-## 1.1 xyz
+## 1.1 Kurze Projektvorstellung
+
+- CurcuitLab Rave Racer
+- MEGA e.V. T42
 
 ---
 
-## 1.2 xyz
+## 1.2 Annotationaaufgabe 
+
+- Grundlage E1
+- Annotationsvorlagen vorbereiten (Canan)
 
 ---
 

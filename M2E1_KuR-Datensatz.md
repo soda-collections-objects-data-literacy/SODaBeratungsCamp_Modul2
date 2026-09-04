@@ -20,7 +20,7 @@ comment: Dieses Modul [Text ergänzen]
 
 Einheit 1: **Vorstellung und Anwendung eines Minimalmetadatensatzes für Konservierungs- und Restaurierungsprozesse**  
 
-**Dauer:** ~ 20 Min.
+**Dauer:** ~ 15 Min.
 
 ---
 

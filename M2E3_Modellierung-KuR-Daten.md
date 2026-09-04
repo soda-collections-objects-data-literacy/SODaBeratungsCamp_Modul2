@@ -36,13 +36,20 @@ Lernende können...
 
 ---
 
-## 1.1 xyz
+## 1.1 Arbeiten mit dem KuR Modell im SCS Datensatz 
 
+- Ergniszentrierung in Kürze
+- Vorstellung Datensatz Rave Racer
 ---
 
-## 1.2 xyz
+## 1.2 Gemeinsame Aufgabe
 
+- T42 erfassen
+  
 ---
+
+## 1.3 Diskussion
+
 
 ## Quellenangaben
 

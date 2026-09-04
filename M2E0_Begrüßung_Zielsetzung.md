@@ -41,7 +41,7 @@ Einheit 0: **Begrüßung und Zielsetzung**
 | 2 | Vorstellung und Anwendung eines Minimalmetadatensatzes für Konservierungs- und Restaurierungsprozesse | 20 Min. |
 | 3 | Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstruktur | 45 Min. |
 
-Das SODa BeratungsCamp unterstützt ...
+Das SODa BeratungsCamp unterstützt [Text ergänzen]
 
 Das 90-minütige Modulk umfasst 4 Einheiten: (0) Begrüßung und Zielsetzung, (1) Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten, (2) Vorstellung und Anwendung eines Minimalmetadatensatzes für Konservierungs- und Restaurierungsprozesse und (3) Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstruktur. Das Modul wird aktiv moderiert und gemeinsam gestaltet; Teilnehmende sind eingeladen, Erfahrungen und Fragestellungen einzubringen.
 [Text ergänzen]

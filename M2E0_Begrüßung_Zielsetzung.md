@@ -19,7 +19,7 @@ comment: xyz
 
 Einheit 0: **Begrüßung und Zielsetzung**
 
-**Dauer:** ~ 10 Min.
+**Dauer:** ~ 5 Min.
 
 
 ---
@@ -36,9 +36,9 @@ Einheit 0: **Begrüßung und Zielsetzung**
 
 | Einheit | Inhalt | Zeit |
 |--------|--------|------|
-| 0 |  Begrüßung und Zielsetzung | 10 Min. |
-| 1 | Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten | 15 Min. |
-| 2 | Vorstellung und Anwendung eines Minimalmetadatensatzes für Konservierungs- und Restaurierungsprozesse | 20 Min. |
+| 0 |  Begrüßung und Zielsetzung | 5 Min. |
+| 1 | Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten | 10 Min. |
+| 2 | Vorstellung und Anwendung eines Minimalmetadatensatzes für Konservierungs- und Restaurierungsprozesse | 30 Min. |
 | 3 | Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstruktur | 45 Min. |
 
 Das SODa BeratungsCamp unterstützt [Text ergänzen]

@@ -20,7 +20,7 @@ comment: Dieses Modul [Text ergänzen]
 
 Einheit 2: **Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten**  
 
-**Dauer:** ~ 15 Min.
+**Dauer:** ~ 30 Min.
 
 ---
 

@@ -19,7 +19,7 @@ comment: xyz
 
 Einheit 0: **Begrüßung und Zielsetzung**
 
-**Dauer:**
+**Dauer:** ~ 10 Min.
 
 
 ---

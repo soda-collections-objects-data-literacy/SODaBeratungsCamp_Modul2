@@ -18,7 +18,7 @@ comment: Dieses Modul [Text ergänzen]
 
 **Modul 2: [Titel des Moduls]**  
 
-Einheit 1: **Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten**  
+Einheit 2: **Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten**  
 
 **Dauer:** ~ 15 Min.
 

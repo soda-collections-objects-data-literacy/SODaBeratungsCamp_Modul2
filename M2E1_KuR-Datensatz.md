@@ -28,6 +28,9 @@ Einheit 1: **Vorstellung und Anwendung eines Minimalmetadatensatzes für Konserv
 
 Lernende können...
 
+- das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) benennen.
+- das NFDI4Objects Conservation Data Framework Online-Portal benennen.
+- 
 ---
 
 ## Voraussetzung
@@ -36,7 +39,27 @@ Lernende können...
 
 ---
 
+## 1.1 Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)
+
+Quick Recap - Modul 1
+
+"Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Daten! Diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden."
+
+
+Das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) ist eine Empfehlung zur standardisierten Dokumentation von konservierungs- und restaurierungsbezogenen Daten 
+
+
+
+
+
+
 ## 1.1 xyz
+
+
+
+
+
+
 
 ---
 

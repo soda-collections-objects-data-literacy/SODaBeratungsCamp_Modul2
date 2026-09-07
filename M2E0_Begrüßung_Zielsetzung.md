@@ -28,7 +28,9 @@ Einheit 0: **Begrüßung und Zielsetzung**
 
 > Herzlich willkommen zum SODa BeratungsCamp: Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung
 >
-> Dieses Modul 2 bietet [Einführungstext ergänzen]
+> Dieses Modul 2 bietet eine praxisorientierte Einführung in die Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten. Anhand zweier medienarchäologischer Erschließungsbeispiele werden Wege von der vorhandenen Dokumentation über die strukturierte Datenerfassung bis hin zur graphbasierten Modellierung aufgezeigt.
+
+---
 
 ## Ablauf des Moduls
 
@@ -51,40 +53,51 @@ Das 90-minütige Modul umfasst 4 Einheiten: (0) Begrüßung und Zielsetzung, (1)
 
 Lernende können...
 
+---
+
 ## Voraussetzungen
 
 *keine*
 
 Die Kenntnis der Inhalte aus Modul 1: Arbeiten mit strukturierten Daten in der Konservierungsdokumentation sind von Vorteil
 
+---
+
 ## Rückblick Modul 1: *Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation*
 
 Im **ersten Modul** wurden in **Einheit 1 *Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie die Reflexion eigener Rollen, Bedarfe und Kompetenzen*** die **Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM)** mit Fokus auf konservierungs- und restaurierungsspezifische Herausforderungen vermittelt und die **eigene Rolle im FDM** reflektiert. In **Einheit 2 *Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen*** wurde die Konservierungs- und Restaurierungsdokumentation als ein Bereich vorgestellt, in dem kontinuierlich **relevante Forschungsdaten** entstehen. 
 
 Dabei wurde deutlich, dass die Konservierung und Restaurierung von Objekten in wissenschaftlichen Sammlungen vor **besonderen Anforderungen** steht: 
+
 - Die Objekte müssen einerseits langfristig erhalten werden, andererseits sollen sie häufig für Lehr- und Forschungskontexte zugänglich und nutzbar bleiben. Die Bewahrung bewegt sich damit in einem **Spannungsfeld zwischen Substanzerhalt und Nutzbarmachung**.
-- Eine weitere Herausforderung ergibt sich aus der **Prozesshaftigkeit der Konservierungs- und Restaurierungsdokumentation**: **Forschungsrelevante Daten entstehend kontinuierlich und begleitend zu allen Arbeisschritten des Konservierungs- und Restaurierungsprozesses.** Sie entstehen auf Basis verschiedener fachlicher Fragestellungen und Schwerpunktsetzungen und beziehen sich auf unterschiedliche Aspekte des Objekts. Von seiner materiellen Beschaffenheit und seinem Erhaltungszustand bis hin zu den durchgeführten Untersuchungen, Konservierungs- und Restaurierungsmaßnahmen sowe den dabei getroffenen Entscheidungen. Gleichzeitig können diese Informationen in unterschiedlichen Dokumentationsformaten vorliegen.
+  
+- Eine weitere Herausforderung ergibt sich aus der **Prozesshaftigkeit der Konservierungs- und Restaurierungsdokumentation**: **Forschungsrelevante Daten entstehen kontinuierlich und begleitend zu allen einzelnen Arbeisschritten des Konservierungs- und Restaurierungsprozesses.** Sie entstehen auf Basis verschiedener fachlicher Fragestellungen und Schwerpunktsetzungen und beziehen sich auf unterschiedliche Aspekte des Objekts; von seiner materiellen Beschaffenheit und seinem Erhaltungszustand bis hin zu den durchgeführten Untersuchungen, Konservierungs- und Restaurierungsmaßnahmen sowie den dabei getroffenen Entscheidungen. Gleichzeitig können diese Informationen in unterschiedlichen Dokumentationsformaten vorliegen.
 
 Damit wird deutlich, dass die **wissenschaftliche Relevanz der Konservierungs- und Restaurierungsdokumentation** nicht allein in der möglichst vollständigen Dokumentation einzelner Maßnahmen liegt. Von Bedeutung ist vielmehr auch die Strukturierung und Erschließung der dabei entstehenden Informationen. **Erst durch eine nachvollziehbare und systematische Strukturierung können die in unterschiedlichen Dokumentationszusammenhängen enthaltenen Informationen miteinander in Beziehung gesetzt, über einzelne Restaurierungsprozesse hinaus ausgewertet und für weiterführende Forschungsfragen nachnutzbar gemacht werden.**
 
-Ausgehend von diesem Verständnis als Forschungsdaten stellt sich die weiterführende Frage, wie die in der Konservierungs- und Restaurierungsdokumentation enthaltenen Informationen analysiert, erschlossen und strukturiert werden können, um eine wissenschaftliche Nutzung und Nachnutzung zu ermöglichen.
+Ausgehend von diesem Verständnis als Forschungsdaten stellt sich die weiterführende Frage, **wie die in der Konservierungs- und Restaurierungsdokumentation enthaltenen Informationen analysiert, erschlossen und strukturiert werden können, um eine wissenschaftliche Nutzung und Nachnutzung zu ermöglichen.**
 
 ## Überleitung zu Modul 2 *Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung*
 
 Hier setzt **Modul 2 *Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung*** an.
 
-Während im ersten Modul die Einordnung von Konservierungs- und Restaurierungsdaten als Forschungsdaten sowie die Bedeutung ihrer Dokumentation im Mittelpunkt standen, richtet sich der Fokus nun auf die **konkrete Analyse, Strukturierung und Modellierung dieser Daten**. Im Zentrum steht dabei die Frage, wie vorhandene, häufig heterogen oder zunächst unstrukturieret vorliegende Informationen aus der Konservierungs- und Restaurierungsdokumentation in eine strukturierte und anschließend modellierbare Datenbasis überführt werden können.
-Der Prozess wird am Beispiel der **medienarchäologischen Erschließung** in **drei aufeinander aufbauenenden Einheiten** nachvollzogen. 
+Während im ersten Modul die Einordnung von Konservierungs- und Restaurierungsdaten als Forschungsdaten sowie die Bedeutung ihrer Dokumentation im Mittelpunkt standen, richtet sich der Fokus nun auf die **konkrete Analyse, Strukturierung und Modellierung dieser Daten**. Im Zentrum steht dabei die Frage, wie vorhandene, häufig heterogen oder zunächst unstrukturiert vorliegende Informationen aus der Konservierungs- und Restaurierungsdokumentation in eine strukturierte und anschließend modellierbare Datenbasis überführt werden können.
 
-1) Zunächst wird mit dem Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) ein konkretes Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten vorgestellt. 
+Der Prozess wird am Beispiel der **medienarchäologischen Erschließung** in **drei aufeinander aufbauenden Einheiten** nachvollzogen. 
 
-2) Darauf aufbauend werden unstrukturierte Konservierungs- und Restaurierungsdaten an einem konkreten Beispiel analysiert und strukturiert.
+1) Zunächst wird mit dem **Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)** ein konkretes Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten vorgestellt. 
 
-3) Abschließend wird betrachtet, wie die strukturierten Informationen in WissKI/SCS als graphbasierte Datenstruktur modelliert und erfasst werden können.
+2) Darauf aufbauend werden **unstrukturierte Konservierungs- und Restaurierungsdaten an einem konkreten Beispiel analysiert und strukturiert.**
 
-## Ziel: 
+3) Abschließend wird betrachtet, wie die strukturierten Informationen in **WissKI/SCS als graphbasierte Datenstruktur modelliert und erfasst** werden können.
 
-Damit führt Modul 2 von der Dokumentation als Quelle für Forschungsdaten über deren Analyse und Strukturierung hin zu ihrer digitalen Modellierung und Erfassung. Die Strukturierung wird dabei nicht ausschließlich als technischer Aufbereitungsschritt verstanden, sondern als Teil des wissenschaftlichen Erschließungsprozesses. Sie schafft die Voraussetzung dafür, in der Konservierungs- und Restaurierungsdokumentation enthaltene Informationen systematisch zu verknüpfen, unterschiedliche Zusammenhänge sichtbar zumachen und die Daten für weiterführende Forschungsfragen sowie für eine nachhaltige wissenschaftliche Nachnutzung verfügbar zu machen.
+## Ziel
+
+Ziel des Moduls ist es, den Prozess der **Überführung vorhandener Konservierungs- und Restaurierungsdokumentation in strukturierte und modellierbare Forschungsdaten** nachvollziehbar zu machen. 
+
+Im Mittelpunkt stehen dabei die Analyse und fachlische Erschließung vorhandener Informationen, ihre Strukturierung mithilfe geeigneter Metadaten sowie ihre anschließende digitale Modellierung und Erfassung.
+
+Die Strukturierung wird dabei nicht ausschließlich als technischer Aufbereitungsschritt verstanden, sondern als **Teil des wissenschaftlichen Erschließungsprozesses**. Sie schafft die Voraussetzung dafür, in der Konservierungs- und Restaurierungsdokumentation enthaltene Informationen systematisch zu verknüpfen, unterschiedliche Zusammenhänge sichtbar zumachen und die Daten für weiterführende Forschungsfragen sowie für eine nachhaltige wissenschaftliche Nachnutzung verfügbar zu machen.
 
 
 

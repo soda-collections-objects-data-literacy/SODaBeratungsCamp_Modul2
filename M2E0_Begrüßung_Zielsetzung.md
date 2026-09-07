@@ -28,7 +28,7 @@ Einheit 0: **Begrüßung und Zielsetzung**
 
 > Herzlich willkommen zum SODa BeratungsCamp: Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung
 >
-> Dieses Modul 2 bietet eine praxisorientierte Einführung in die Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten. Anhand zweier medienarchäologischer Erschließungsbeispiele werden Wege von der vorhandenen Dokumentation über die strukturierte Datenerfassung bis hin zur graphbasierten Modellierung aufgezeigt.
+> Dieses Modul 2 bietet eine praxisorientierte Einführung in die Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten. Anhand medienarchäologischer Erschließungsbeispiele werden Wege von der vorhandenen Dokumentation über die strukturierte Datenerfassung bis hin zur graphbasierten Modellierung aufgezeigt.
 
 ---
 

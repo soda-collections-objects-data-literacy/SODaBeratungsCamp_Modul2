@@ -70,6 +70,9 @@ Das Beispiel MEGA65 verdeutlicht, wie stark relevante Informationen über unters
 
 ??[MEGA65](https://mega65.org/)
 
+![MEGA65](https://mega65.org/)
+
+[preview-lia](https://mega65.org/)
 
 >
 > - Projektwebseite: [MEGA65 - 8-Bit Computer](https://mega65.org)

@@ -54,7 +54,7 @@ Gleichzeitig können diese Informationen in sehr unterschiedlichen Dokumentation
 
 **Leitfrage:**
 
-> Wie gelangen wir von einer bereits vorhandenen Dokumentation zu strukturierten Daten?
+> Wie gelangen wir von einer bereits vorhandenen Dokumentation zu strukturierten KuR-Daten?
 
 In bestehenden Dokumentationen sind relevante Informationen häufig nicht bereits als einzelne Datenfelder vorhanden. Sie können beispielsweise in Fließtexten, Abbildungen, technischen Beschreibungen, Projektwebseiten oder unterschiedlichen analogen und digitalen Informationsquellen enthalten sein.
 

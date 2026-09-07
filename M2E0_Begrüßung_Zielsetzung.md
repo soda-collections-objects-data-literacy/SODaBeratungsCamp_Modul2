@@ -91,7 +91,7 @@ Der Prozess wird am Beispiel der **medienarchäologischen Erschließung** in **d
 
 3) Abschließend wird betrachtet, wie die strukturierten Informationen in **WissKI/SCS als graphbasierte Datenstruktur modelliert und erfasst** werden können.
 
-## Ziel: Von heterogenen Informationen zu strukturierten Forschungsdaten
+## Ziel von Modul 2: Von heterogenen Informationen zu strukturierten Forschungsdaten
 
 Ziel des Moduls ist es, den Prozess der **Überführung vorhandener Konservierungs- und Restaurierungsdokumentation in strukturierte und modellierbare Forschungsdaten** nachvollziehbar zu machen. 
 

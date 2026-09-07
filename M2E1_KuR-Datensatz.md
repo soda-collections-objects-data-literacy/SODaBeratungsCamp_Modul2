@@ -36,7 +36,7 @@ Lernende können...
 
 ---
 
-## 1.1 Was sind Metadaten
+## 1.1 Was sind Metadaten und Metadatenschemata
 
 > Hinweis:
 > Im folgenden übernommen aus dem SODa Selbstlernkurs: Einführung (Digitale) Provenienzforschung. Themenblock 3 - Strukturierung von Provenienzangaben. [x]
@@ -55,9 +55,7 @@ Im Forschungsdatenmanagement werden häufig verschiedene Arten von Metadaten unt
 
 - **Strukturelle Metadaten** beschreiben, wie einzelne Informationen verknüpft sind.
 
-> **Exkurs: Metadatenschemas**
-> 
-> Ein Metadatenschema legt fest, welche Informationen zu einem Objekt oder einer Ressource erfasst werden, wie diese Informationen benannt werden und welche Felder verpflichtend oder wiederholbar sind.
+Ein **Metadatenschema** legt fest, welche Informationen zu einem Objekt oder einer Ressource erfasst werden, wie diese Informationen benannt werden und welche Felder verpflichtend oder wiederholbar sind.
 
 ---
 

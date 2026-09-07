@@ -57,6 +57,33 @@ NFDI4Objects: seit November 2024: Temporary Working Group (TWG) "Community-Stand
 > Weiterführende Informationen unter:
 
 
+### Aufbau
+- modulare Struktur
+- unterschiedliche Verpflichtungsgrade
+- Sektionen
+- Conservation Metadata Terminology
+
+
+### Verpflichtungsgrade
+- Pflicht
+- Bedingte Pflicht
+- Empfohlen
+- Optional
+
+| Sektionen | Verpflichtungsgrad | URI |
+|--------|--------|------|
+| Objektkennzeichnung | Pflicht | https://www.w3id.org/conservation/terms/metadata/B51DAF |
+| Objektbeschreibung | Pflicht | https://www.w3id.org/conservation/terms/metadata/DA2D73 |
+| Zustandserfassung | Pflicht | https://www.w3id.org/conservation/terms/metadata/F52262 |
+| Untersuchung | Bedingte Pflicht | https://www.w3id.org/conservation/terms/metadata/B3FCA1 |
+| Probenahme | Bedingte Pflicht | https://www.w3id.org/conservation/terms/metadata/CD5C3 |
+| Erhaltungskonzept | Pflicht | https://www.w3id.org/conservation/terms/metadata/BAA258 |
+| Gefährdungsbewertung | Bedingte Pflicht | https://www.w3id.org/conservation/terms/metadata/BAA258 |
+| Präventive Konservierung | Empfohlen | https://www.w3id.org/conservation/terms/metadata/C93638 |
+| Administrative Metadaten | Pflicht | https://www.w3id.org/conservation/terms/metadata/AC16G1 |
+| Verwendete Literatur | Optional | https://www.w3id.org/conservation/terms/metadata/F2AG55 |
+
+
 
 ---
 

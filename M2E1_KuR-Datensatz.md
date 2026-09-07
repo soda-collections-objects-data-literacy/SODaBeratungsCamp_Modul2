@@ -54,25 +54,29 @@ Das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierung
 
 NFDI4Objects: seit November 2024: Temporary Working Group (TWG) "Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbens" 
 
-> Weiterführende Informationen unter:
+liegt in Version 1,0 vor.
 
+---
 
-### Aufbau
+### Aufbau des KuR-MDS, Version 1.0
 
-- modulare Struktur
+- **modulare Struktur:** Die zu konservierenden und restaurierenden Objekte stammen aus unterschiedlichen kulturellen und historischen Kontexten und unterscheiden sich entsprechend in Material, Funktion und Erhaltungszustand. Zudem werden Objekte häufig nur partiell und im Rahmen konkreter Ausstellungs-, Forschungs- oder anderer Vorhaben bearbeitet. Die Restaurierungsprozesse und ihre Dokumentationen sind daher sehr unterschiedlich und umfassen nicht immer alle Aspekte des Restaurierungsprozesses. Das KuR-MDS ist deshalb modular aufgebaut und ermöglicht eine bedarfsgerechte Dokumentation der jeweils relevanten Informationen.
 
-- Sektionen
+- **Sektionen:** Der KuR-MDS strukturiert die grundlegenden "Prozesse im Umgang mit Kunst- und Kulturgut im Kontext konservatorisch-restauratorischer Arbeiten" [x] in 11 übergeordnete Kategorien, die als Sektionen bezeichnet werden. Die einzelnen Sektionen umfassen jeweils spezifische Metadatenelemente, denen ein Verpflichtungsgrad und zugeordnet ist.
 
-- Verpflichtungsgrade
+- **Verpflichtungsgrade:** Für die Sektionen und Metadatenelemente des KuR-MDS sind unterschiedliche Verpflichtungsgrade definiert. Ingesgesamt gibt es vier Verpflichtungsgrade:
+
+  - **Pflicht:** Das Metadatenelement ist in jeder vollständigen Restaurierungsdokumentation zu erfassen.
+    
+  - **Bedingte Pflicht:** Das Metadatenelement ist unter bestimmten Umständen verpflichtend zu erfassen, wenn die entsprechenden Maßnahmen Bestandteil des zu dokumentierenden restauratorischen Prozesses sind.
+    
+  - **Empfohlen:** Das Metadatenelement bezieht sich auf Informationen, die aus einer soezifischen fachlichen Sicht relevant sind. Ihr Fehlen beeinträchtigt das grundsätzliche Verständnis der Dokumentation nichtm ihre Erfassung verbessert jedoch deren Qualität und Nachnutzbarkeit.
+    
+  - **Optional:** Das Metadatenelement dient der Erweiterung des KuR-MDS für spezifische Fachdisziplinen und Arbeitskontexte sowie für einen kontextspezifischen Ausbau der Dokumentation.
   
-- Conservation Metadata Terminology
+- **Conservation Metadata Terminology:** Sowohl die Sektionen als auch die Metadatenelemente vefügen über eindeutige URI, die in der Conservation Metadata Terminology dokumentiert ist.
 
-
-### Verpflichtungsgrade
-- Pflicht
-- Bedingte Pflicht
-- Empfohlen
-- Optional
+---
 
 | Sektionen | Verpflichtungsgrad | URI (Conservation Metadata Terminology) |
 |--------|--------|------|
@@ -91,7 +95,7 @@ NFDI4Objects: seit November 2024: Temporary Working Group (TWG) "Community-Stand
 
 > **Hinweis:**  
 > 
-> Detallierte Informationen zu Hintergrund, Konzeption und Nachnutzung des KuR-MDS bietet das [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/). Die dort bereitgestellte Dokumentation umfasst eine detaillierte Beschreibung von Zweck und Funktion der einzelnen Sektionen sowie einen Überblick über die in den jeweiligen Sektionen enthaltenen Metadatenelemente, deren Verpflichtungsgrad und die dazugehörigen URIs. Die im Conservation Data Framework bereitgestellten Inhalte stehen unter der CC BY 4.0-Lizenz und können unter Angabe der Quelle frei nachgenutzt werden.
+> Detallierte Informationen zu Hintergrund, fachlichem und konzeptuellen Rahmen sowie Nachnutzung des KuR-MDS bietet das [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/). Die dort bereitgestellte Dokumentation umfasst eine detaillierte Beschreibung von Zweck und Funktion der einzelnen Sektionen sowie einen Überblick über die in den jeweiligen Sektionen enthaltenen Metadatenelemente, deren Verpflichtungsgrad und die dazugehörigen URIs. Die im Conservation Data Framework bereitgestellten Inhalte stehen unter der CC BY 4.0-Lizenz und können unter Angabe der Quelle frei nachgenutzt werden.
 
 
 

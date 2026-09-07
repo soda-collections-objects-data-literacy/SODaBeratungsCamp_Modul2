@@ -68,7 +68,7 @@ Das Beispiel MEGA65 verdeutlicht, wie stark relevante Informationen über unters
 
 **Beipiel:**
 
-![MEGA65](https://mega65.org/)
+??[MEGA65](https://mega65.org/)
 
 
 >

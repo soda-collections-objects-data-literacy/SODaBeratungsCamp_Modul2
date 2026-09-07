@@ -61,8 +61,9 @@ Im Forschungsdatenmanagement werden häufig verschiedene Arten von Metadaten unt
 
 ---
 
-## 1.2 Metadaten in der Konservierungs- und Restaurierungsdokumentation
+## 1.2 Metadaten und Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation
 
+Die Konservierungs- und Restaurierungsdokumentation umfasst häufig heterogene Informationen und Daten, die in unterschiedlichen Formen, Datentypen und Dateiformaten vorliegen und in unterschiedlichen fachlichen Zusammenhängen entstehen und nachgenutzt werden. So können etwa schriftliche Restaurierungsberichte, Fotografien, Röntgenaufnahmen, Messdaten oder Zeichnugnen Bestandteil einer Dokumentation sein. Damit die unterschiedlichen Informationen über ihren ursprünglichen Dokumentationszusammenhang hinaus auffindbar, miteinander verknüpfbar und nachnutzbar werden, bedarf es einer nachvollziehbaren und systematischen Strukturierung.
 
 
 ---

@@ -45,7 +45,14 @@ Einheit 0: **Begrüßung und Zielsetzung**
 
 Das SODa BeratungsCamp unterstützt unterstützt die Kompetenzentwicklung im Forschungsdatenmanagement (FDM) mit Fokus auf strukturierte Daten in der Konservierungs- und Restaurierungsdokumentation.
 
-Das 90-minütige Modul umfasst 4 Einheiten: (0) Begrüßung und Zielsetzung, (1) Das KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten, (2) Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten am konkreten Beispiel (3) Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstruktur. Das Modul wird aktiv moderiert und gemeinsam gestaltet; Teilnehmende sind eingeladen, Erfahrungen und Fragestellungen einzubringen.
+Das 90-minütige Modul umfasst 4 Einheiten: 
+
+- (0) Begrüßung und Zielsetzung
+- (1) Das KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten
+- (2) Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten am konkreten Beispiel
+- (3) Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstruktur.
+
+Das Modul wird aktiv moderiert und gemeinsam gestaltet; Teilnehmende sind eingeladen, Erfahrungen und Fragestellungen einzubringen.
 
 ---
 

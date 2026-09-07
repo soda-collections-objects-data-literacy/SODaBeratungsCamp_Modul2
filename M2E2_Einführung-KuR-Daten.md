@@ -28,15 +28,15 @@ Einheit 2: **Analyse und Strukturierung unstrukturierter Konservierungs- und Res
 
 Lernende können...
 
-2.1 unterschiedliche Formen und Quellen von Dokumentationsdaten im Kontext medienarchäologischer Erschließung benennen.
+2.1  unterschiedliche Formen und Quellen von Dokumentationsdaten im Kontext medienarchäologischer Erschließung benennen.
 
-2.2 konservierungs- und restaurierungsrelevante Informationen in heterogenen und unstrukturierten Dokumentationen benennen.
+2.2  konservierungs- und restaurierungsrelevante Informationen in heterogenen und unstrukturierten Dokumentationen benennen.
 
-2.3 Kategorien des KuR-MDS für unstrukturierte Dokumentationen anwenden.
+2.3  Kategorien des KuR-MDS für unstrukturierte Dokumentationen anwenden.
 
-2.4 Fehlende, mehrdeutige oder nur implizit dokumentierte Informationen benennen.
+2.4  Fehlende, mehrdeutige oder nur implizit dokumentierte Informationen benennen.
 
-2.5 Herausforderungen bei der Überführung unstrukturierter Dokumentationen in strukturierte Forschungsdaten erläutern.
+2.5  Herausforderungen bei der Überführung unstrukturierter Dokumentationen in strukturierte Forschungsdaten erläutern.
 
 ---
 
@@ -160,18 +160,19 @@ Eine Information kann beispielsweise am vorhandenen Objekt beobachtet, einer his
 
 Für eine strukturierte Konservierungs- und Restaurierungsdokumentation reicht es daher nicht aus, lediglich festzuhalten, welche Information vorliegt. Ebenso relevant ist, woher sie stammt, in welchem Zusammenhang sie entstanden ist und wie sie erschlossen wurde.
 
->
+
+
 > Strukturierung bedeutet deshalb nicht nur, vorhandene Informationen zu ordnen, sondern auch ihre Zusammenhänge und Entstehungskontexte nachvollziehbar zu machen.
->
+
 
 
 ## 1.3 Übung: Dokumentation lesen und annotieren 
 
-> Übung: Gruppenarbeit
-> 
-> - Gruppe 1 und 2: CircuitLab – Rave Racer
+Übung: Gruppenarbeit
+
+> Gruppe 1 und 2: CircuitLab – Rave Racer
 >   
-> - Gruppe 3 und 4: MEGA e. V. – T42 / Tennis for Two
+> Gruppe 3 und 4: MEGA e. V. – T42 / Tennis for Two
 > 
 > In den beiden vorgestellten Beispielen liegen Informationen zur medienarchäologischen Erschließung in Form von Projektdokumentationen vor.
 > 
@@ -204,8 +205,9 @@ Zunächst vergleichen jeweils die beiden Gruppen, die dasselbe Beispiel bearbeit
 > Dauer: ca. 4 Min.
 > 
 
-Anschließend werden die beiden Beispiele miteinander verglichen.
 
+> Anschließend werden die beiden Beispiele miteinander verglichen.
+>
 > Diskussion und Vergleich im Plenum
 >
 > Welche Informationen ließen sich unmittelbar aus der Dokumentation entnehmen?
@@ -219,7 +221,8 @@ Anschließend werden die beiden Beispiele miteinander verglichen.
 > Welche für eine strukturierte Dokumentation relevanten Informationen fehlten?
 > 
 > Dauer: ca. 3 Min.
->
+
+
 
 **Fazit:**
 

@@ -95,7 +95,7 @@ Der Prozess wird am Beispiel der **medienarchäologischen Erschließung** in **d
 
 Ziel des Moduls ist es, den Prozess der **Überführung vorhandener Konservierungs- und Restaurierungsdokumentation in strukturierte und modellierbare Forschungsdaten** nachvollziehbar zu machen. 
 
-Im Mittelpunkt stehen dabei die Analyse und fachlische Erschließung vorhandener Informationen, ihre Strukturierung mithilfe geeigneter Metadaten sowie ihre anschließende digitale Modellierung und Erfassung.
+Im Mittelpunkt stehen dabei die Analyse und fachliche Erschließung vorhandener Informationen, ihre Strukturierung mithilfe geeigneter Metadaten sowie ihre anschließende digitale Modellierung und Erfassung.
 
 Die Strukturierung wird dabei nicht ausschließlich als technischer Aufbereitungsschritt verstanden, sondern als **Teil des wissenschaftlichen Erschließungsprozesses**. Sie schafft die Voraussetzung dafür, in der Konservierungs- und Restaurierungsdokumentation enthaltene Informationen systematisch zu verknüpfen, unterschiedliche Zusammenhänge sichtbar zumachen und die Daten für weiterführende Forschungsfragen sowie für eine nachhaltige wissenschaftliche Nachnutzung verfügbar zu machen.
 

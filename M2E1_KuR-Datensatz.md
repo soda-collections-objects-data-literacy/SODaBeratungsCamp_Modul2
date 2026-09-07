@@ -28,9 +28,6 @@ Einheit 1: **Das KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und
 
 Lernende können...
 
-- das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) benennen.
-- das NFDI4Objects Conservation Data Framework Online-Portal benennen.
-- 
 ---
 
 ## Voraussetzung
@@ -41,6 +38,28 @@ Lernende können...
 
 ## 1.1 Was sind Metadaten
 
+> Hinweis:
+> Im folgenden übernommen aus dem SODa Selbstlernkurs: Einführung (Digitale) Provenienzforschung. Themenblock 3 - Strukturierung von Provenienzangaben. [x]
+
+"Metadaten beinhalten strukturierte Informationen über Daten (z. B. Forschungsdaten) oder andere Ressourcen und deren Merkmale. Sie werden entweder unabhängig von oder zusammen mit den Daten, die sie beschreiben, abgespeichert." [x]
+
+Metadaten sind vereinfacht gesagt "Daten über Daten". Sie enthalten strukturierte Informationen über Daten, Objekte oder andere Ressourcen und machen diese identifizierbar, auffindbar und interpretierbar.
+
+Im Forschungsdatenmanagement werden häufig verschiedene Arten von Metadaten unterschieden.
+
+- Deskreptive Metadaten:
+
+- Administrative Metadaten:
+
+- Technische Metadaten:
+
+- Strukturelle Metadaten:
+
+> **Exkurs: Metadatenschemas**
+> 
+> Ein Metadatenschema legt fest, welche Informationen zu einem Objekt oder einer Ressource erfasst werden, wie diese Informationen benannt werden und welche Felder verpflichtend oder wiederholbar sind.
+
+
 ---
 
 
@@ -48,17 +67,13 @@ Lernende können...
 
 ---
 
-## 1.3 Das KuR-MDS
+## 1.3 Das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)
 
-Das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) 
-
-NFDI4Objects: seit November 2024: Temporary Working Group (TWG) "Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbens" 
-
-liegt in Version 1,0 vor.
+Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)** wurde von den Mitgliedern der **NFDI4Objects-TWG "Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbens"** in einem iterativen Prozess und unter enger Rückbindung an die Fachcommunity entwickelt. Das KuR-MDS liegt derzeit in der Version 1.0 vor (Stand: 07.09.2026).
 
 ---
 
-### Aufbau des KuR-MDS, Version 1.0
+## 1.4 Aufbau und grundlegende Begriffe des KuR-MDS
 
 - **modulare Struktur:** Die zu konservierenden und restaurierenden Objekte stammen aus unterschiedlichen kulturellen und historischen Kontexten und unterscheiden sich entsprechend in Material, Funktion und Erhaltungszustand. Zudem werden Objekte häufig nur partiell und im Rahmen konkreter Ausstellungs-, Forschungs- oder anderer Vorhaben bearbeitet. Die Restaurierungsprozesse und ihre Dokumentationen sind daher sehr unterschiedlich und umfassen nicht immer alle Aspekte des Restaurierungsprozesses. Das KuR-MDS ist deshalb modular aufgebaut und ermöglicht eine bedarfsgerechte Dokumentation der jeweils relevanten Informationen.
 
@@ -76,7 +91,14 @@ liegt in Version 1,0 vor.
   
 - **Conservation Metadata Terminology:** Sowohl die Sektionen als auch die Metadatenelemente sind in der Conservation Metadate Terminology definiert. Die Definitionen umfassen unter anderem folgende Angaben: **Begriffsdefinition, Verpflichtungsgrad, Feldwert, Wiederholbarkeit, Verwendungshinweis sowie eine eindeutige URI**.
 
+
+> **Hinweis:**  
+> 
+> Detallierte Informationen zu Hintergrund, fachlichem und konzeptuellen Rahmen sowie Nachnutzung des KuR-MDS bietet das [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/). Die dort bereitgestellte Dokumentation umfasst eine detaillierte Beschreibung von Zweck und Funktion der einzelnen Sektionen sowie einen Überblick über die in den jeweiligen Sektionen enthaltenen Metadatenelemente, deren Verpflichtungsgrad und die dazugehörigen URIs. Die im Conservation Data Framework bereitgestellten Inhalte stehen unter der CC BY 4.0-Lizenz und können unter Angabe der Quelle frei nachgenutzt werden.
+
 ---
+
+## 1.5 Überblick über die Sektionen
 
 | Sektionen | Verpflichtungsgrad | URI (Conservation Metadata Terminology) |
 |--------|--------|------|
@@ -91,16 +113,13 @@ liegt in Version 1,0 vor.
 | Administrative Metadaten | Pflicht | https://www.w3id.org/conservation/terms/metadata/AC16G1 |
 | Verwendete Literatur | Optional | https://www.w3id.org/conservation/terms/metadata/F2AG55 |
 
-> Tabellenunterschrift
-
-> **Hinweis:**  
-> 
-> Detallierte Informationen zu Hintergrund, fachlichem und konzeptuellen Rahmen sowie Nachnutzung des KuR-MDS bietet das [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/). Die dort bereitgestellte Dokumentation umfasst eine detaillierte Beschreibung von Zweck und Funktion der einzelnen Sektionen sowie einen Überblick über die in den jeweiligen Sektionen enthaltenen Metadatenelemente, deren Verpflichtungsgrad und die dazugehörigen URIs. Die im Conservation Data Framework bereitgestellten Inhalte stehen unter der CC BY 4.0-Lizenz und können unter Angabe der Quelle frei nachgenutzt werden.
-
-
-
+> Tabellenunterschrift:
 
 ---
+
+## 1.6 Weiterführende Hinweise und wichtige Links
+
+## 1.7 Beispiel
 
 ## Quellenangaben
 
@@ -111,6 +130,8 @@ Fischer, K., & Lasse Mempel-Länger. (2025, October 16). Aufbau eines Minimalmet
 Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. Zenodo. https://doi.org/10.5281/zenodo.14135529
 
 Lasse Mempel-Länger, Fischer, K., Witt, N., Gulbins, G., Schwenk, G. A., Schoel, E., & Zettner, H. (2025). Standardisierung der Konservierungs-Restaurierungs-Dokumentation - Minimaldatensatz für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [Graphic]. Zenodo. NFDI4Objects Community Meeting 2025, Bochum. https://doi.org/10.5281/zenodo.17151310
+
+Zöllner, G., & Reichert, R. (2026). Selbstlernkurs: Einführung in die Digitale Provenienzforschung (Version v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22296350
 
 ---
 

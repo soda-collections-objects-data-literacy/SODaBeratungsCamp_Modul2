@@ -36,17 +36,22 @@ Lernende können...
 
 ---
 
-## 1.1 Kurze Projektvorstellung
+## 1.1 Von der Dokumentation zu strukturierten KuR-Daten
+
+
+## 1.2 Medienarchäologische Beispiele
 
 - CurcuitLab Rave Racer
 - MEGA e.V. T42
 
----
 
-## 1.2 Annotationaaufgabe 
+## 1.3 Annotationaaufgabe 
 
 - Grundlage E1
 - Annotationsvorlagen vorbereiten (Canan)
+
+
+## 1.4 Vergleich und gemeinsame Auswertung
 
 ---
 

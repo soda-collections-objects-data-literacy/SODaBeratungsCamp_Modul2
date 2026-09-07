@@ -63,7 +63,7 @@ Die Kenntnis der Inhalte aus Modul 1: Arbeiten mit strukturierten Daten in der K
 
 ---
 
-## Rückblick Modul 1: *Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation*
+## Rückblick Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation
 
 Im **ersten Modul** wurden in **Einheit 1 *Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie die Reflexion eigener Rollen, Bedarfe und Kompetenzen*** die **Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM)** mit Fokus auf konservierungs- und restaurierungsspezifische Herausforderungen vermittelt und die **eigene Rolle im FDM** reflektiert. In **Einheit 2 *Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen*** wurde die Konservierungs- und Restaurierungsdokumentation als ein Bereich vorgestellt, in dem kontinuierlich **relevante Forschungsdaten** entstehen. 
 
@@ -77,7 +77,7 @@ Damit wird deutlich, dass die **wissenschaftliche Relevanz der Konservierungs- u
 
 Ausgehend von diesem Verständnis als Forschungsdaten stellt sich die weiterführende Frage, **wie die in der Konservierungs- und Restaurierungsdokumentation enthaltenen Informationen analysiert, erschlossen und strukturiert werden können, um eine wissenschaftliche Nutzung und Nachnutzung zu ermöglichen.**
 
-## Überleitung zu Modul 2 *Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung*
+## Überleitung zu Modul 2: Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung
 
 Hier setzt **Modul 2 *Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung*** an.
 
@@ -91,7 +91,7 @@ Der Prozess wird am Beispiel der **medienarchäologischen Erschließung** in **d
 
 3) Abschließend wird betrachtet, wie die strukturierten Informationen in **WissKI/SCS als graphbasierte Datenstruktur modelliert und erfasst** werden können.
 
-## Ziel
+## Ziel: Von heterogenen Informationen zu strukturierten Forschungsdaten
 
 Ziel des Moduls ist es, den Prozess der **Überführung vorhandener Konservierungs- und Restaurierungsdokumentation in strukturierte und modellierbare Forschungsdaten** nachvollziehbar zu machen. 
 

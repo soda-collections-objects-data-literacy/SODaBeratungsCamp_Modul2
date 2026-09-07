@@ -65,8 +65,9 @@ Im Forschungsdatenmanagement werden häufig verschiedene Arten von Metadaten unt
 
 Die Konservierungs- und Restaurierungsdokumentation umfasst häufig **heterogene Informationen und Daten**, die in **unterschiedlichen Formen, Datentypen und Dateiformaten** vorliegen und in **unterschiedlichen fachlichen Zusammenhängen** entstehen. So können etwa schriftliche Restaurierungsberichte, Fotografien, Röntgenaufnahmen, Messdaten oder Zeichnugnen Bestandteil einer Dokumentation sein. Damit die unterschiedlichen Informationen über ihren ursprünglichen Dokumentationszusammenhang hinaus **auffindbar**, miteinander **verknüpfbar** und **nachnutzbar** werden, bedarf es einer **nachvollziehbaren und systematischen Strukturierung**.
 
-Metadaten ...
-Metadatenschemata ...
+- **Metadaten** ermöglichen es, solche Informationen zu beschreiben, zu kontextualisieren und gezielt auffindbar zu machen.
+
+- **Metadatenschemata** schaffen dafür eine gemeinsame fachliche Struktur, indem sie Regeln festlegen, welche Informationen erfasst und definieren, wie sie einheitlich beschrieben werden können.
 
 ---
 

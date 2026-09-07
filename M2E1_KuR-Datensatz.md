@@ -47,23 +47,23 @@ Metadaten sind vereinfacht gesagt "Daten über Daten". Sie enthalten strukturier
 
 Im Forschungsdatenmanagement werden häufig verschiedene Arten von Metadaten unterschieden.
 
-- Deskreptive Metadaten:
+- **Deskreptive Metadaten** beschreiben ein Objekt und seinen Kontext.
 
-- Administrative Metadaten:
+- **Administrative Metadaten** regeln organisatorische, rechtliche oder technische Rahmenbedingungen.
 
-- Technische Metadaten:
+- **Technische Metadaten** beschreiben die digitale Datei, nicht das Objekt selbst.
 
-- Strukturelle Metadaten:
+- **Strukturelle Metadaten** beschreiben, wie einzelne Informationen verknüpft sind.
 
 > **Exkurs: Metadatenschemas**
 > 
 > Ein Metadatenschema legt fest, welche Informationen zu einem Objekt oder einer Ressource erfasst werden, wie diese Informationen benannt werden und welche Felder verpflichtend oder wiederholbar sind.
 
-
 ---
 
+## 1.2 Metadaten in der Konservierungs- und Restaurierungsdokumentation
 
-## 1.2 Warum Metadaten in der Konservierungs- und Restaurierungsdokumentation
+
 
 ---
 

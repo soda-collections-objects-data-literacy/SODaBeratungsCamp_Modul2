@@ -74,7 +74,7 @@ liegt in Version 1,0 vor.
     
   - **Optional:** Das Metadatenelement dient der Erweiterung des KuR-MDS für spezifische Fachdisziplinen und Arbeitskontexte sowie für einen kontextspezifischen Ausbau der Dokumentation.
   
-- **Conservation Metadata Terminology:** Sowohl die Sektionen als auch die Metadatenelemente vefügen über eindeutige URI, die in der Conservation Metadata Terminology dokumentiert ist.
+- **Conservation Metadata Terminology:** Sowohl die Sektionen als auch die Metadatenelemente sind in der Conservation Metadate Terminology definiert. Die Definitionen umfassen unter anderem folgende Angaben: **Begriffsdefinition, Verpflichtungsgrad, Feldwert, Wiederholbarkeit, Verwendungshinweis sowie eine eindeutige URI**.
 
 ---
 

@@ -16,11 +16,11 @@ comment: Dieses Modul [Text ergänzen]
 
 # SODa BeratungsCamp 
 
-**Modul 2: [Titel des Moduls]**  
+**Modul 2: Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung**
 
-Einheit 1: **Vorstellung und Anwendung eines Minimalmetadatensatzes für Konservierungs- und Restaurierungsprozesse**  
+Einheit 1: **Das KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten**  
 
-**Dauer:** ~ 15 Min.
+**Dauer:** ~ 10 Min.
 
 ---
 
@@ -39,37 +39,36 @@ Lernende können...
 
 ---
 
-## 1.1 Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)
-
-Quick Recap - Modul 1
-
-"Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Daten! Diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden."
-
-
-Das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) ist eine Empfehlung zur standardisierten Dokumentation von konservierungs- und restaurierungsbezogenen Daten 
-
-
-
-
-
-
-## 1.1 xyz
-
-
-
-
-
-
+## 1.1 Was sind Metadaten
 
 ---
 
-## 1.2 xyz
+
+## 1.2 Warum Metadaten in der Konservierungs- und Restaurierungsdokumentation
+
+---
+
+## 1.3 Das KuR-MDS
+
+Das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) 
+
+NFDI4Objects: seit November 2024: Temporary Working Group (TWG) "Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbens" 
+
+> Weiterführende Informationen unter:
+
+
 
 ---
 
 ## Quellenangaben
 
 [1]
+
+Fischer, K., & Lasse Mempel-Länger. (2025, October 16). Aufbau eines Minimalmetadatensatzes für die Konservierung-Restaurierung. Zenodo. SODa Forum. https://doi.org/10.5281/zenodo.17367214
+
+Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. Zenodo. https://doi.org/10.5281/zenodo.14135529
+
+Lasse Mempel-Länger, Fischer, K., Witt, N., Gulbins, G., Schwenk, G. A., Schoel, E., & Zettner, H. (2025). Standardisierung der Konservierungs-Restaurierungs-Dokumentation - Minimaldatensatz für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [Graphic]. Zenodo. NFDI4Objects Community Meeting 2025, Bochum. https://doi.org/10.5281/zenodo.17151310
 
 ---
 

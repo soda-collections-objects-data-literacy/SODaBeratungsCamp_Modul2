@@ -58,9 +58,13 @@ NFDI4Objects: seit November 2024: Temporary Working Group (TWG) "Community-Stand
 
 
 ### Aufbau
+
 - modulare Struktur
-- unterschiedliche Verpflichtungsgrade
+
 - Sektionen
+
+- Verpflichtungsgrade
+  
 - Conservation Metadata Terminology
 
 
@@ -70,7 +74,7 @@ NFDI4Objects: seit November 2024: Temporary Working Group (TWG) "Community-Stand
 - Empfohlen
 - Optional
 
-| Sektionen | Verpflichtungsgrad | URI |
+| Sektionen | Verpflichtungsgrad | URI (Conservation Metadata Terminology) |
 |--------|--------|------|
 | Objektkennzeichnung | Pflicht | https://www.w3id.org/conservation/terms/metadata/B51DAF |
 | Objektbeschreibung | Pflicht | https://www.w3id.org/conservation/terms/metadata/DA2D73 |
@@ -82,6 +86,13 @@ NFDI4Objects: seit November 2024: Temporary Working Group (TWG) "Community-Stand
 | Präventive Konservierung | Empfohlen | https://www.w3id.org/conservation/terms/metadata/C93638 |
 | Administrative Metadaten | Pflicht | https://www.w3id.org/conservation/terms/metadata/AC16G1 |
 | Verwendete Literatur | Optional | https://www.w3id.org/conservation/terms/metadata/F2AG55 |
+
+> Tabellenunterschrift
+
+> **Hinweis:**  
+> 
+> Detallierte Informationen zu Hintergrund, Konzeption und Nachnutzung des KuR-MDS bietet das [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/). Die dort bereitgestellte Dokumentation umfasst eine detaillierte Beschreibung von Zweck und Funktion der einzelnen Sektionen sowie einen Überblick über die in den jeweiligen Sektionen enthaltenen Metadatenelemente, deren Verpflichtungsgrad und die dazugehörigen URIs. Die im Conservation Data Framework bereitgestellten Inhalte stehen unter der CC BY 4.0-Lizenz und können unter Angabe der Quelle frei nachgenutzt werden.
+
 
 
 

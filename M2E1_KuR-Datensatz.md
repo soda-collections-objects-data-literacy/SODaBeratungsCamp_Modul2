@@ -143,6 +143,12 @@ Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsd
 
 ## 1.7 Beispiel
 
+---
+
+## 1.8 Ausblick
+
+---
+
 ## Quellenangaben
 
 [1]

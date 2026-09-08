@@ -189,15 +189,15 @@ orcid: https://orcid.org/0009-0002-3156-8339
 
 email: g.schwenk@igsd-ev.de
 
-sessiontitle: 
+sessiontitle: Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung
 
 sessionnumber: 2
 
-unittitle: 
+unittitle: Das KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten
 
-unitnumber: 2
+unitnumber: 1
 
-duration unit: 20 Minuten (PT0H20M)
+duration unit: 10 Minuten (PT0H10M)
 
 rights: CC-BY 4.0
 
@@ -225,4 +225,4 @@ runtime environment: https://liascript.github.io
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
 
-references:
+references: 

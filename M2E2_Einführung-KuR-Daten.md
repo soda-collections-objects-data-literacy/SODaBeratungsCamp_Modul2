@@ -16,7 +16,7 @@ comment: Dieses Modul [Text ergänzen]
 
 # SODa BeratungsCamp 
 
-**Modul 2: [Titel des Moduls]**  
+**Modul 2: Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung**  
 
 Einheit 2: **Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten**  
 

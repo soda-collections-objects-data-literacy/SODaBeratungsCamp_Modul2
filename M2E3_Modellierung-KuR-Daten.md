@@ -18,7 +18,7 @@ comment: Dieses Modul [Text ergänzen]
 
 **Modul 2: [Titel des Moduls]**  
 
-Einheit 1: **Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstruktur**  
+Einheit 3: **Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstruktur**  
 
 **Dauer:** ~ 45 Min.
 
@@ -36,7 +36,7 @@ Lernende können...
 
 ---
 
-## 1.1 Ereignisorientierte Erfassung von Konservierungs- und Restaurierungsmaßnahmen im WissKI/SCS
+## 3.1 Ereignisorientierte Erfassung von Konservierungs- und Restaurierungsmaßnahmen im WissKI/SCS
 
 **Ereigniszentrierte Datenerfassung im SCS**
 
@@ -56,13 +56,13 @@ Diese ereigniszentrierte Perspektive ist für die Datenerfassung zunächst ungew
 - Vorstellung Datensatz Rave Racer
 ---
 
-## 1.2 Gemeinsame Aufgabe
+## 3.2 Gemeinsame Aufgabe
 
 - T42 erfassen
   
 ---
 
-## 1.3 Diskussion
+## 3.3 Diskussion
 
 
 ## Quellenangaben
@@ -87,11 +87,11 @@ orcid: https://orcid.org/0009-0002-3156-8339
 
 email: g.schwenk@igsd-ev.de
 
-sessiontitle: 
+sessiontitle: Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung
 
 sessionnumber: 2
 
-unittitle: 
+unittitle: Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstruktur
 
 unitnumber: 3  
 

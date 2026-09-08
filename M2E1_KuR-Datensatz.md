@@ -161,6 +161,8 @@ Lasse Mempel-Länger, Fischer, K., Witt, N., Gulbins, G., Schwenk, G. A., Schoel
 
 Zöllner, G., & Reichert, R. (2026). Selbstlernkurs: Einführung in die Digitale Provenienzforschung (Version v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22296350
 
+https://museumsvokabular.de/metadatenvokabular-konservierung-restaurierung/
+
 ---
 
 ### Metadaten

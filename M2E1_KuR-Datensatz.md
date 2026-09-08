@@ -127,10 +127,17 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
   
 - **Online-Portal:** https://nfdi4objects.github.io/n4o_conservation_data_framework/
 
-
 **Conservation Metadata Terminology:**
 
 - **Katalog:** https://conservationdata.github.io/terms/metadata.html
+
+**Mockup-App für Konservierungsdaten:**   
+Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsdaten auf Basis des KuR-MDS. 
+
+- https://conservationdata.github.io/docu/#/
+
+> Hinweis:  
+> Die Angebote wurden innerhalb der Temporary Working Group Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes innerhalb des Konsortiums NFDI4Objects entwickelt.
 
 ---
 

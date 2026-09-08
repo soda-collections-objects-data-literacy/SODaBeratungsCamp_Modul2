@@ -251,15 +251,15 @@ orcid: https://orcid.org/0009-0002-3156-8339
 
 email: g.schwenk@igsd-ev.de
 
-sessiontitle: 
+sessiontitle: Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung
 
 sessionnumber: 2
 
-unittitle: 
+unittitle: Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten
 
-unitnumber: 1  
+unitnumber: 2  
 
-duration unit: 15 Minuten (PT0H15M)
+duration unit: 30 Minuten (PT0H30M)
 
 rights: CC-BY 4.0
 

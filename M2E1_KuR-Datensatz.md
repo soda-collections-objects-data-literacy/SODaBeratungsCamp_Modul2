@@ -41,7 +41,7 @@ Lernende können...
 > Hinweis:
 > Im folgenden übernommen aus dem SODa Selbstlernkurs: Einführung (Digitale) Provenienzforschung. Themenblock 3 - Strukturierung von Provenienzangaben. [x]
 
-"Metadaten beinhalten strukturierte Informationen über Daten (z. B. Forschungsdaten) oder andere Ressourcen und deren Merkmale. Sie werden entweder unabhängig von oder zusammen mit den Daten, die sie beschreiben, abgespeichert." [x]
+**"Metadaten beinhalten strukturierte Informationen über Daten (z. B. Forschungsdaten) oder andere Ressourcen und deren Merkmale. Sie werden entweder unabhängig von oder zusammen mit den Daten, die sie beschreiben, abgespeichert."** [x, herv. v. V.]
 
 Metadaten sind vereinfacht gesagt "Daten über Daten". Sie enthalten strukturierte Informationen über Daten, Objekte oder andere Ressourcen und machen diese identifizierbar, auffindbar und interpretierbar.
 
@@ -79,9 +79,9 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
 
 - **modulare Struktur:** Die zu konservierenden und restaurierenden Objekte stammen aus unterschiedlichen kulturellen und historischen Kontexten und unterscheiden sich entsprechend in Material, Funktion und Erhaltungszustand. Zudem werden Objekte häufig nur partiell und im Rahmen konkreter Ausstellungs-, Forschungs- oder anderer Vorhaben bearbeitet. Die Restaurierungsprozesse und ihre Dokumentationen sind daher sehr unterschiedlich und umfassen nicht immer alle Aspekte des Restaurierungsprozesses. Das KuR-MDS ist deshalb modular aufgebaut und ermöglicht eine bedarfsgerechte Dokumentation der jeweils relevanten Informationen.
 
-- **Sektionen:** Der KuR-MDS strukturiert die grundlegenden "Prozesse im Umgang mit Kunst- und Kulturgut im Kontext konservatorisch-restauratorischer Arbeiten" [x] in 11 übergeordnete Kategorien, die als Sektionen bezeichnet werden. Die einzelnen Sektionen umfassen jeweils spezifische Metadatenelemente, denen ein Verpflichtungsgrad und zugeordnet ist.
+- **Sektionen:** Der KuR-MDS strukturiert die grundlegenden "Prozesse im Umgang mit Kunst- und Kulturgut im Kontext konservatorisch-restauratorischer Arbeiten" [x] in 11 **übergeordnete Kategorien**, die als Sektionen bezeichnet werden. Die einzelnen Sektionen umfassen jeweils spezifische **Metadatenelemente**, denen ein **Verpflichtungsgrad** und zugeordnet ist.
 
-- **Verpflichtungsgrade:** Für die Sektionen und Metadatenelemente des KuR-MDS sind unterschiedliche Verpflichtungsgrade definiert. Ingesgesamt gibt es vier Verpflichtungsgrade:
+- **Verpflichtungsgrade:** Für die Sektionen und Metadatenelemente des KuR-MDS sind unterschiedliche Verpflichtungsgrade definiert. Ingesgesamt gibt es **vier Verpflichtungsgrade**:
 
   - **Pflicht:** Das Metadatenelement ist in jeder vollständigen Restaurierungsdokumentation zu erfassen.
     
@@ -96,7 +96,7 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
 
 > **Hinweis:**  
 > 
-> Detallierte Informationen zu Hintergrund, fachlichem und konzeptuellen Rahmen sowie Nachnutzung des KuR-MDS bietet das [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/). Die dort bereitgestellte Dokumentation umfasst eine detaillierte Beschreibung von Zweck und Funktion der einzelnen Sektionen sowie einen Überblick über die in den jeweiligen Sektionen enthaltenen Metadatenelemente, deren Verpflichtungsgrad und die dazugehörigen URIs. Die im Conservation Data Framework bereitgestellten Inhalte stehen unter der CC BY 4.0-Lizenz und können unter Angabe der Quelle frei nachgenutzt werden.
+> Detallierte Informationen zu Hintergrund, fachlichem und konzeptuellen Rahmen sowie Nachnutzung des KuR-MDS bietet das [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/). Die dort bereitgestellte Dokumentation umfasst eine detaillierte Beschreibung von Zweck und Funktion der einzelnen Sektionen sowie einen Überblick über die und eine Beschreibung der in den jeweiligen Sektionen enthaltenen Metadatenelemente, den Verpflichtungsgrad und die dazugehörigen URIs. Die im Conservation Data Framework bereitgestellten Inhalte stehen unter der CC BY 4.0-Lizenz und können unter Angabe der Quelle frei nachgenutzt werden.
 
 ---
 
@@ -115,11 +115,24 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
 | Administrative Metadaten | Pflicht | https://www.w3id.org/conservation/terms/metadata/AC16G1 |
 | Verwendete Literatur | Optional | https://www.w3id.org/conservation/terms/metadata/F2AG55 |
 
-> Tabellenunterschrift:
+> Quelle: [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/)
 
 ---
 
 ## 1.6 Weiterführende Hinweise und wichtige Links
+
+**NFDI4Objects Conservation Data Framework (CDF):**
+
+- **Github-Repositorium:** https://github.com/nfdi4objects/n4o_conservation_data_framework
+  
+- **Online-Portal:** https://nfdi4objects.github.io/n4o_conservation_data_framework/
+
+
+**Conservation Metadata Terminology:**
+
+- **Katalog:** https://conservationdata.github.io/terms/metadata.html
+
+---
 
 ## 1.7 Beispiel
 

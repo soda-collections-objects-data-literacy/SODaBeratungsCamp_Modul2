@@ -6,9 +6,9 @@ title: SODa BeratungsCamp - Einheit 1
 version: v1.0.0
 language: DE
 
-icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
-link:     https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul1/refs/heads/main/soda.css
-          https://fonts.googleapis.com/css?family=Noto+Sans
+icon: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/refs/heads/main/assets/SODa-Logo_full.svg
+
+link: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/refs/heads/main/soda.css
 
 comment: Dieses Modul [Text ergänzen]
 -->
@@ -131,7 +131,7 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
 
 **Zweck und Funktion**
 
-![Beispiel Sektion Erhaltungskonzept](assets/2026_09_09-CDF_Erhaltungskonzept.png)
+![Beispiel Sektion Erhaltungskonzept](../SODaBeratungsCamp_Modul2/assets/2026_09_09-CDF_Erhaltungskonzept.png)
 
 >**Abbildung:** Beschreibung von Zweck und Funktion der Sektion *Erhaltungskonzept* aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/06_conservation_plan.html) (Stand: 09.09.2026)  
 

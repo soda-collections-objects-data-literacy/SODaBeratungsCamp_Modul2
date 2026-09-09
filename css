@@ -1,0 +1,63 @@
+/* Noto Sans importieren */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;600;700&display=swap');
+
+:root {
+  --soda-light: 255,169,51;
+  --soda-dark: 255,169,51;
+  --color-highlight-dark: 255,169,51 !important;
+  --color-highlight-menu: 255,169,51 !important;
+  --color-highlight: 255,169,51 !important;
+  --font-size-base: 16px;
+  --font-size-base1: 12px;
+}
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: var(--font-size-base);
+}
+
+/* Überschriften explizit in Noto Sans */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Noto Sans', sans-serif !important;
+}
+
+/* Links */
+a,
+a:visited,
+a:link {
+  color: orange !important;
+}
+
+/* --------------------------------------------------------- */
+/*   TABELLEN: Schriftgrößen + Ausrichtung + Dynamik         */
+/* --------------------------------------------------------- */
+
+table {
+  font-size: 8px !important;
+  border-collapse: collapse;
+  table-layout: auto;
+  width: 100%;
+}
+
+table th {
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  padding: 1px 1px;
+  text-align: left !important;
+  vertical-align: top !important;
+  white-space: normal !important;
+  word-wrap: break-word;
+  overflow-wrap: anywhere;
+  height: auto !important;
+}
+
+table td {
+  font-size: 8px !important;
+  padding: 1px 1px;
+  text-align: left !important;
+  vertical-align: top !important;
+  white-space: normal !important;
+  word-wrap: break-word;
+  overflow-wrap: anywhere;
+  height: auto !important;
+}

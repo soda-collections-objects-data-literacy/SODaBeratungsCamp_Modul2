@@ -68,6 +68,14 @@ Diese ereigniszentrierte Perspektive ist für die Datenerfassung zunächst ungew
 
 >**Abbildung** Text
 
+
+<br><br><br>
+**Überschrift**
+
+![Visualisierung ereignisorientierte Erfassung des Erhaltungsmaßnahme](assets/2026_09_09-EreignisorientierteErfassungErhaltungsmasznahme.png)
+
+>**Abbildung** Text
+
 ---
 
 - Vorstellung Datensatz Rave Racer

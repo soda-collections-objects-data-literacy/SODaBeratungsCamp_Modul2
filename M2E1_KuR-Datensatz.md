@@ -127,6 +127,10 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
 
 ---
 
+###
+
+![Beispiel Sektion Erhaltungskonzept](../assets/2026_09_09-CDF_Erhaltungskonzept.png)
+
 ## 1.6 Weiterführende Hinweise und wichtige Links 
 
 **NFDI4Objects Conservation Data Framework (CDF):**

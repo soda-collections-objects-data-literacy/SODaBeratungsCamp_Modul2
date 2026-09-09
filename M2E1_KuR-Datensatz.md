@@ -99,7 +99,7 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
     
   - **Optional:** Das Metadatenelement dient der Erweiterung des KuR-MDS für spezifische Fachdisziplinen und Arbeitskontexte sowie für einen kontextspezifischen Ausbau der Dokumentation.
   
-- **Conservation Metadata Terminology:**[7] Sowohl die Sektionen als auch die Metadatenelemente sind in der Conservation Metadate Terminology definiert. Die Definitionen umfassen unter anderem folgende Angaben: **Begriffsdefinition, Verpflichtungsgrad, Feldwert, Wiederholbarkeit, Verwendungshinweis sowie eine eindeutige URI**.
+- **Conservation Metadata Terminology:**[7] Sowohl die Sektionen als auch die Metadatenelemente sind in der Conservation Metadata Terminology definiert. Die Definitionen umfassen unter anderem folgende Angaben: **Begriffsdefinition, Verpflichtungsgrad, Feldwert, Wiederholbarkeit, Verwendungshinweis sowie eine eindeutige URI**.
 
 
 > **Hinweis:**  
@@ -127,11 +127,19 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
 
 ---
 
-###
+## 1.6 Beispiel: Sektion Erhaltungskonzept
 
-![Beispiel Sektion Erhaltungskonzept](../assets/2026_09_09-CDF_Erhaltungskonzept.png)
+![Beispiel Sektion Erhaltungskonzept](assets/2026_09_09-CDF_Erhaltungskonzept.png)
 
-## 1.6 Weiterführende Hinweise und wichtige Links 
+>**Abbildung:** Beschreibung von Zweck und Funktion der Sektion *Erhaltungskonzept* aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/06_conservation_plan.html)
+
+![Beispiel Metadatenelemente Sektion Erhaltungskonzept](assets/2026_09_09-CDF_MetadatenelementeErhaltungskonzept.png)
+
+>**Abbildung** Überblick über die Metadatenelemente der Sektion *Erhaltungskonzept* mit entsprechenden Verpflichtungsgraden und Conservation Metadata Terminology-URIs
+
+---
+
+## 1.7 Weiterführende Hinweise und wichtige Links 
 
 **NFDI4Objects Conservation Data Framework (CDF):**
 
@@ -150,10 +158,6 @@ Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsd
 
 > Hinweis:  
 > Die Angebote wurden innerhalb der Temporary Working Group Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes innerhalb des Konsortiums NFDI4Objects entwickelt.
-
----
-
-## 1.7 Beispiel
 
 ---
 

@@ -140,7 +140,7 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
 <br><br><br>
 **Metadaten der Sektion Erhaltungskonzept**
 
-![Beispiel Metadatenelemente Sektion Erhaltungskonzept](../assets/2026_09_09-CDF_MetadatenelementeErhaltungskonzept.png)
+![Beispiel Metadatenelemente Sektion Erhaltungskonzept](/assets/2026_09_09-CDF_MetadatenelementeErhaltungskonzept.png)
 
 >**Abbildung:** Überblick über die Metadatenelemente der Sektion *Erhaltungskonzept* mit entsprechenden Verpflichtungsgraden und Conservation Metadata Terminology-URIs aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/06_conservation_plan.html) (Stand: 09.09.2026)
 

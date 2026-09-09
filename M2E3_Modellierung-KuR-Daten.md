@@ -48,9 +48,13 @@ Die in WissKI/SCS verwendete Modellierung orientiert sich dabei am **CIDOC Conce
 
 **Perspektivwechsel bei der Dateneingabe**
 
-Diese ereigniszentrierte Perspektive ist für die Datenerfassung zunächst ungewohnt: Statt ausschließklich vom Objekt und seinen Eigenschaften auszugehen, steht das **Ereignis der Konservierungs- und Restaurierungsmaßnahme** im Mittelpunkt. Für die Erfassung im WissKI/SCS bedeutet dies, die jeweiligen Maßnahme zunächst als Ereignis zu denken und zu erfassen und die daran beteiligten Objekte, Personen, Materialien, Werkzeuge, Untersuchungen und weiteren Informationen mit diesem Ereignis in Beziehung zu setzen.
+Diese ereigniszentrierte Perspektive ist für die Datenerfassung zunächst ungewohnt: Statt ausschließlich vom Objekt und seinen Eigenschaften auszugehen, steht das **Ereignis der Konservierungs- und Restaurierungsmaßnahme** im Mittelpunkt. Für die Erfassung im WissKI/SCS bedeutet dies, die jeweiligen Maßnahme zunächst als Ereignis zu denken und zu erfassen und die daran beteiligten Objekte, Personen, Materialien, Werkzeuge, Untersuchungen und weiteren Informationen mit diesem Ereignis in Beziehung zu setzen.
 
 ---
+
+## 3.2 Beispiel
+
+
 
 
 - Vorstellung Datensatz Rave Racer

@@ -64,6 +64,10 @@ Diese ereigniszentrierte Perspektive ist für die Datenerfassung zunächst ungew
 <br><br><br>
 **Überschrift**
 
+![Visualisierung ereignisorientierte Erfassung des Anlasses der Erhaltungsmaßnahme](assets/2026_09_09-EreignisorientierteErfassungWissKISCS1.png)
+
+>**Abbildung** Text
+
 ---
 
 - Vorstellung Datensatz Rave Racer

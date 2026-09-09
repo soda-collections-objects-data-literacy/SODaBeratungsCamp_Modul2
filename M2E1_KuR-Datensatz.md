@@ -130,6 +130,12 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
 
 ## 1.6 Beispiel: Sektion Erhaltungskonzept
 
+![Beispiel Sektion Erhaltungskonzept](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/ZustaendigePerson.png)
+
+richtig:
+![Beispiel Sektion Erhaltungskonzept](https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/main/assets/ZustaendigePerson.png)
+
+
 **Zweck und Funktion**
 
 ![Beispiel Sektion Erhaltungskonzept](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_09_09-CDF_Erhaltungskonzept.png)

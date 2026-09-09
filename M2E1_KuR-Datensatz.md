@@ -11,6 +11,7 @@ icon: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/S
 link: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/refs/heads/main/soda.css
 
 comment: Dieses Modul [Text ergänzen]
+
 -->
 
 
@@ -131,7 +132,7 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
 
 **Zweck und Funktion**
 
-![Beispiel Sektion Erhaltungskonzept](../SODaBeratungsCamp_Modul2/assets/2026_09_09-CDF_Erhaltungskonzept.png)
+![Beispiel Sektion Erhaltungskonzept](../assets/2026_09_09-CDF_Erhaltungskonzept.png)
 
 
 >**Abbildung:** Beschreibung von Zweck und Funktion der Sektion *Erhaltungskonzept* aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/06_conservation_plan.html) (Stand: 09.09.2026)  

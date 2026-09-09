@@ -54,8 +54,17 @@ Diese ereigniszentrierte Perspektive ist für die Datenerfassung zunächst ungew
 
 ## 3.2 Beispiel
 
+**Überschrift**
+
+![Visualisierung Erfassung als Eigenschaft des Objekts](assets/2026_09_09-ModellierungalsObjekteigenschaft.png)
+
+>**Abbildung** Text
 
 
+<br><br><br>
+**Überschrift**
+
+---
 
 - Vorstellung Datensatz Rave Racer
 ---

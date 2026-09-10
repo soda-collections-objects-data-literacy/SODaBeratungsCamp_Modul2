@@ -67,7 +67,9 @@ Unterschieden werden hierbei das **Erfassungsformat, das Speicherformat und das 
 
 ## 1.2 Relevanz von Metadaten und Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation
 
-Die Konservierungs- und Restaurierungsdokumentation umfasst häufig **heterogene Informationen und Daten**, die in **unterschiedlichen Formen, Datentypen und Dateiformaten** vorliegen und in **unterschiedlichen fachlichen Zusammenhängen** entstehen. So können etwa schriftliche Restaurierungsberichte, Fotografien, Röntgenaufnahmen, Messdaten oder Zeichnugnen Bestandteil einer Dokumentation sein. Damit die unterschiedlichen Informationen über ihren ursprünglichen Dokumentationszusammenhang hinaus **auffindbar**, miteinander **verknüpfbar** und **nachnutzbar** werden, bedarf es einer **nachvollziehbaren und systematischen Strukturierung**.
+Die Konservierungs- und Restaurierungsdokumentation (KuR) umfasst **heterogene Informationen und Daten**, die in **unterschiedlichen Formen, Datentypen, Dateiformaten und Quellen** vorliegen, da sie in der Regel in **unterschiedlichen fachlichen Zusammenhängen** entstehen. So können etwa schriftliche Restaurierungsberichte, Fotografien, Röntgenaufnahmen, Messdaten, Zeichnugnen, Programmcode, Anleitungen, technische Spezifikationen uvm. Bestandteil einer KuR-Dokumentation sein. 
+
+Damit die unterschiedlichen Informationen über ihren ursprünglichen Dokumentationszusammenhang hinaus **auffindbar**, miteinander **verknüpfbar** und **nachnutzbar** werden, bedarf es einer **nachvollziehbaren und systematischen Strukturierung**.
 
 - **Metadaten** ermöglichen es, solche Informationen zu beschreiben, zu kontextualisieren und gezielt auffindbar zu machen.
 
@@ -87,11 +89,19 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
 
 ## 1.4 Aufbau und grundlegende Begriffe des KuR-MDS
 
-- **modulare Struktur:** Die zu konservierenden und restaurierenden Objekte stammen aus unterschiedlichen kulturellen und historischen Kontexten und unterscheiden sich entsprechend in Material, Funktionl, Erhaltungszustand und -anforderungen. Zudem werden Objekte häufig nur partiell und im Rahmen konkreter Ausstellungs-, Forschungs- oder anderer Vorhaben bearbeitet. Die Restaurierungsprozesse und ihre Dokumentationen sind daher sehr unterschiedlich und umfassen nicht immer alle Aspekte des Restaurierungsprozesses. Das KuR-MDS ist deshalb modular aufgebaut und ermöglicht eine bedarfsgerechte Dokumentation der jeweils relevanten Informationen [6].
+Das KuR-MDS besitzt eine **modulare Struktur** und ermöglicht eine bedarfsgerechte KuR-Dokumentation. [6]
 
-- **Sektionen:** Der KuR-MDS strukturiert die grundlegenden "Prozesse im Umgang mit Kunst- und Kulturgut im Kontext konservatorisch-restauratorischer Arbeiten" [6] in **elf übergeordnete Kategorien**, die als Sektionen bezeichnet werden. Die einzelnen Sektionen umfassen jeweils spezifische **Metadatenelemente**, denen ein **Verpflichtungsgrad** und zugeordnet ist [6].
+Die zu konservierenden und restaurierenden Objekte stammen aus unterschiedlichen kulturellen und historischen Kontexten und unterscheiden sich in Material, Funktion, Erhaltungszustand und -anforderungen. 
 
-- **Verpflichtungsgrade:** Für die Sektionen und Metadatenelemente des KuR-MDS sind unterschiedliche Verpflichtungsgrade definiert. Ingesgesamt gibt es **vier Verpflichtungsgrade** [6]:
+Objekte werden häufig nur partiell und im Rahmen konkreter Ausstellungs-, Forschungs- oder anderer Vorhaben bearbeitet. 
+
+Die KuR-Prozesse und ihre Dokumentationen sind daher sehr unterschiedlich und umfassen nicht immer alle Aspekte des Restaurierungsprozesses.
+
+
+  
+Der KuR-MDS strukturiert die grundlegenden "Prozesse im Umgang mit Kunst- und Kulturgut im Kontext konservatorisch-restauratorischer Arbeiten" [6] in **elf übergeordnete Kategorien**, die als **Sektionen** bezeichnet werden. 
+
+Für die einzelnen **Sektionen** und den zugehörigen spezifischen **KuR-Metadatenelementen** sind **Verpflichtungsgrade** zugeordnet. Ingesgesamt gibt es **vier Verpflichtungsgrade**: [6]
 
   - **Pflicht:** Das Metadatenelement ist in jeder vollständigen Restaurierungsdokumentation zu erfassen.
     
@@ -101,7 +111,8 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
     
   - **Optional:** Das Metadatenelement dient der Erweiterung des KuR-MDS für spezifische Fachdisziplinen und Arbeitskontexte sowie für einen kontextspezifischen Ausbau der Dokumentation.
   
-- **Conservation Metadata Terminology:**[7] Sowohl die Sektionen als auch die Metadatenelemente sind in der Conservation Metadata Terminology definiert. Die Definitionen umfassen unter anderem folgende Angaben: **Begriffsdefinition, Verpflichtungsgrad, Feldwert, Wiederholbarkeit, Verwendungshinweis sowie eine eindeutige URI**.
+
+Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der **Conservation Metadata Terminology** definiert. [7] Die Definitionen umfassen unter anderem folgende Angaben: **Begriffsdefinition, Verpflichtungsgrad, Feldwert, Wiederholbarkeit, Verwendungshinweis sowie eine eindeutige URI**.
 
 
 > **Hinweis:**  
@@ -125,32 +136,32 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
 | Administrative Metadaten | Pflicht | https://www.w3id.org/conservation/terms/metadata/AC16G1 |
 | Verwendete Literatur | Optional | https://www.w3id.org/conservation/terms/metadata/F2AG55 |
 
+
 > Quelle: [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/)
 
 ---
 
 ## 1.6 Beispiel: Sektion Erhaltungskonzept
 
-**Zweck und Funktion**
+### Zweck und Funktion
 
 ![Beispiel Sektion Erhaltungskonzept](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_09_09-CDF_Erhaltungskonzept.png)
 
 
 >**Abbildung:** Beschreibung von Zweck und Funktion der Sektion *Erhaltungskonzept* aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/06_conservation_plan.html) (Stand: 09.09.2026)  
 
+---
 
-<br><br><br>
-**Metadaten der Sektion Erhaltungskonzept**
+### Metadaten der Sektion Erhaltungskonzept
 
 ![Beispiel Metadatenelemente Sektion Erhaltungskonzept](https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/main/assets/2026_09_09-CDF_MetadatenelementeErhaltungskonzept.png)
 
 
 >**Abbildung:** Überblick über die Metadatenelemente der Sektion *Erhaltungskonzept* mit entsprechenden Verpflichtungsgraden und Conservation Metadata Terminology-URIs aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/06_conservation_plan.html) (Stand: 09.09.2026)
 
+---
 
-
-<br><br><br>
-**Definition des Metadatums Zuständige Person**
+### Definition des Metadatums Zuständige Person
 
 ![Beispiel Eintrag Zuständige Person (Erhaltungsmaßnahme) aus Conservation Metadata Terminology](/assets/2026_09_09-CDF_CMT_ZustaendigePerson.png)
 
@@ -167,17 +178,21 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
   
 - **Online-Portal:** https://nfdi4objects.github.io/n4o_conservation_data_framework/
 
+
 **Conservation Metadata Terminology:**
 
 - **Katalog:** https://conservationdata.github.io/terms/metadata.html
+
 
 **Mockup-App für Konservierungsdaten:**   
 Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsdaten auf Basis des KuR-MDS. 
 
 - https://conservationdata.github.io/docu/#/
 
-> Hinweis:  
-> Die Angebote wurden innerhalb der Temporary Working Group Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes innerhalb des Konsortiums NFDI4Objects entwickelt.
+
+> **Hinweis:**  
+> Die Angebote wurden innerhalb der Temporary Working Group Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes innerhalb des Konsortiums
+> NFDI4Objects entwickelt.
 
 ---
 

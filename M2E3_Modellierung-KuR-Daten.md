@@ -38,7 +38,7 @@ Lernende können...
 
 ## 3.1 Ereignisorientierte Erfassung von Konservierungs- und Restaurierungsmaßnahmen im WissKI/SCS
 
-**Ereigniszentrierte Datenerfassung im SCS**
+**Ereignisorientierte Datenerfassung im SCS**
 
 Für die digitale Erfassung von Konservierungs- und Restaurierungsdaten wird im Folgenden der **Semantic Coworking Space (SCS)** als eine von SODa entwickelte cloudbasierte Arbeitsumgebung vorgestellt. Der SCS stellt verschiedene digitale Werkzeuge für die Arbeit mit Sammlungsdaten bereit, darunter die virtuelle Forschungsumgebung **WissKI (WissenschaftlicheInfrastruktur)** zur **strukturierten Erfassung und Modellierung von Daten**. [x] Neben einem grundlegenden Datenmodell stehen dabei auch **fachspezifische Modellierungen**, sogenannte *Flavours*, zur Verfügung. Das im SCS verwendete Modell für Konservierungs- und Restuarierungsdaten [x] orientiert sich an dem zuvor eingeführten KuR-MDS [Link einfügen].
 
@@ -52,13 +52,16 @@ Diese ereigniszentrierte Perspektive ist für die Datenerfassung zunächst ungew
 
 ---
 
-## 3.2 Ereigniszentrierte Perspektive bei der Datenerfassung am Beispiel
+## 3.2 Ereignisorientierte Perspektive bei der Datenerfassung am Beispiel
 
 **Vom KuR-MDS zur Eingabemaske**
 
+Die erste Abbildung zeigt einen Ausschnitt des Beschreibungstextes der **Sektion "Erhaltungskonzept"** sowie die zugehörigen **Metadaten aus dem KuR-MDS**. Dazu gehören beispielsweise **"Anlass der Erhaltungsmaßnahmen"** und 
+**"Konservatorische Zielsetzung"** (Planungsphase) sowie Angaben zur **"Erhaltungsmaßnahme"** selbst, etwa die **"Zuständige Person"** (Durchführungsphase). In der Mockup-App werden diese Metadaten in Form einer Eingabemaske visualisiert, die einer **vertrauten Erfassungsoberfläche** entspricht. Die einzelnen **Erfassungsfelder sind hierarchisch angeordnet** und bilden die im KuR-MDS definierte Struktur ab.
+
 ![Visualisierung Erfassung als Eigenschaft des Objekts](assets/2026_09_09-ModellierungalsObjekteigenschaft.png)
 
->**Abbildung:** Die Abbildung zeigt einen Ausschnitt des Beschreibungstextes der Sektion "Erhaltungskonzept" sowie die zugehörigen Metadaten. Dazu gehören beispielsweise "Anlass der Erhaltungsmaßnahme" und "Konservatorische Zielsetzung" (Planungsphase) sowie Angaben zur "Erhaltungsmaßnahme" selbst, etwa die "Zuständige Person" (Durchführungsphase). In der Mockup-App werden diese Metadaten in Form einer Eingabemaskevisualisiert, die einer vertauten Erfassungsoberfläche entspricht. Die einzelnen Erfassungsfelder sind hierarisch angeordnet und bilden die im KuR-MDS definierte Struktur ab.
+>**Abbildung:** Ausschnitt des KuR-MDS als hierarchisch strukturierte Eingabemaske in der Mockup-App
 
 
 <br><br><br>
@@ -75,7 +78,7 @@ Damit wird ein zentraler Unterschied zur vertrauten Eingabemaske deutlich: **Bei
 
 
 <br><br><br>
-**Die "Zuständige Person" aks Teil einer Ereignisstruktur**
+**Die "Zuständige Person" als Teil einer Ereignisstruktur**
 
 Die dritte Abbildung zeigt am BVeispiel der "Zuständigen Person (Erhaltungsmaßnahme)", wie eine im KuR-MDS hierarchisch unter der Erhaltungsmaßnahme eingeordnete Information im WissKI/SCS als Teil eine Ereignisstruktur erfasst wird. Während die "Zuständige Person" in der vertrauten Eingabemaske unmittelbar als Angabe zur Erhaltungsmaßnahme erscheint, wird sie im WissKI/SCS über eine dazwischenliegende **Activity** modelliert: Die Erhaltungsmaßnahme (*Preservation*) 
 **beginnt mit einer Aktivität** (*Begins with activity*). Für diese Aktivität wird anschließend die ausführende Person über **Carried out by** erfasst.

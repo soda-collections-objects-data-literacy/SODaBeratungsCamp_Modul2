@@ -57,7 +57,7 @@ Diese ereigniszentrierte Perspektive ist für die Datenerfassung zunächst ungew
 **Vom KuR-MDS zur Eingabemaske**
 
 Die erste Abbildung zeigt einen Ausschnitt des Beschreibungstextes der **Sektion "Erhaltungskonzept"** sowie die zugehörigen **Metadaten aus dem KuR-MDS**. Dazu gehören beispielsweise **"Anlass der Erhaltungsmaßnahmen"** und 
-**"Konservatorische Zielsetzung"** (Planungsphase) sowie Angaben zur **"Erhaltungsmaßnahme"** selbst, etwa die **"Zuständige Person"** (Durchführungsphase). In der Mockup-App werden diese Metadaten in Form einer Eingabemaske visualisiert, die einer **vertrauten Erfassungsoberfläche** entspricht. Die einzelnen **Erfassungsfelder sind hierarchisch angeordnet** und bilden die im KuR-MDS definierte Struktur ab.
+**"Konservatorische Zielsetzung"** (Planungsphase) sowie Angaben zur **"Erhaltungsmaßnahme"** selbst, etwa die **"Zuständige Person"** (Durchführungsphase). In der Mockup-App werden diese Metadaten in Form einer Eingabemaske visualisiert, die einer **vertrauten Erfassungsoberfläche** entspricht. Die einzelnen **Erfassungsfelder sind hierarchisch angeordnet**, sie bilden die hierarchische Struktur des KuR-MDS ab.
 
 <br><br><br>
 ![Visualisierung Erfassung als Eigenschaft des Objekts](assets/2026_09_09-ModellierungalsObjekteigenschaft.png)
@@ -86,6 +86,8 @@ Die dritte Abbildung zeigt am BVeispiel der "Zuständigen Person (Erhaltungsmaß
 
 Auch hier wird deutlich, dass die Erfassung im WissKI/SCS nicht ausschließlich der hierarchischen Anordnung von Eingabefeldern folgt. Die im KuR-MDS als "Zuständige Person" bezeichnete Information wird vielmehr über die Aktivität mit der Erhaltungsmaßnahme verknüpft. Dadurch kann nicht nur festgehalten werden, **wer** an einer Maßnahme beteiligt war, sondern zugleich, **im Zusammenhang mit welcher Aktivität** diese Person beteiligt war.
 
+
+<br><br><br>
 ![Visualisierung ereignisorientierte Erfassung des Erhaltungsmaßnahme](assets/2026_09_09-EreignisorientierteErfassungErhaltungsmasznahme.png)
 
 >**Abbildung:** Ereigniszentrierte Erfassung der "Zuständigen Person" über eine Aktivität im WissKI/SCS.

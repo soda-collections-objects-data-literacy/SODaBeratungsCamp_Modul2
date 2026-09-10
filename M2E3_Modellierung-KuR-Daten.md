@@ -59,6 +59,7 @@ Diese ereigniszentrierte Perspektive ist für die Datenerfassung zunächst ungew
 Die erste Abbildung zeigt einen Ausschnitt des Beschreibungstextes der **Sektion "Erhaltungskonzept"** sowie die zugehörigen **Metadaten aus dem KuR-MDS**. Dazu gehören beispielsweise **"Anlass der Erhaltungsmaßnahmen"** und 
 **"Konservatorische Zielsetzung"** (Planungsphase) sowie Angaben zur **"Erhaltungsmaßnahme"** selbst, etwa die **"Zuständige Person"** (Durchführungsphase). In der Mockup-App werden diese Metadaten in Form einer Eingabemaske visualisiert, die einer **vertrauten Erfassungsoberfläche** entspricht. Die einzelnen **Erfassungsfelder sind hierarchisch angeordnet** und bilden die im KuR-MDS definierte Struktur ab.
 
+<br><br><br>
 ![Visualisierung Erfassung als Eigenschaft des Objekts](assets/2026_09_09-ModellierungalsObjekteigenschaft.png)
 
 >**Abbildung:** Ausschnitt des KuR-MDS als hierarchisch strukturierte Eingabemaske in der Mockup-App

@@ -16,7 +16,7 @@ comment: Dieses Modul [Text ergänzen]
 
 # SODa BeratungsCamp 
 
-**Modul 2: [Titel des Moduls]**  
+**Modul 2: Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung**  
 
 Einheit 3: **Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstruktur**  
 
@@ -32,7 +32,7 @@ Lernende können...
 
 ## Voraussetzung
 
-*keine*
+*BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen*
 
 ---
 

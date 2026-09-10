@@ -52,21 +52,26 @@ Diese ereigniszentrierte Perspektive ist für die Datenerfassung zunächst ungew
 
 ---
 
-## 3.2 Beispiel
+## 3.2 Ereigniszentrierte Perspektive bei der Datenerfassung am Beispiel
 
-**Überschrift**
+**Vom KuR-MDS zur Eingabemaske**
 
 ![Visualisierung Erfassung als Eigenschaft des Objekts](assets/2026_09_09-ModellierungalsObjekteigenschaft.png)
 
->**Abbildung** Text
+>**Abbildung:** Die Abbildung zeigt einen Ausschnitt des Beschreibungstextes der Sektion "Erhaltungskonzept" sowie die zugehörigen Metadaten. Dazu gehören beispielsweise "Anlass der Erhaltungsmaßnahme" und "Konservatorische Zielsetzung" (Planungsphase) sowie Angaben zur "Erhaltungsmaßnahme" selbst, etwa die "Zuständige Person" (Durchführungsphase). In der Mockup-App werden diese Metadaten in Form einer Eingabemaskevisualisiert, die einer vertauten Erfassungsoberfläche entspricht. Die einzelnen Erfassungsfelder sind hierarisch angeordnet und bilden die im KuR-MDS definierte Struktur ab.
 
 
 <br><br><br>
-**Überschrift**
+**Von der Eingabemaske zurm Ereignismodell**
+
+Die erste Abbildung zeigt noch eine Erfassungslogik, die einer klassischen Eingabemaske entspricht. Die zweite Abbildung macht dagegen sichtbar, wie diese fachlichen Angaben im WissKI/SCS auf Grundlage des zugrunde liegenden Datenmodells erfasst werden. **Der im KuR-MDS als "Anlass der Erhaltungsmaßnahme** bezeichnete Aspekt wird dabei nicht als einfache Eigenschaft der Maßnahme erfasst, sondern als Bezug zu einem weiteren Ereignis modeliert. Im dargestellten Beispiel wird die Erhaltungsmaßnahme mit einem *Condition Assessment* verknüpft. Die Angabe *Connected with condition assessement* beschreibt diese Beziehung. Über *Create Condition assessment for reference* kann ein entsprechendes Ereignis angelegt und als Bezug zur Erhaltungsmaßnahme erfasst werden.
+
+Damit wird ein zentraler Unterschied zur vertrauten Eingabemaske deutlich: **Bei der Datenerfassung im WissKI/SCS müssen fachliche Angaben teilweise als eigenständige Ereignisse gedacht und erfasst werden.** Der "Anlass" ist somit nicht lediglich eine Information, die in ein Feld eingetragen wird, sondern kann selbst zum Ausgangspunkt einer weiteren Ereignisbeschreibung und ihrer Verknüpfung mit der Erhaltungsmaßnahme werden.
+
 
 ![Visualisierung ereignisorientierte Erfassung des Anlasses der Erhaltungsmaßnahme](assets/2026_09_09-EreignisorientierteErfassungWissKISCS1.png)
 
->**Abbildung** Text
+>**Abbildung:** Modellierung des "Anlasses der Erhaltungsmaßnahme" als verknüpftes Ereignis im WissKI/SCS
 
 
 <br><br><br>

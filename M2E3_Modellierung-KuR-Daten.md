@@ -44,11 +44,11 @@ Für die digitale Erfassung von Konservierungs- und Restaurierungsdaten wird im 
 
 Konservierungs- und Restaurierungsmaßnahmen sind **zeitlich begrenzte Ereignisse**, die sich auf ein oder mehrere Objekte beziehen und in deren Verlauf unterschiedliche Informationen zusammenkommen können. [x] Dazu gehören beispielsweise beteiligte Personen, verwendete Materialien und Werkzeuge, durchgeführte Untersuchungen, beobachtete Zustandsveränderungen sowie fachliche Bewertungen und Entscheidungen. Für die digitale Erfassung bedeutet dies, dass eine **Restaurierungsmaßnahme nicht lediglich als Eigenschaft eines Objekts erfasst wird, sondern als eigenständiges Ereignis, mit dem die jeweils relevanten Informationen verknüpft werden**. 
 
-Die in WissKI/SCS verwendete Modellierung orientiert sich dabei am **CIDOC Conceptual Reference Model (CIDOC CRM)** [x], das Beschreibungen komplexer Zusammenhänge im Bereich des Kulturellen Erbes über Ereignisse und die zwischen ihnen bestehenden Beziehungen ermöglicht. [x] Die ereigniszentrierte Modellierung bietet damit eine Möglichkeit, die unterschiedlichen Informationen, die im Verlauf einer Konservierungs- oder Restaurierungsmaßnahme entstehen, systematisch miteinander in Beziehung zu setzen.
+Die in WissKI/SCS verwendete Modellierung orientiert sich dabei am **CIDOC Conceptual Reference Model (CIDOC CRM)** [x], das Beschreibungen komplexer Zusammenhänge im Bereich des Kulturellen Erbes über Ereignisse und die zwischen ihnen bestehenden Beziehungen ermöglicht. [x] Die ereignisorientierte Modellierung bietet damit eine Möglichkeit, die unterschiedlichen Informationen, die im Verlauf einer Konservierungs- oder Restaurierungsmaßnahme entstehen, systematisch miteinander in Beziehung zu setzen.
 
 **Perspektivwechsel bei der Dateneingabe**
 
-Diese ereigniszentrierte Perspektive ist für die Datenerfassung zunächst ungewohnt: Statt ausschließlich vom Objekt und seinen Eigenschaften auszugehen, steht das **Ereignis der Konservierungs- und Restaurierungsmaßnahme** im Mittelpunkt. Für die Erfassung im WissKI/SCS bedeutet dies, die jeweiligen Maßnahme zunächst als Ereignis zu denken und zu erfassen und die daran beteiligten Objekte, Personen, Materialien, Werkzeuge, Untersuchungen und weiteren Informationen mit diesem Ereignis in Beziehung zu setzen.
+Diese ereignisorientierte Perspektive ist für die Datenerfassung zunächst ungewohnt: Statt ausschließlich vom Objekt und seinen Eigenschaften auszugehen, steht das **Ereignis der Konservierungs- und Restaurierungsmaßnahme** im Mittelpunkt. Für die Erfassung im WissKI/SCS bedeutet dies, die jeweiligen Maßnahme zunächst als Ereignis zu denken und zu erfassen und die daran beteiligten Objekte, Personen, Materialien, Werkzeuge, Untersuchungen und weiteren Informationen mit diesem Ereignis in Beziehung zu setzen.
 
 ---
 
@@ -90,7 +90,7 @@ Auch hier wird deutlich, dass die Erfassung im WissKI/SCS nicht ausschließlich 
 <br><br><br>
 ![Visualisierung ereignisorientierte Erfassung des Erhaltungsmaßnahme](assets/2026_09_09-EreignisorientierteErfassungErhaltungsmasznahme.png)
 
->**Abbildung:** Ereigniszentrierte Erfassung der "Zuständigen Person" über eine Aktivität im WissKI/SCS.
+>**Abbildung:** Ereignisorientierte Erfassung der "Zuständigen Person" über eine Aktivität im WissKI/SCS.
 
 ---
 

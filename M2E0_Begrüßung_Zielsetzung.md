@@ -66,7 +66,7 @@ Lernende können...
 
 *keine*
 
-Die Kenntnis der Inhalte aus Modul 1: Arbeiten mit strukturierten Daten in der Konservierungsdokumentation sind von Vorteil.
+Die Kenntnis der Inhalte aus Modul 1: Arbeiten mit strukturierten Daten in der Konservierungsdokumentation (https://doi.org/10.5281/zenodo.17832837) sind von Vorteil.
 
 ---
 
@@ -125,7 +125,11 @@ Die Strukturierung und Zuordnung zum KuR-MDS wird dabei nicht ausschließlich al
 
 Damit wird die Voraussetzung geschaffen, die in der Konservierungs- und Restaurierungsdokumentation entstehenden Forschungsdaten systematisch und nachhaltig zu sichern und zu verknüpfen um Zusammenhänge sichtbar zumachen um weiterführende Forschungsfragen zu ermöglichen und eine wissenschaftliche Nachnutzung zu gewährleisten.
 
+---
 
+## Bibliografie
+
+https://doi.org/10.5281/zenodo.17832837 
 
 
 

@@ -39,28 +39,29 @@ Lernende können...
 
 ## 1.1 Was sind Metadaten und Metadatenschemata
 
-> **Hinweis:**  
-> Im folgenden übernommen aus dem [SODa Selbstlernkurs: Einführung (Digitale) Provenienzforschung. Themenblock 3 - Strukturierung von Provenienzangaben](https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/Einfuehrung-in-die-Digitale-Provenienzforschung/main/OER-Einfuehrung-DPF_v1.0.md#1). [1]
+Es gibt zahlreiche **Definitionen:**
 
----
+„Metadaten sind strukturierte Daten, die Informationen über andere Daten beinhalten – Daten über Daten.“ [8]
 
-> **Definition:**
-> 
-> **"Metadaten beinhalten strukturierte Informationen über Daten (z. B. Forschungsdaten) oder andere Ressourcen und deren Merkmale. Sie werden entweder unabhängig von oder zusammen mit den Daten, die sie beschreiben, abgespeichert."** [2]
+„Metadaten beinhalten strukturierte Informationen über Daten (z.B. Forschungsdaten) oder andere Ressourcen und deren Merkmale. Sie werden entweder unabhängig von oder zusammen mit den Daten, die sie beschreiben, abgespeichert.“ [2]
 
-Metadaten sind vereinfacht gesagt "Daten über Daten". Sie enthalten strukturierte Informationen über Daten, Objekte oder andere Ressourcen und machen diese identifizierbar, auffindbar und interpretierbar.
+Metadaten „enthalten strukturierte Informationen über Daten, Objekte oder andere Ressourcen und machen diese identifizierbar, auffindbar und interpretierbar.“ [1]
 
-Im Forschungsdatenmanagement werden häufig verschiedene Arten von Metadaten unterschieden.
 
-- **Deskriptive Metadaten** beschreiben ein Objekt und seinen Kontext.
+Im Forschungsdatenmanagement werden **verschiedene Arten von Metadaten** unterschieden: [9]
 
-- **Administrative Metadaten** regeln organisatorische, rechtliche oder technische Rahmenbedingungen.
+- **Deskriptive Metadaten** beschreiben ein Objekt und seinen Kontext und dienen der Zieterbarkeit und Auffindbarkeit.
 
-- **Technische Metadaten** beschreiben die digitale Datei, nicht das Objekt selbst.
+- **Administrative Metadaten** regeln organisatorische, rechtliche oder technische Rahmenbedingungen und sind für die Verwaltung und langfristige Aufbewahrung der Daten notwendig.
 
-- **Strukturelle Metadaten** beschreiben, wie einzelne Informationen verknüpft sind.
+- **Technische Metadaten** beschreiben die digitale Datei, nicht das Objekt selbst und werden in der Regel automatisch generiert.
 
-Ein **Metadatenschema** legt fest, welche Informationen zu einem Objekt oder einer Ressource erfasst werden, wie diese Informationen benannt werden und welche Felder verpflichtend oder wiederholbar sind.
+- **Strukturelle Metadaten** beschreiben, die Datenstruktur und wie einzelne Informationen verknüpft sind.
+
+
+„Ein **Metadatenschema** legt fest, welche Informationen zu einem Objekt oder einer Ressource erfasst werden, wie diese Informationen benannt werden und welche Felder verpflichtend oder wiederholbar sind.“ [1]
+
+Unterschieden werden hierbei das **Erfassungsformat, das Speicherformat und das Austauschformat**. [10]
 
 ---
 
@@ -199,6 +200,12 @@ Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsd
 [6] NFDI4Objects Conservation Data Framework Online Portal. (o. D.). Die thematischen Sektionen des KuR Metadatenschemas. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/ (Stand: 08.09.2026)
 
 [7] Hagel, F. v. (2025). Konservierung/Restaurierung (Metadatenvokabular). https://museumsvokabular.de/metadatenvokabular-konservierung-restaurierung/ (Stand: 08.09.2026)
+
+[8] (Biernacka et al., 2023, S. 59)
+
+[9] https://www.orca.nrw/moodle/mod/page/view.php?id=22320
+
+[1] https://wiki.dnb.de/spaces/DINIAGKIM/pages/43523047/Kompetenzzentrum+Interoperable+Metadaten+KIM?preview=%2F43523047%2F152017862%2F201209_metadaten.pdf
 
 ---
 

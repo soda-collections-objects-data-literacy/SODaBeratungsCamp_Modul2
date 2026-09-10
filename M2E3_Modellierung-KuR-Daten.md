@@ -68,18 +68,23 @@ Die erste Abbildung zeigt noch eine Erfassungslogik, die einer klassischen Einga
 
 Damit wird ein zentraler Unterschied zur vertrauten Eingabemaske deutlich: **Bei der Datenerfassung im WissKI/SCS müssen fachliche Angaben teilweise als eigenständige Ereignisse gedacht und erfasst werden.** Der "Anlass" ist somit nicht lediglich eine Information, die in ein Feld eingetragen wird, sondern kann selbst zum Ausgangspunkt einer weiteren Ereignisbeschreibung und ihrer Verknüpfung mit der Erhaltungsmaßnahme werden.
 
-
+<br><br><br>
 ![Visualisierung ereignisorientierte Erfassung des Anlasses der Erhaltungsmaßnahme](assets/2026_09_09-EreignisorientierteErfassungWissKISCS1.png)
 
 >**Abbildung:** Modellierung des "Anlasses der Erhaltungsmaßnahme" als verknüpftes Ereignis im WissKI/SCS
 
 
 <br><br><br>
-**Überschrift**
+**Die "Zuständige Person" aks Teil einer Ereignisstruktur**
+
+Die dritte Abbildung zeigt am BVeispiel der "Zuständigen Person (Erhaltungsmaßnahme)", wie eine im KuR-MDS hierarchisch unter der Erhaltungsmaßnahme eingeordnete Information im WissKI/SCS als Teil eine Ereignisstruktur erfasst wird. Während die "Zuständige Person" in der vertrauten Eingabemaske unmittelbar als Angabe zur Erhaltungsmaßnahme erscheint, wird sie im WissKI/SCS über eine dazwischenliegende **Activity** modelliert: Die Erhaltungsmaßnahme (*Preservation*) 
+**beginnt mit einer Aktivität** (*Begins with activity*). Für diese Aktivität wird anschließend die ausführende Person über **Carried out by** erfasst.
+
+Auch hier wird deutlich, dass die Erfassung im WissKI/SCS nicht ausschließlich der hierarchischen Anordnung von Eingabefeldern folgt. Die im KuR-MDS als "Zuständige Person" bezeichnete Information wird vielmehr über die Aktivität mit der Erhaltungsmaßnahme verknüpft. Dadurch kann nicht nur festgehalten werden, **wer** an einer Maßnahme beteiligt war, sondern zugleich, **im Zusammenhang mit welcher Aktivität** diese Person beteiligt war.
 
 ![Visualisierung ereignisorientierte Erfassung des Erhaltungsmaßnahme](assets/2026_09_09-EreignisorientierteErfassungErhaltungsmasznahme.png)
 
->**Abbildung** Text
+>**Abbildung:** Ereigniszentrierte Erfassung der "Zuständigen Person" über eine Aktivität im WissKI/SCS.
 
 ---
 

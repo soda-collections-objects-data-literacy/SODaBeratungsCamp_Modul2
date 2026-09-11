@@ -40,11 +40,11 @@ Lernende können...
 
 **Ereignisorientierte Datenerfassung im SCS**
 
-Für die digitale Erfassung von Konservierungs- und Restaurierungsdaten wird im Folgenden der **Semantic Coworking Space (SCS)** als eine von SODa entwickelte cloudbasierte Arbeitsumgebung vorgestellt. Der SCS stellt verschiedene digitale Werkzeuge für die Arbeit mit Sammlungsdaten bereit, darunter die virtuelle Forschungsumgebung **WissKI (WissenschaftlicheInfrastruktur)** zur **strukturierten Erfassung und Modellierung von Daten**. [x] Neben einem grundlegenden Datenmodell stehen dabei auch **fachspezifische Modellierungen**, sogenannte *Flavours*, zur Verfügung. Das im SCS verwendete Modell für Konservierungs- und Restuarierungsdaten [x] orientiert sich an dem zuvor eingeführten KuR-MDS [Link einfügen].
+Für die digitale Erfassung von Konservierungs- und Restaurierungsdaten wird im Folgenden der [**Semantic Coworking Space (SCS)**](https://manager.scs.sammlungen.io/) als eine von SODa entwickelte cloudbasierte Arbeitsumgebung vorgestellt. Der SCS stellt verschiedene digitale Werkzeuge für die Arbeit mit Sammlungsdaten bereit, darunter die virtuelle Forschungsumgebung [**WissKI (WissenschaftlicheInfrastruktur)**](https://wiss-ki.eu/de) zur **strukturierten Erfassung und Modellierung von Daten**.[1] Neben einem grundlegenden Datenmodell stehen dabei auch **fachspezifische Modellierungen** zur Verfügung. Das im SCS verwendete Modell für Konservierungs- und Restaurierungsdaten [2] orientiert sich an dem zuvor eingeführten Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [3].
 
-Konservierungs- und Restaurierungsmaßnahmen sind **zeitlich begrenzte Ereignisse**, die sich auf ein oder mehrere Objekte beziehen und in deren Verlauf unterschiedliche Informationen zusammenkommen können. [x] Dazu gehören beispielsweise beteiligte Personen, verwendete Materialien und Werkzeuge, durchgeführte Untersuchungen, beobachtete Zustandsveränderungen sowie fachliche Bewertungen und Entscheidungen. Für die digitale Erfassung bedeutet dies, dass eine **Restaurierungsmaßnahme nicht lediglich als Eigenschaft eines Objekts erfasst wird, sondern als eigenständiges Ereignis, mit dem die jeweils relevanten Informationen verknüpft werden**. 
+Konservierungs- und Restaurierungsmaßnahmen sind **zeitlich begrenzte Ereignisse**, die sich auf ein oder mehrere Objekte beziehen und in deren Verlauf unterschiedliche Informationen zusammenkommen können. [4] Dazu gehören beispielsweise beteiligte Personen, verwendete Materialien und Werkzeuge, durchgeführte Untersuchungen, beobachtete Zustandsveränderungen sowie fachliche Bewertungen und Entscheidungen. Für die digitale Erfassung bedeutet dies, dass eine **Restaurierungsmaßnahme nicht lediglich als Eigenschaft eines Objekts erfasst wird, sondern als eigenständiges Ereignis, mit dem die jeweils relevanten Informationen verknüpft werden**. 
 
-Die in WissKI/SCS verwendete Modellierung orientiert sich dabei am **CIDOC Conceptual Reference Model (CIDOC CRM)** [x], das Beschreibungen komplexer Zusammenhänge im Bereich des Kulturellen Erbes über Ereignisse und die zwischen ihnen bestehenden Beziehungen ermöglicht. [x] Die ereignisorientierte Modellierung bietet damit eine Möglichkeit, die unterschiedlichen Informationen, die im Verlauf einer Konservierungs- oder Restaurierungsmaßnahme entstehen, systematisch miteinander in Beziehung zu setzen.
+Die in WissKI/SCS verwendete Modellierung orientiert sich dabei am [**CIDOC Conceptual Reference Model (CIDOC CRM)**](https://cidoc-crm.org/), das Beschreibungen komplexer Zusammenhänge im Bereich des Kulturellen Erbes über Ereignisse und die zwischen ihnen bestehenden Beziehungen ermöglicht.[5] Die ereignisorientierte Modellierung bietet damit eine Möglichkeit, die unterschiedlichen Informationen, die im Verlauf einer Konservierungs- oder Restaurierungsmaßnahme entstehen, systematisch miteinander in Beziehung zu setzen.
 
 **Perspektivwechsel bei der Dateneingabe**
 
@@ -108,9 +108,15 @@ Auch hier wird deutlich, dass die Erfassung im WissKI/SCS nicht ausschließlich 
 
 ## Quellenangaben
 
-[1] Schwenk, G. A., & Fischer, K. (2025, May 21). SODa Forum: Konservierungs- und Restaurierungsdokumentation gemeinsam weiterdenken - Ontologieentwicklung im Dialog. Zenodo. https://doi.org/10.5281/zenodo.15481743
+[1] https://sammlungen.io/
 
-https://sammlungen.io/kb/scs
+[2] Verweis auf KuR-Modell, sobald publiziert.
+
+[3] NFDI4Objects Conservation Data Framework Online Portal. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS), Version 1.0. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 11.09.2026)
+
+[4] Schwenk, G. A., & Fischer, K. (2025, May 21). SODa Forum: Konservierungs- und Restaurierungsdokumentation gemeinsam weiterdenken - Ontologieentwicklung im Dialog. Zenodo. https://doi.org/10.5281/zenodo.15481743
+
+[5] CIDOC CRM
 
 ---
 

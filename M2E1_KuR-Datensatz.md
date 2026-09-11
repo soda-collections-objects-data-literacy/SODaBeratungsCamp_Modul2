@@ -84,7 +84,7 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
 > **Hinweis:**
 >
 > Das KuR-MDS befindet sich momentan noch in Entwicklung. Nach Finalisierung des inhaltlichen Schematas durch Community-Feedback folgt die Entwicklung der technischen Umsetzung (Stand 08.09.2026). [4] & [5]
-> Das [White Paper](https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/98) mit dem ersten **Entwurf des Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen** wurde am 11.09.2026 publiziert und befindet sich bis 11.10.2026 in der Kommentierungsphase. [12]
+> Das [White Paper](https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/98) mit dem ersten **Entwurf des Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen** wurde am 11.09.2026 publiziert und befindet sich bis 11.10.2026 in der Kommentierungsphase. Im White Paper werden detailliert die konzeptionellen Grundlagen, die Methodik und Herangehensweise, das Metadatenschema im Überblick und die weitere Vorgehensweise dargelegt. [12]
 > 
 
 ---
@@ -229,6 +229,8 @@ Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsd
 [10] https://wiki.dnb.de/spaces/DINIAGKIM/pages/43523047/Kompetenzzentrum+Interoperable+Metadaten+KIM?preview=%2F43523047%2F152017862%2F201209_metadaten.pdf
 
 [11] NFDI4Objects. (n. D.). Conservation Data Framework. https://www.nfdi4objects.net/services/conservation-data-framework/
+
+[12] https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/98
 
 ---
 

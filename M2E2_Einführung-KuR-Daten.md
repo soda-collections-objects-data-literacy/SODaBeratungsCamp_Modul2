@@ -42,7 +42,7 @@ Lernende können...
 
 ## Voraussetzung
 
-Kenntnis über KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M1E1) und Kenntnis der Inhalte aus Modul 1 ist von Vorteil.
+Die Kenntnis über KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus Modul 1 sind von Vorteil.
 
 ---
 

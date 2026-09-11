@@ -20,7 +20,7 @@ comment: Dieses Modul [Text ergänzen]
 
 Einheit 2: **Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten**  
 
-**Dauer:** ~ 30 Min.
+**Dauer:** ~ 35 Min.
 
 ---
 
@@ -52,7 +52,7 @@ Bei der konservierungs- und restaurierungsbezogenen Arbeit entstehen kontinuierl
 
 Gleichzeitig können diese Informationen in sehr unterschiedlichen Dokumentationsformaten vorliegen.
 
-**Leitfrage:**
+### Leitfrage 
 
 > Wie gelangen wir von einer bereits vorhandenen Dokumentation zu strukturierten KuR-Daten?
 
@@ -78,23 +78,13 @@ Hinzu kommt, dass computerbasierte Medien häufig nicht allein durch ihre materi
 
 Die für eine konservierungs- und restaurierungsbezogene Erschließung benötigten Informationen müssen daher häufig aus verschiedenen Quellen zusammengeführt und in ihrem jeweiligen Zusammenhang bewertet werden.
 
-Das **Beispiel MEGA65** verdeutlicht, wie stark relevante Informationen über unterschiedliche Dokumentationsformen und Plattformen verteilt sein können:
+Das Beispiel MEGA65 verdeutlicht, wie stark relevante Informationen über unterschiedliche Dokumentationsformen und Plattformen verteilt sein können:
 
-**Beipiel:**
+### Beipiel: MEGA65
 
-??[MEGA65](https://mega65.org/)
+![MEGA65](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/mega65.JPG)
 
-<iframe
-  src="https://mega65.org"
-  width="100%"
-  height="600">
-</iframe>
 
-![MEGA65](https://mega65.org/)
-
-[preview-lia](https://mega65.org/)
-
->
 > - Projektwebseite: [MEGA65 - 8-Bit Computer](https://mega65.org)
 >
 > - Projektwiki: [MEGA65 Wiki](https://mega65.atlassian.net/wiki/spaces/MEGA65/overview) mit Einführungen in die Grundlagen, Anleitungen, Tutorials, Hilfsprogrammen, Beschreibung der Hardware, Systementwicklung und Archivseiten.
@@ -110,14 +100,11 @@ Das **Beispiel MEGA65** verdeutlicht, wie stark relevante Informationen über un
 > - GitHub Repo's: [MEGA65 Open-Source](https://github.com/MEGA65) und [XEMU](https://github.lgb.hu/xemu) für VHDL des MEGA65 cores, Tools, Emulator, usw.
 >
 > - Aternative Computer / Arcade / Konsolen-Cores kostenlos auf https://cores.mega65.org
->   
 
 
-**Fazit:**
+### Eine Dokumentation ist nicht automatisch ein strukturierter Datensatz
 
-Eine Dokumentation ist nicht automatisch ein strukturierter Datensatz.
-
-Relevante Informationen können:
+Die strukturierte Erschließung beginnt mit der Analyse vorhandener relevanter Informationen: 
 
 - an unterschiedlichen Orten liegen,
 - in unterschiedlichen Formaten vorliegen,
@@ -125,10 +112,8 @@ Relevante Informationen können:
 - mehrfach vorkommen,
 - nur indirekt aus dem Kontext hervorgehen oder vollständig fehlen.
 
-Die strukturierte Erschließung beginnt deshalb mit der Analyse vorhandener Informationen.
 
-
-## 1.2 Medienarchäologische Beispiele
+## Weitere medienarchäologische Beispiele
 
 Für die folgende Analyse werden zwei Beispiele aus dem Bereich medienarchäologischer Erschließung betrachtet:
 
@@ -137,7 +122,7 @@ Für die folgende Analyse werden zwei Beispiele aus dem Bereich medienarchäolog
 
 Beide Beispiele verdeutlichen, wie unterschiedlich eine medienarchäologische Arbeit zur Wiederherstellung eines Objektes sein kann.
 
-**Beispiel: Rave Racer**
+### Beispiel: Rave Racer
 
 Das Rave Racer Projekt dokumentiert die historische Aufarbeitung (sog. Restauration) eines zweisitzigen Arcade-Fahrsimulators des japanischen Herstellers Namco aus dem Jahr 1995. Das Gerät wurde dem Circuit Lab 2025 vom Computerspielemuseum als Leihgabe zur Verfügung gestellt und wird im Zusammenhang mit einer technischen Restaurierung an der Burg Giebichenstein Kunsthochschule Halle untersucht und bearbeitet.
 
@@ -151,7 +136,7 @@ Das Beispiel enthält damit Informationen zu unterschiedlichen Bereichen:
 - zum Restaurierungsprozess,
 - sowie zu verschiedenen Formen der Dokumentation.
 
-**Beispiel: T42 / Tennis for Two**
+### Beispiel: T42 / Tennis for Two
 
 Beim Projekt T42 / Tennis for Two ging es darum eine Rekonstruktion (re-creation) aus fragmentarischer Quellenlage herzuleiten. Es lag keine umfassende technische Dokumentation vor noch war das Original vorhanden. Aus wenigen heterogenen Informationen mussten technische Funktion, Spiellogik und konkrete Umsetzung erschlossen werden.
 
@@ -166,21 +151,19 @@ Eine Rekonstruktion (re-creation) schließt Dokumentationslücken nicht dadurch,
 
 Für eine nachvollziehbare Dokumentation muss deshalb erkennbar bleiben, was überliefert und was rekonstruiert wurde – und worauf die Rekonstruktion beruht.
 
-**Fazit:**
+### Fazit: Entstehungs- und Erkenntniskontexte
 
 Die beiden Beispiele zeigen unterschiedliche Ausgangssituationen medienarchäologischer Erschließung:
 
-- Bei Rave Racer ist ein materielles Objekt vorhanden, das untersucht und bearbeitet werden kann. Im Verlauf der Arbeit entstehen und verändern sich Informationen zum Objekt, seinem Zustand, seiner technischen Funktionsweise und zu den durchgeführten Maßnahmen.
+- Bei **Rave Racer** ist ein materielles Objekt vorhanden, das untersucht und bearbeitet werden kann. Im Verlauf der Arbeit entstehen und verändern sich Bauteile, Informationen zum Objekt, seinem Zustand, seiner technischen Funktionsweise und zu den durchgeführten Maßnahmen.
 
-- Bei T42 / Tennis for Two ist das ursprüngliche Objekt beziehungsweise der historische Aufbau nicht mehr vorhanden. Die Rekonstruktion basiert deshalb auf fragmentarisch überlieferten Quellen, aus denen technische und funktionale Zusammenhänge erschlossen und fehlende Informationen teilweise hergeleitet werden müssen.
+- Bei **T42 / Tennis for Two** ist das ursprüngliche Objekt beziehungsweise der historische Aufbau nicht mehr vorhanden. Die Rekonstruktion basiert deshalb auf fragmentarisch überlieferten Quellen und Interviews, aus denen technische und funktionale Zusammenhänge erschlossen und fehlende Informationen teilweise hergeleitet werden müssen.
 
 Damit unterscheiden sich nicht nur die vorhandenen Informationen, sondern auch deren Entstehungs- und Erkenntniskontexte.
 
 Eine Information kann beispielsweise am vorhandenen Objekt beobachtet, einer historischen Quelle entnommen, während einer Untersuchung erzeugt oder im Zuge einer Rekonstruktion aus anderen Informationen hergeleitet worden sein.
 
 Für eine strukturierte Konservierungs- und Restaurierungsdokumentation reicht es daher nicht aus, lediglich festzuhalten, welche Information vorliegt. Ebenso relevant ist, woher sie stammt, in welchem Zusammenhang sie entstanden ist und wie sie erschlossen wurde.
-
-
 
 > Strukturierung bedeutet deshalb nicht nur, vorhandene Informationen zu ordnen, sondern auch ihre Zusammenhänge und Entstehungskontexte nachvollziehbar zu machen.
 
@@ -190,9 +173,9 @@ Für eine strukturierte Konservierungs- und Restaurierungsdokumentation reicht e
 
 Übung: Gruppenarbeit
 
-> Gruppe 1 und 2: CircuitLab – Rave Racer
+> **Gruppe 1 und 2: CircuitLab – Rave Racer**
 >   
-> Gruppe 3 und 4: MEGA e. V. – T42 / Tennis for Two
+> **Gruppe 3 und 4: MEGA e. V. – T42 / Tennis for Two**
 > 
 > In den beiden vorgestellten Beispielen liegen Informationen zur medienarchäologischen Erschließung in Form von Projektdokumentationen vor.
 > 
@@ -206,7 +189,7 @@ Für eine strukturierte Konservierungs- und Restaurierungsdokumentation reicht e
 >
 > - Welche Informationen sind vorhanden und wie können wir sie mithilfe des KuR-MDS strukturieren?
 >
-> Dauer: ca. xx Min.
+> Dauer: ca. 20 Min.
 
 
 ## 1.4 Vergleich und gemeinsame Auswertung
@@ -222,7 +205,7 @@ Zunächst vergleichen jeweils die beiden Gruppen, die dasselbe Beispiel bearbeit
 > 
 > - Wo unterscheiden sich die Annotationen der beiden Gruppen?
 > 
-> Dauer: ca. 4 Min.
+> Dauer: ca. 5 Min.
 > 
 
 
@@ -240,7 +223,7 @@ Zunächst vergleichen jeweils die beiden Gruppen, die dasselbe Beispiel bearbeit
 >
 > Welche für eine strukturierte Dokumentation relevanten Informationen fehlten?
 > 
-> Dauer: ca. 3 Min.
+> Dauer: ca. 5 Min.
 
 
 

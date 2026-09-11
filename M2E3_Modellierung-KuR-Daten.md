@@ -117,16 +117,6 @@ Abbildung 3 zeigt am Beispiel der **"Zuständigen Person (Erhaltungsmaßnahme)"*
 
 ---
 
-### Beispielmodellierung in WissKI/SCS
-
-
-xxxxx????xxx TODO
-
->**Video:** Modellierung des "Anlasses der Erhaltungsmaßnahme und zuständige Person" als verknüpftes Ereignis im WissKI/SCS am Beispiel
-
-
----
-
 ## 3.2 Gemeinsame Aufgabe im Medienarchäologie WissKI/SCS
 
 [Medienarchäologie WissKI/SCS](https://wisski-medienarchaeologie.wisski.scs.sammlungen.io)

@@ -56,19 +56,39 @@ Gleichzeitig können diese Informationen in sehr unterschiedlichen Dokumentation
 
 > Wie gelangen wir von einer bereits vorhandenen Dokumentation zu strukturierten KuR-Daten?
 
-In bestehenden Dokumentationen sind relevante Informationen häufig nicht bereits als einzelne Datenfelder vorhanden. Sie können beispielsweise in Fließtexten, Abbildungen, technischen Beschreibungen, Projektwebseiten oder unterschiedlichen analogen und digitalen Informationsquellen enthalten sein.
+In bestehenden Dokumentationen sind relevante Informationen häufig nicht bereits als einzelne Datenfelder vorhanden. 
 
-Bevor Informationen strukturiert erfasst oder modelliert werden können, müssen daher zunächst die relevanten Informationseinheiten identifiziert, voneinander unterschieden und fachlich eingeordnet werden:
+Sie können beispielsweise als 
 
-Insbesondere computerbasierte Medien weisen aufgrund ihrer technischen Komplexität eine große Vielfalt an Dokumentationen und damit verbundenen Informationsquellen auf. Informationen zu einem Objekt können sich beispielsweise auf Hardware, Software, technische Funktionen, Nutzung, Veränderungen, Reparaturen oder Rekonstruktionen beziehen und über unterschiedliche analoge und digitale Quellen verteilt sein.
+- Fließtexte,
+- Abbildungen,
+- technischen Beschreibungen,
+- Projektwebseiten oder
+- unterschiedlichen analogen und digitalen Informationsquellen
 
-Hinzu kommt, dass computerbasierte Medien häufig nicht allein durch ihre materielle Substanz bestimmt werden. Für ihr Verständnis und ihre Erhaltung können ebenso funktionale Zusammenhänge, Software, technische Dokumentationen sowie Wissen über Bedienung und Nutzung relevant sein. Die für eine konservierungs- und restaurierungsbezogene Erschließung benötigten Informationen müssen daher häufig aus verschiedenen Quellen zusammengeführt und in ihrem jeweiligen Zusammenhang bewertet werden.
+vorliegen.
 
-Das Beispiel MEGA65 verdeutlicht, wie stark relevante Informationen über unterschiedliche Dokumentationsformen und Plattformen verteilt sein können:
+Bevor Informationen strukturiert erfasst und modelliert werden können, müssen daher zunächst die relevanten Informationseinheiten identifiziert, voneinander unterschieden und fachlich eingeordnet werden:
+
+Insbesondere computerbasierte Medien weisen aufgrund ihrer technischen Komplexität eine große Vielfalt an Informationen und damit verbundenen Informationsquellen auf. 
+
+Informationen zu einem Objekt können sich beispielsweise auf **Hardware, Software, technische Funktionen, Nutzung, Veränderungen, Reparaturen oder Rekonstruktionen** beziehen und über unterschiedliche **analoge und digitale Quellen** verteilt sein.
+
+Hinzu kommt, dass computerbasierte Medien häufig nicht allein durch ihre materielle Substanz bestimmt werden. Für ihr Verständnis und ihre Erhaltung sind ebenso funktionale Zusammenhänge, Software, technische Dokumentationen sowie Wissen über Bedienung und Nutzung relevant. 
+
+Die für eine konservierungs- und restaurierungsbezogene Erschließung benötigten Informationen müssen daher häufig aus verschiedenen Quellen zusammengeführt und in ihrem jeweiligen Zusammenhang bewertet werden.
+
+Das **Beispiel MEGA65** verdeutlicht, wie stark relevante Informationen über unterschiedliche Dokumentationsformen und Plattformen verteilt sein können:
 
 **Beipiel:**
 
 ??[MEGA65](https://mega65.org/)
+
+<iframe
+  src="https://mega65.org"
+  width="100%"
+  height="600">
+</iframe>
 
 ![MEGA65](https://mega65.org/)
 

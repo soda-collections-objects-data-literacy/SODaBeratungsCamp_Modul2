@@ -20,7 +20,7 @@ comment: Dieses Modul [Text ergänzen]
 
 Einheit 3: **Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstruktur**  
 
-**Dauer:** ~ 45 Min.
+**Dauer:** ~ 40 Min.
 
 ---
 
@@ -32,7 +32,7 @@ Lernende können...
 
 ## Voraussetzung
 
-*BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen*
+*Die Kenntnis über KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen sind von Vorteil.*
 
 ---
 
@@ -40,70 +40,113 @@ Lernende können...
 
 **Ereignisorientierte Datenerfassung im SCS**
 
-Für die digitale Erfassung von Konservierungs- und Restaurierungsdaten wird im Folgenden der [**Semantic Coworking Space (SCS)**](https://manager.scs.sammlungen.io/) als eine von SODa entwickelte cloudbasierte Arbeitsumgebung vorgestellt. Der SCS stellt verschiedene digitale Werkzeuge für die Arbeit mit Sammlungsdaten bereit, darunter die virtuelle Forschungsumgebung [**WissKI (WissenschaftlicheInfrastruktur)**](https://wiss-ki.eu/de) zur **strukturierten Erfassung und Modellierung von Daten**.[1] Neben einem grundlegenden Datenmodell stehen dabei auch **fachspezifische Modellierungen** zur Verfügung. Das im SCS verwendete Modell für Konservierungs- und Restaurierungsdaten [2] orientiert sich an dem zuvor eingeführten Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [3].
+Für die Erfassung von Konservierungs- und Restaurierungsdaten wird der [**Semantic Coworking Space (SCS)**](https://manager.scs.sammlungen.io/) als eine von SODa entwickelte cloudbasierte Arbeitsumgebung eingesetzt. 
 
-Konservierungs- und Restaurierungsmaßnahmen sind **zeitlich begrenzte Ereignisse**, die sich auf ein oder mehrere Objekte beziehen und in deren Verlauf unterschiedliche Informationen zusammenkommen können. [4] Dazu gehören beispielsweise beteiligte Personen, verwendete Materialien und Werkzeuge, durchgeführte Untersuchungen, beobachtete Zustandsveränderungen sowie fachliche Bewertungen und Entscheidungen. Für die digitale Erfassung bedeutet dies, dass eine **Restaurierungsmaßnahme nicht lediglich als Eigenschaft eines Objekts erfasst wird, sondern als eigenständiges Ereignis, mit dem die jeweils relevanten Informationen verknüpft werden**. 
+Der SCS stellt verschiedene digitale Werkzeuge für die Arbeit mit Sammlungsdaten bereit, insbesondere die virtuelle Forschungsumgebung [**WissKI (WissenschaftlicheInfrastruktur)**](https://wiss-ki.eu/de) zur **strukturierten Erfassung und Modellierung von Daten** [1] nebst dem **fachspezifischen Modell für Konservierungs- und Restaurierungsdaten** [2] welches auf dem zuvor eingeführten Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [3] basiert.
 
-Die in WissKI/SCS verwendete Modellierung orientiert sich dabei am [**CIDOC Conceptual Reference Model (CIDOC CRM)**](https://cidoc-crm.org/), das Beschreibungen komplexer Zusammenhänge im Bereich des Kulturellen Erbes über Ereignisse und die zwischen ihnen bestehenden Beziehungen ermöglicht.[5] Die ereignisorientierte Modellierung bietet damit eine Möglichkeit, die unterschiedlichen Informationen, die im Verlauf einer Konservierungs- oder Restaurierungsmaßnahme entstehen, systematisch miteinander in Beziehung zu setzen.
+Konservierungs- und Restaurierungsmaßnahmen sind stets ein **zielgerichteter Prozess** **zeitlich begrenzter Ereignisse**, die einen **konkreten Objektbezug** haben und in deren Verlauf unterschiedliche Informationen zusammenkommen können. [4] Dazu gehören beispielsweise:
+
+- beteiligte Personen,
+- verwendete Materialien und Werkzeuge,
+- durchgeführte Untersuchungen,
+- Zustandsveränderungen sowie
+- fachliche Bewertungen und Entscheidungen.
+
+Für die digitale Erfassung bedeutet dies, dass eine **Restaurierungsmaßnahme nicht lediglich als Eigenschaft eines Objekts erfasst wird, sondern als eigenständiges Ereignis, mit dem die jeweils relevanten Informationen verknüpft werden**. 
+
+Die in WissKI/SCS verwendete Modellierung orientiert sich genau aus diesem Grund am [**CIDOC Conceptual Reference Model (CIDOC CRM)**](https://cidoc-crm.org/), das Beschreibungen komplexer Zusammenhänge im Bereich des Kulturellen Erbes über **Ereignisse und die zwischen ihnen bestehenden Beziehungen** ermöglicht.[5] Diese **ereignisorientierte Modellierung** bietet damit eine Möglichkeit, die unterschiedlichen Informationen, die im Verlauf einer Konservierungs- oder Restaurierungsmaßnahme entstehen, systematisch miteinander in Beziehung zu setzen.
 
 **Perspektivwechsel bei der Dateneingabe**
 
-Diese ereignisorientierte Perspektive ist für die Datenerfassung zunächst ungewohnt: Statt ausschließlich vom Objekt und seinen Eigenschaften auszugehen, steht das **Ereignis der Konservierungs- und Restaurierungsmaßnahme** im Mittelpunkt. Für die Erfassung im WissKI/SCS bedeutet dies, die jeweiligen Maßnahme zunächst als Ereignis zu denken und zu erfassen und die daran beteiligten Objekte, Personen, Materialien, Werkzeuge, Untersuchungen und weiteren Informationen mit diesem Ereignis in Beziehung zu setzen.
+Diese ereignisorientierte Perspektive ist für die Datenerfassung zunächst ungewohnt: Statt ausschließlich vom Objekt und seinen Eigenschaften auszugehen, steht das **Ereignis der Konservierungs- und Restaurierungsmaßnahme** im Mittelpunkt. 
+
+
+> Für die Erfassung im WissKI/SCS bedeutet dies, die **jeweiligen Maßnahme als Ereignis zu denken und zu erfassen** und die daran **beteiligten Objekte, Personen, Materialien, Werkzeuge, Untersuchungen und weiteren Informationen mit diesem Ereignis in Beziehung** zu setzen.
 
 ---
 
-## 3.2 Ereignisorientierte Perspektive bei der Datenerfassung am Beispiel
+## 3.2 Ereignisorientierung bei der Datenerfassung am Beispiel
 
-**Vom KuR-MDS zur Eingabemaske**
+### Vom KuR-MDS zur hierarchisch strukturierten Eingabemaske
 
-Die erste Abbildung zeigt einen Ausschnitt des Beschreibungstextes der **Sektion "Erhaltungskonzept"** sowie die zugehörigen **Metadaten aus dem KuR-MDS**. Dazu gehören beispielsweise **"Anlass der Erhaltungsmaßnahmen"** und 
-**"Konservatorische Zielsetzung"** (Planungsphase) sowie Angaben zur **"Erhaltungsmaßnahme"** selbst, etwa die **"Zuständige Person"** (Durchführungsphase). In der Mockup-App werden diese Metadaten in Form einer Eingabemaske visualisiert, die einer **vertrauten Erfassungsoberfläche** entspricht. Die einzelnen **Erfassungsfelder sind hierarchisch angeordnet**, sie bilden die hierarchische Struktur des KuR-MDS ab.
+Die folgende Abbildung 1 zeigt eine Erfassungslogik, die einer klassischen Eingabemaske entspricht (links). Diese Abbildung zeigt einen Ausschnitt des Beschreibungstextes der **Sektion "Erhaltungskonzept"** sowie die zugehörigen **Metadaten aus dem KuR-MDS: insbesondere konservatorische Zielsetzunug**. 
 
-<br><br><br>
 ![Visualisierung Erfassung als Eigenschaft des Objekts](assets/2026_09_09-ModellierungalsObjekteigenschaft.png)
 
->**Abbildung:** Ausschnitt des KuR-MDS als hierarchisch strukturierte Eingabemaske in der Mockup-App
+>**Abbildung 1:** Ausschnitt des KuR-MDS als hierarchisch strukturierte Eingabemaske in der Mockup-App
 
+Dazu gehören beispielsweise **"Anlass der Erhaltungsmaßnahmen"** und **"Konservatorische Zielsetzung"** (Planungsphase) sowie Angaben zur **"Erhaltungsmaßnahme"** selbst, etwa die **"Zuständige Person"** (Durchführungsphase). 
 
-<br><br><br>
-**Von der Eingabemaske zurm Ereignismodell**
+In der Mockup-App werden diese Metadaten in Form einer Eingabemaske visualisiert, die einer **vertrauten Erfassungsoberfläche** entspricht. Die einzelnen **Erfassungsfelder sind hierarchisch angeordnet**, sie bilden die hierarchische Struktur des KuR-MDS ab.
 
-Die erste Abbildung zeigt noch eine Erfassungslogik, die einer klassischen Eingabemaske entspricht. Die zweite Abbildung macht dagegen sichtbar, wie diese fachlichen Angaben im WissKI/SCS auf Grundlage des zugrunde liegenden Datenmodells erfasst werden. **Der im KuR-MDS als "Anlass der Erhaltungsmaßnahme** bezeichnete Aspekt wird dabei nicht als einfache Eigenschaft der Maßnahme erfasst, sondern als Bezug zu einem weiteren Ereignis modeliert. Im dargestellten Beispiel wird die Erhaltungsmaßnahme mit einem *Condition Assessment* verknüpft. Die Angabe *Connected with condition assessement* beschreibt diese Beziehung. Über *Create Condition assessment for reference* kann ein entsprechendes Ereignis angelegt und als Bezug zur Erhaltungsmaßnahme erfasst werden.
+---
 
-Damit wird ein zentraler Unterschied zur vertrauten Eingabemaske deutlich: **Bei der Datenerfassung im WissKI/SCS müssen fachliche Angaben teilweise als eigenständige Ereignisse gedacht und erfasst werden.** Der "Anlass" ist somit nicht lediglich eine Information, die in ein Feld eingetragen wird, sondern kann selbst zum Ausgangspunkt einer weiteren Ereignisbeschreibung und ihrer Verknüpfung mit der Erhaltungsmaßnahme werden.
+### Von der Eingabemaske zurm Ereignismodell
 
-<br><br><br>
+Die Abbildung 2 macht dagegen sichtbar, wie diese fachlichen Angaben im WissKI/SCS auf Grundlage des zugrunde liegenden Datenmodells erfasst werden. 
+
+**Der im KuR-MDS als "Anlass der Erhaltungsmaßnahme** bezeichnete Aspekt wird dabei nicht als einfache Eigenschaft der Maßnahme erfasst, sondern als Bezug zu einem weiteren Ereignis modeliert. 
+
+Im dargestellten Beispiel wird die **Erhaltungsmaßnahme mit einem *Condition Assessment*** verknüpft. Die Angabe *Connected with condition assessement* beschreibt diese Beziehung. Über *Create Condition assessment for reference* kann ein entsprechendes Ereignis angelegt und als Bezug zur Erhaltungsmaßnahme erfasst werden.
+
 ![Visualisierung ereignisorientierte Erfassung des Anlasses der Erhaltungsmaßnahme](assets/2026_09_09-EreignisorientierteErfassungWissKISCS1.png)
 
->**Abbildung:** Modellierung des "Anlasses der Erhaltungsmaßnahme" als verknüpftes Ereignis im WissKI/SCS
+>**Abbildung 2:** Gegenüberstellung eines Ausschnitts des KuR-MDS Eingabemaske in der Mockup-App (links) und Modellierung des "Anlasses der Erhaltungsmaßnahme" als verknüpftes Ereignis im WissKI/SCS (rechts)
 
+**Hinweis:**
 
-<br><br><br>
-**Die "Zuständige Person" als Teil einer Ereignisstruktur**
+> Damit wird ein zentraler Unterschied zur vertrauten Eingabemaske deutlich:
+> **Bei der Datenerfassung im WissKI/SCS müssen fachliche Angaben als eigenständige Ereignisse gedacht und erfasst werden.**
+> Der "Anlass" ist somit nicht lediglich eine Information, die in ein Feld eingetragen wird, sondern kann selbst zum Ausgangspunkt einer weiteren Ereignisbeschreibung und ihrer Verknüpfung mit der Erhaltungsmaßnahme werden.
 
-Die dritte Abbildung zeigt am Beispiel der "Zuständigen Person (Erhaltungsmaßnahme)", wie eine im KuR-MDS hierarchisch unter der Erhaltungsmaßnahme eingeordnete Information im WissKI/SCS als Teil eine Ereignisstruktur erfasst wird. Während die "Zuständige Person" in der vertrauten Eingabemaske unmittelbar als Angabe zur Erhaltungsmaßnahme erscheint, wird sie im WissKI/SCS über eine dazwischenliegende **Activity** modelliert: Die Erhaltungsmaßnahme (*Preservation*) 
-**beginnt mit einer Aktivität** (*Begins with activity*). Für diese Aktivität wird anschließend die ausführende Person über **Carried out by** erfasst.
+---
 
-Auch hier wird deutlich, dass die Erfassung im WissKI/SCS nicht ausschließlich der hierarchischen Anordnung von Eingabefeldern folgt. Die im KuR-MDS als "Zuständige Person" bezeichnete Information wird vielmehr über die Aktivität mit der Erhaltungsmaßnahme verknüpft. Dadurch kann nicht nur festgehalten werden, **wer** an einer Maßnahme beteiligt war, sondern zugleich, **im Zusammenhang mit welcher Aktivität** diese Person beteiligt war.
+### Die "Zuständige Person" als Teil einer Ereignisstruktur
 
+Abbildung 3 zeigt am Beispiel der **"Zuständigen Person (Erhaltungsmaßnahme)"**, wie eine im KuR-MDS hierarchisch unter der Erhaltungsmaßnahme eingeordnete Information im WissKI/SCS als Teil eine Ereignisstruktur erfasst wird. Während die "Zuständige Person" in der vertrauten Eingabemaske unmittelbar als Angabe zur Erhaltungsmaßnahme erscheint, wird sie im WissKI/SCS über eine dazwischenliegende **Activity** modelliert: Die Erhaltungsmaßnahme (*Preservation*) **beginnt mit einer Aktivität** (*Begins with activity*). Für diese Aktivität wird anschließend die ausführende Person über **Carried out by** erfasst.
 
-<br><br><br>
 ![Visualisierung ereignisorientierte Erfassung des Erhaltungsmaßnahme](assets/2026_09_09-EreignisorientierteErfassungErhaltungsmasznahme.png)
 
->**Abbildung:** Ereignisorientierte Erfassung der "Zuständigen Person" über eine Aktivität im WissKI/SCS.
+>**Abbildung 3:** Ereignisorientierte Erfassung der "Zuständigen Person" über eine Aktivität im WissKI/SCS
+
+**Hinweis:**
+
+> Auch hier wird deutlich, dass die Erfassung im WissKI/SCS nicht ausschließlich der hierarchischen Anordnung von Eingabefeldern folgt.
+> Die im KuR-MDS als **"Zuständige Person" bezeichnete Information wird vielmehr über die Aktivität mit der Erhaltungsmaßnahme** verknüpft.
+> Dadurch kann nicht nur festgehalten werden, **wer** an einer Maßnahme beteiligt war, sondern zugleich, **im Zusammenhang mit welcher Aktivität** diese Person beteiligt war.
 
 ---
 
-- Vorstellung Datensatz Rave Racer
+### Beispielmodellierung in WissKI/SCS
+
+
+xxxxx????xxx TODO
+
+>**Video:** Modellierung des "Anlasses der Erhaltungsmaßnahme und zuständige Person" als verknüpftes Ereignis im WissKI/SCS am Beispiel
+
+
 ---
 
-## 3.2 Gemeinsame Aufgabe
+## 3.2 Gemeinsame Aufgabe im Medienarchäologie WissKI/SCS
 
-- T42 erfassen
+[Medienarchäologie WissKI/SCS](https://wisski-medienarchaeologie.wisski.scs.sammlungen.io)
+
+- Datensatz **„Rave Racer“** kennenlernen
+- fehlende Angaben gemeinsam ergänzen
+- Daten zu **T42 Tennis for Two"" erfassen
   
 ---
 
 ## 3.3 Diskussion
+
+> **Was musstet ihr bei der Erfassung in WissKI/SCS anders denken als bei der Arbeit mit einer hierarchisch strukturierten Eingabemaske?**
+
+Weitere Diskussionsfragen:
+
+- An welchen Stellen der Dateneingabe muss **zu einer ereignisorientierten Perspektive** gewechselt werden?
+- Welche Information lässt sich nicht einfach aus den Dokumentationen in ein entsprechendes Feld im WissKI/SCS übertragen?
+- Welche Angaben wurden im WissKI/SCS zu **eigenständigen Ereignissen oder Entitäten**?
+...
 
 
 ## Quellenangaben

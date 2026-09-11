@@ -79,7 +79,7 @@ Damit die unterschiedlichen Informationen über ihren ursprünglichen Dokumentat
 
 ## 1.3 Das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)
 
-Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)** wurde von den Mitgliedern der **NFDI4Objects-TWG "Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbens"** [3] in einem iterativen Prozess und unter enger Rückbindung an die Fachcommunity entwickelt. 
+Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)** [11] wurde von den Mitgliedern der **NFDI4Objects-TWG "Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbens"** [3] in einem iterativen Prozess und unter enger Rückbindung an die Fachcommunity entwickelt. 
 
 > **Hinweis:**
 >
@@ -149,6 +149,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der **Conservati
 
 
 >**Abbildung:** Beschreibung von Zweck und Funktion der Sektion *Erhaltungskonzept* aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/06_conservation_plan.html) (Stand: 09.09.2026)  
+> Die Webseite wurde aktualisiert und ist abrufbar unter [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan) (Stand: 11.09.2026)  
 
 ---
 
@@ -157,7 +158,8 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der **Conservati
 ![Beispiel Metadatenelemente Sektion Erhaltungskonzept](https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/main/assets/2026_09_09-CDF_MetadatenelementeErhaltungskonzept.png)
 
 
->**Abbildung:** Überblick über die Metadatenelemente der Sektion *Erhaltungskonzept* mit entsprechenden Verpflichtungsgraden und Conservation Metadata Terminology-URIs aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/06_conservation_plan.html) (Stand: 09.09.2026)
+>**Abbildung:** Überblick über die Metadatenelemente der Sektion *Erhaltungskonzept* mit entsprechenden Verpflichtungsgraden und Conservation Metadata Terminology-URIs aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/06_conservation_plan.html) (Stand: 09.09.2026)  
+> Die Webseite wurde aktualisiert und ist abrufbar unter [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan) (Stand: 11.09.2026)
 
 ---
 
@@ -176,8 +178,10 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der **Conservati
 
 - **Github-Repositorium:** https://github.com/nfdi4objects/n4o_conservation_data_framework
   
-- **Online-Portal:** https://nfdi4objects.github.io/n4o_conservation_data_framework/
-
+- **Online-Portal:**
+  - https://nfdi4objects.github.io/n4o_conservation_data_framework/
+    
+  - https://www.nfdi4objects.net/services/conservation-data-framework/
 
 **Conservation Metadata Terminology:**
 
@@ -212,7 +216,7 @@ Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsd
 
 [5] Fischer, K., & Lasse Mempel-Länger. (2025, October 16). Aufbau eines Minimalmetadatensatzes für die Konservierung-Restaurierung. Zenodo. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
-[6] NFDI4Objects Conservation Data Framework Online Portal. (o. D.). Die thematischen Sektionen des KuR Metadatenschemas. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/ (Stand: 08.09.2026)
+[6] NFDI4Objects Conservation Data Framework Online Portal. (o. D.). Die thematischen Sektionen des KuR Metadatenschemas. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/ (Stand: 11.09.2026)
 
 [7] Hagel, F. v. (2025). Konservierung/Restaurierung (Metadatenvokabular). https://museumsvokabular.de/metadatenvokabular-konservierung-restaurierung/ (Stand: 08.09.2026)
 
@@ -220,7 +224,9 @@ Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsd
 
 [9] https://www.orca.nrw/moodle/mod/page/view.php?id=22320
 
-[1] https://wiki.dnb.de/spaces/DINIAGKIM/pages/43523047/Kompetenzzentrum+Interoperable+Metadaten+KIM?preview=%2F43523047%2F152017862%2F201209_metadaten.pdf
+[10] https://wiki.dnb.de/spaces/DINIAGKIM/pages/43523047/Kompetenzzentrum+Interoperable+Metadaten+KIM?preview=%2F43523047%2F152017862%2F201209_metadaten.pdf
+
+[11] NFDI4Objects. (n. D.). Conservation Data Framework. https://www.nfdi4objects.net/services/conservation-data-framework/
 
 ---
 

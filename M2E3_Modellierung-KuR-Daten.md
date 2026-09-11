@@ -36,7 +36,7 @@ Lernende können...
 
 ---
 
-## 3.1 Ereignisorientierte Erfassung von Konservierungs- und Restaurierungsmaßnahmen im WissKI/SCS
+## 3.1 Ereignisorientierte Erfassung von KuR-Maßnahmen im WissKI/SCS
 
 **Ereignisorientierte Datenerfassung im SCS**
 

@@ -50,7 +50,7 @@ Metadaten „enthalten strukturierte Informationen über Daten, Objekte oder and
 
 Im Forschungsdatenmanagement werden **verschiedene Arten von Metadaten** unterschieden: [9]
 
-- **Deskriptive Metadaten** beschreiben ein Objekt und seinen Kontext und dienen der Zieterbarkeit und Auffindbarkeit.
+- **Deskriptive Metadaten** beschreiben ein Objekt und seinen Kontext und dienen der Zietierbarkeit und Auffindbarkeit.
 
 - **Administrative Metadaten** regeln organisatorische, rechtliche oder technische Rahmenbedingungen und sind für die Verwaltung und langfristige Aufbewahrung der Daten notwendig.
 

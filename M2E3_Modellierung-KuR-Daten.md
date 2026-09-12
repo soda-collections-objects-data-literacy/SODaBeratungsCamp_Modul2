@@ -42,7 +42,7 @@ Lernende können...
 
 Für die Erfassung von Konservierungs- und Restaurierungsdaten wird der [**Semantic Coworking Space (SCS)**](https://manager.scs.sammlungen.io/) als eine von SODa entwickelte cloudbasierte Arbeitsumgebung eingesetzt. 
 
-Der SCS stellt verschiedene digitale Werkzeuge für die Arbeit mit Sammlungsdaten bereit, insbesondere die virtuelle Forschungsumgebung [**WissKI (WissenschaftlicheInfrastruktur)**](https://wiss-ki.eu/de) zur **strukturierten Erfassung und Modellierung von Daten** [1] nebst dem **fachspezifischen Modell für Konservierungs- und Restaurierungsdaten** [2] welches auf dem zuvor eingeführten Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [3] basiert.
+Der SCS stellt verschiedene digitale Werkzeuge für die Arbeit mit Sammlungsdaten bereit, insbesondere die virtuelle Forschungsumgebung [**WissKI (WissenschaftlicheInfrastruktur)**](https://wiss-ki.eu/de) zur **strukturierten Erfassung und Modellierung von Daten** [1] mit einem **fachspezifischen Modell für Konservierungs- und Restaurierungsdaten (KuR-Modell)**, [2] welches auf dem zuvor eingeführten Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [3] basiert.
 
 Konservierungs- und Restaurierungsmaßnahmen sind stets ein **zielgerichteter Prozess** **zeitlich begrenzter Ereignisse**, die einen **konkreten Objektbezug** haben und in deren Verlauf unterschiedliche Informationen zusammenkommen können. [4] Dazu gehören beispielsweise:
 
@@ -83,15 +83,15 @@ In der Mockup-App werden diese Metadaten in Form einer Eingabemaske visualisiert
 
 ### Von der Eingabemaske zurm Ereignismodell
 
-Die Abbildung 2 macht dagegen sichtbar, wie diese fachlichen Angaben im WissKI/SCS auf Grundlage des zugrunde liegenden Datenmodells erfasst werden. 
+Die Abbildung 2 macht dagegen sichtbar, wie diese fachlichen Angaben im WissKI/SCS auf Grundlage des zugrunde liegenden KuR-Datenmodells erfasst werden. 
 
-**Der im KuR-MDS als "Anlass der Erhaltungsmaßnahme** bezeichnete Aspekt wird dabei nicht als einfache Eigenschaft der Maßnahme erfasst, sondern als Bezug zu einem weiteren Ereignis modeliert. 
+**Der im KuR-MDS als "Anlass der Erhaltungsmaßnahme"** bezeichnete Aspekt wird dabei nicht als einfache Eigenschaft der Erhaltungsmaßnahme oder des Erhaltungskonzepts erfasst, sondern in Ereignisbezügen modeliert. 
 
-Im dargestellten Beispiel wird die **Erhaltungsmaßnahme mit einem *Condition Assessment*** verknüpft. Die Angabe *Connected with condition assessement* beschreibt diese Beziehung. Über *Create Condition assessment for reference* kann ein entsprechendes Ereignis angelegt und als Bezug zur Erhaltungsmaßnahme erfasst werden.
+Im dargestellten Beispiel wird die **Erhaltungsmaßnahme vom Typ Re-creation mit einem *Condition Assessment*** verknüpft. Die Erhaltungsmaßnahme wird also mit einem Ereignis verknüpft, der Zustandsbewertung, durch welche die Erhaltungsmaßnahme motiviert ist. Die Angabe *Connected with condition assessement* beschreibt diese Beziehung. Über *Create Condition assessment for reference* kann ein entsprechendes Ereignis angelegt und als Bezug zur Erhaltungsmaßnahme erfasst werden.
 
 ![Visualisierung ereignisorientierte Erfassung des Anlasses der Erhaltungsmaßnahme](assets/2026_09_09-EreignisorientierteErfassungWissKISCS1.png)
 
->**Abbildung 2:** Gegenüberstellung eines Ausschnitts des KuR-MDS Eingabemaske in der Mockup-App (links) und Modellierung des "Anlasses der Erhaltungsmaßnahme" als verknüpftes Ereignis im WissKI/SCS (rechts)
+>**Abbildung 2:** Gegenüberstellung eines Ausschnitts der hierarchisch strukturierten Eingabemaske in der Mockup-App (links) und Modellierung des "Anlasses der Erhaltungsmaßnahme" als verknüpftes Ereignis im WissKI/SCS (rechts)
 
 **Hinweis:**
 

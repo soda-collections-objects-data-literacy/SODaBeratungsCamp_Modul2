@@ -80,7 +80,7 @@ Das Projekt **SODa - Sammlungen, Objekte, Datenkompetenzen** wird durch das Bund
   >
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://raw.githubusercontent.com/soda-collections-objects-data-literacy/WissKIBits_How-to-Tutorial/refs/heads/main/assets/FinanziertVonDerEU.jpg"
+    src="https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/refs/heads/main/assets/FinanziertVonDerEU.jpg"
     alt="Finanziert von der Europäischen Union"
     width="220"
   >

@@ -68,6 +68,27 @@ Bitte nenne bei Verwendung die Quelle wie folgt:
 
 ---
 
+## Förderhinweis
+
+Das Projekt **SODa - Sammlungen, Objekte, Datenkompetenzen** wird durch das Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) und die Europäische Union - NextGenerationEU gefördert.
+
+<p>
+  <img
+    src="https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/refs/heads/main/assets/BMFTR_de_Web_RGB_gef_durch.jpg"
+    alt="Gefördert durch: Bundesministerium für Forschung, Technologie und Raumfahrt"
+    width="280"
+  >
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/soda-collections-objects-data-literacy/WissKIBits_How-to-Tutorial/refs/heads/main/assets/FinanziertVonDerEU.jpg"
+    alt="Finanziert von der Europäischen Union"
+    width="220"
+  >
+</p>
+
+
+---
+
 ## Zitationsempfehlung
 
 [Zitationsempfehlung ergänzen]

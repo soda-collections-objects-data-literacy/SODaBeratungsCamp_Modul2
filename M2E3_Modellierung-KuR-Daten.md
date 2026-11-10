@@ -28,6 +28,12 @@ Einheit 3: **Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstr
 
 Lernende können...
 
+- für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen erläutern. (LZ-ID SODa\_01\_010\_0203)
+
+- Nutzen der Wissenschaftlichen Kommunikationsinfrastruktur WissKI benennen. (LZ-ID SODa\_01\_010\_0204)
+
+
+
 ---
 
 ## Voraussetzung

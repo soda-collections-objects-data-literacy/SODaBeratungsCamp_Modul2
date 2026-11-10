@@ -58,9 +58,9 @@ Das Modul wird aktiv moderiert und ist interaktiv gestaltet; Teilnehmende sind e
 
 ## Lernziele
 
-Lernende können...
-
 ### M2E1: Das KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten  
+
+Lernende können...
 
 - den Begriff Metadaten erläutern. (LZ-ID 03\_02\_0626)
 - verschiedene Arten von Metadaten benennen. (LZ-ID 03\_02\_0627)
@@ -69,6 +69,10 @@ Lernende können...
 - den Begriff Metadatenschema erläutern (LZ-ID SODa\_03\_003\_0675)
 - die Relevanz von Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation benennen und erläutern. (LZ-ID SODa\_03\_003\_0676 & LZ-ID SODa\_03\_003\_0677)
 - ein Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) benennen und erläutern. (LZ-ID SODa\_03\_003\_0678 & LZ-ID SODa\_03\_003\_0679)
+
+---
+
+
 
 ## Voraussetzungen
 

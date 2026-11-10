@@ -29,6 +29,14 @@ Einheit 1: **Das KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und
 
 Lernende können...
 
+- den Begriff Metadaten erläutern. (LZ-ID 03\_02\_0626)
+- verschiedene Arten von Metadaten benennen. (LZ-ID 03\_02\_0627)
+- die Relevanz von Metadaten benennen und erläutern. (LZ-ID 03\_02\_0628 & LZ-ID 03\_02\_0628)
+- die Relevanz von Metadaten in der Konservierungs- und Restaurierungsdokumentation benennen und erläutern. (neu & neu)
+- den Begriff Metadatenschema erläutern (neu)
+- die Relevanz von Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation benennen und erläutern. (neu & neu)
+- ein Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) benennen und erläutern. (neu & neu)
+
 ---
 
 ## Voraussetzung

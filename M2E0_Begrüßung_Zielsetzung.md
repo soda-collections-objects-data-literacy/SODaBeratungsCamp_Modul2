@@ -62,13 +62,25 @@ Das Modul wird aktiv moderiert und ist interaktiv gestaltet; Teilnehmende sind e
 
 Lernende können...
 
-- den Begriff Metadaten erläutern. (LZ-ID 03\_02\_0626)
-- verschiedene Arten von Metadaten benennen. (LZ-ID 03\_02\_0627)
-- die Relevanz von Metadaten benennen und erläutern. (LZ-ID 03\_02\_0628 & LZ-ID 03\_02\_0629)
-- die Relevanz von Metadaten in der Konservierungs- und Restaurierungsdokumentation benennen und erläutern. (LZ-ID SODa\_03\_002\_0628a & LZ-ID SODa\_03\_002\_0629a)
-- den Begriff Metadatenschema erläutern (LZ-ID SODa\_03\_003\_0675)
-- die Relevanz von Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation benennen und erläutern. (LZ-ID SODa\_03\_003\_0676 & LZ-ID SODa\_03\_003\_0677)
-- ein Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) benennen und erläutern. (LZ-ID SODa\_03\_003\_0678 & LZ-ID SODa\_03\_003\_0679)
+1\.1 den Begriff Metadaten erläutern. (LZ-ID 03\_02\_0626)
+
+1\.2 verschiedene Arten von Metadaten benennen. (LZ-ID 03\_02\_0627)
+
+1\.3 die Relevanz von Metadaten benennen und erläutern. (LZ-ID 03\_02\_0628 & LZ-ID 03\_02\_0629)
+
+1\.4 die Relevanz von Metadaten in der Konservierungs- und Restaurierungsdokumentation benennen (LZ-ID SODa\_03\_002\_0628a)
+
+1\.5 die Relevanz von Metadaten in der Konservierungs- und Restaurierungsdokumentation erläutern. (LZ-ID SODa\_03\_002\_0629a)
+
+1\.6 den Begriff Metadatenschema erläutern (LZ-ID SODa\_03\_003\_0675)
+
+1\.7 die Relevanz von Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation benennen. (LZ-ID SODa\_03\_003\_0676)
+
+1\.8 die Relevanz von Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation erläutern. (LZ-ID SODa\_03\_003\_0677)
+
+1\.9 ein Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) benennen. (LZ-ID SODa\_03\_003\_0678)
+
+1\.10 ein Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) erläutern. (LZ-ID SODa\_03\_003\_0679)
 
 ---
 

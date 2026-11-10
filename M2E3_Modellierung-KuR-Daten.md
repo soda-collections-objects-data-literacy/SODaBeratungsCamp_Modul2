@@ -32,6 +32,8 @@ Lernende können...
 
 - Nutzen der Wissenschaftlichen Kommunikationsinfrastruktur WissKI benennen. (LZ-ID SODa\_01\_010\_0204)
 
+- im WissKI/SCS implementiertes semantisches Datenmodell für die Erfassung von Konservierungs- und Restaurierungsmaßnahmen (SCS Default Model) benennen. (neu)
+
 - Ereignisorienterte Erfassung von Konservierungs- und Restaurierungsmaßnahmen
 
 - Ereignisorienterte Erfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel
@@ -39,6 +41,12 @@ Lernende können...
 - Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0805)
 
 - Nutzen des ereignisorientierten Modellierungsprinzips am Beispiel der Erfassung von Konservierungs- und Restaurierungsmaßnahmen benennen. (neu)
+
+- Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel erläutern. (neu)
+
+- Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel anwenden. (neu)
+e
+- Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel diskutieren. (neu)
 
 
 

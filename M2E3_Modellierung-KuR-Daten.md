@@ -32,6 +32,14 @@ Lernende können...
 
 - Nutzen der Wissenschaftlichen Kommunikationsinfrastruktur WissKI benennen. (LZ-ID SODa\_01\_010\_0204)
 
+- Ereignisorienterte Erfassung von Konservierungs- und Restaurierungsmaßnahmen
+
+- Ereignisorienterte Erfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel
+
+- Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0805)
+
+- Nutzen des ereignisorientierten Modellierungsprinzips am Beispiel der Erfassung von Konservierungs- und Restaurierungsmaßnahmen benennen. (neu)
+
 
 
 ---

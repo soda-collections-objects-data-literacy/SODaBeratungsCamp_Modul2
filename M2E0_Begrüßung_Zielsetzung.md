@@ -157,7 +157,7 @@ Damit wird die Voraussetzung geschaffen, die in der Konservierungs- und Restauri
 
 [2] Weber, C. (2020). Universitätssammlungen: keine Museen, sondern Infrastrukturen für Forschung und Lehre. In ICOM Deutschland und M. Walz (Hrsg.), Museum: ausreichend. Die „untere Grenze“ der Museumsdefinition: Tagungsband des Internationalen Bodensee-Symposiums 2018 (Beiträge zur Museologie, Band 9, S. 130–140). https://doi:10.11588/arthistoricum.565.c8979
 
-[3] NFDI4Objects Conservation Data Framework Online Portal. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS), Version 1.0. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 24.11.2026)
+[3] NFDI4Objects Conservation Data Framework Online-Portal. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS), Version 1.0. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 24.11.2026)
 
 [4] SODa. (o. D.). Semantic Coworking Space. https://sammlungen.io/kb/scs (Stand: 24.11.2026)
 

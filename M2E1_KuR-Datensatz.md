@@ -153,7 +153,11 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 | Verwendete Literatur | Optional | https://www.w3id.org/conservation/terms/metadata/F2AG55 |
 
 
-> Quelle: [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/)
+> Quelle: [NFDI4Objects: Conservation Data Framework Online-Portal, CC BY 4.0](https://nfdi4objects.github.io/n4o_conservation_data_framework/) & [Conservation Metadata Terminology, CC BY 4.0](https://conservationdata.github.io/terms/metadata.html)
+
+    deen
+
+
 
 ---
 

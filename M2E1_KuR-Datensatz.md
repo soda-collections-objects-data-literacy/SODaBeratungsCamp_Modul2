@@ -246,14 +246,18 @@ Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsd
 
 [8] (Biernacka et al., 2023, S. 59)
 
-[9] https://www.orca.nrw/moodle/mod/page/view.php?id=22320
+[9] Stegemann, J., Yildiz, C., Blümm, M., Bock, S., Fritsch, K., Kaiser, K. & Rathmann, T. (2024). Arten von Metadaten. In *Schluss mit dem Datenchaos – Wie Forschungsdatenmanagement für Ordnung sorgt* (Version 1.0) [Lernbaustein, FDM@Studium.nrw Selbstlernkurs]. ORCA.nrw. https://www.orca.nrw/moodle/mod/page/view.php?id=22320 (Stand: 24.11.2026)
 
-[10] https://wiki.dnb.de/spaces/DINIAGKIM/pages/43523047/Kompetenzzentrum+Interoperable+Metadaten+KIM?preview=%2F43523047%2F152017862%2F201209_metadaten.pdf
+[10] Rühle, S. (2019). Metadaten. In *Kleines Handbuch Metadaten.* https://wiki.dnb.de/download/attachments/43523047/201209_metadaten.pdf (Stand: 24.11.2026)
 
-[11] NFDI4Objects. (n. D.). Conservation Data Framework. https://www.nfdi4objects.net/services/conservation-data-framework/
+[11] NFDI4Objects. (o. D.). NFDI4Objects Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/ (Stand: 24.11.2026)
+
+https://www.nfdi4objects.net/services/conservation-data-framework/
 
 [12] https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/98
 
+
+[3] NFDI4Objects Conservation Data Framework Online-Portal. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS), Version 1.0. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 24.11.2026)
 ---
 
 ### Metadaten

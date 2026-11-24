@@ -153,7 +153,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 | Verwendete Literatur | Optional | https://www.w3id.org/conservation/terms/metadata/F2AG55 |
 
 
-> Quelle: [NFDI4Objects: Conservation Data Framework Online-Portal, CC BY 4.0](https://nfdi4objects.github.io/n4o_conservation_data_framework/) & [Conservation Metadata Terminology, CC BY 4.0](https://conservationdata.github.io/terms/metadata.html)
+> Quellen: [Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/) (NFDI4Objects) [] & [Conservation Metadata Terminology](https://conservationdata.github.io/terms/metadata.html) (TWG Community-Standards) []
 
 ---
 
@@ -242,8 +242,11 @@ odo. https://doi.org/10.5281/ZENODO.10122153
 
 [6 9] NFDI4Objects (o. D.). Die thematischen Sektionen des KuR-Metadatenschemas. Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/ (Stand: 24.11.2026)
 
-
 [7 10] Hagel, F. v. (2025). Konservierung/Restaurierung (Metadatenvokabular). https://museumsvokabular.de/metadatenvokabular-konservierung-restaurierung/ (Stand: 08.09.2026)
+
+[11] NFDI4Objects. (o. D.). NFDI4Objects Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/ (Stand: 24.11.2026)
+
+[12] TWG Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. (o. D.). Conservation Metadata Terminology [Kontrolliertes Vokabular]. Restaurierungs- und Konservierungsdaten. https://conservationdata.github.io/terms/metadata.html (Stand: 24.11.2026)
 
 
 
@@ -251,11 +254,7 @@ odo. https://doi.org/10.5281/ZENODO.10122153
 
 [5] Fischer, K., & Lasse Mempel-Länger. (2025, October 16). Aufbau eines Minimalmetadatensatzes für die Konservierung-Restaurierung. Zenodo. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
-[6] NFDI4Objects Conservation Data Framework Online Portal. (o. D.). Die thematischen Sektionen des KuR Metadatenschemas. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/ (Stand: 11.09.2026)
 
-[11] NFDI4Objects. (o. D.). NFDI4Objects Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/ (Stand: 24.11.2026)
-
-https://www.nfdi4objects.net/services/conservation-data-framework/
 
 [12] https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/98
 

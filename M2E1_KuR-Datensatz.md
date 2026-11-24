@@ -128,7 +128,7 @@ Für die einzelnen **Sektionen** und den zugehörigen spezifischen **KuR-Metadat
   - **Optional:** Das Metadatenelement dient der Erweiterung des KuR-MDS für spezifische Fachdisziplinen und Arbeitskontexte sowie für einen kontextspezifischen Ausbau der Dokumentation.
   
 
-Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der **Conservation Metadata Terminology** definiert. [7] Die Definitionen umfassen unter anderem folgende Angaben: **Begriffsdefinition, Verpflichtungsgrad, Feldwert, Wiederholbarkeit, Verwendungshinweis sowie eine eindeutige URI**.
+Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservation Metadata Terminology**](https://conservationdata.github.io/terms/metadata.html) definiert. [7] Die Definitionen umfassen unter anderem folgende Angaben: **Begriffsdefinition, Verpflichtungsgrad, Feldwert, Wiederholbarkeit, Verwendungshinweis sowie eine eindeutige URI**.
 
 
 > **Hinweis:**  

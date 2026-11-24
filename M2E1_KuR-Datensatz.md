@@ -155,10 +155,6 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 > Quelle: [NFDI4Objects: Conservation Data Framework Online-Portal, CC BY 4.0](https://nfdi4objects.github.io/n4o_conservation_data_framework/) & [Conservation Metadata Terminology, CC BY 4.0](https://conservationdata.github.io/terms/metadata.html)
 
-    deen
-
-
-
 ---
 
 ## 1.6 Beispiel: Sektion Erhaltungskonzept

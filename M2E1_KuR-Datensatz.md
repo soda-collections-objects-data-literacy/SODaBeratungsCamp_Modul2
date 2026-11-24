@@ -68,9 +68,9 @@ Es gibt zahlreiche **Definitionen:**
 Metadaten „enthalten strukturierte Informationen über Daten, Objekte oder andere Ressourcen und machen diese identifizierbar, auffindbar und interpretierbar.“ [1]
 
 
-Im Forschungsdatenmanagement werden **verschiedene Arten von Metadaten** unterschieden: [9]
+Im Forschungsdatenmanagement werden **verschiedene Arten von Metadaten** unterschieden: [1] [9]
 
-- **Deskriptive Metadaten** beschreiben ein Objekt und seinen Kontext und dienen der Zietierbarkeit und Auffindbarkeit.
+- **Deskriptive/Bibliografische Metadaten** beschreiben ein Objekt und seinen Kontext und dienen der Zietierbarkeit und Auffindbarkeit.
 
 - **Administrative Metadaten** regeln organisatorische, rechtliche oder technische Rahmenbedingungen und sind für die Verwaltung und langfristige Aufbewahrung der Daten notwendig.
 
@@ -79,7 +79,7 @@ Im Forschungsdatenmanagement werden **verschiedene Arten von Metadaten** untersc
 - **Strukturelle Metadaten** beschreiben, die Datenstruktur und wie einzelne Informationen verknüpft sind.
 
 
-„Ein **Metadatenschema** legt fest, welche Informationen zu einem Objekt oder einer Ressource erfasst werden, wie diese Informationen benannt werden und welche Felder verpflichtend oder wiederholbar sind.“ [1]
+„Ein **Metadatenschema** "ist eine Sammlung von Metadaten-Elementen und Eigenschaften, mit denen Objekte und deren Beziehungen zueinander strukturiert beschrieben und verarbeitet werden können." [13] Es "legt fest, welche Informationen zu einem Objekt oder einer Ressource erfasst werden, wie diese Informationen benannt werden und welche Felder verpflichtend oder wiederholbar sind.“ [1]
 
 Unterschieden werden hierbei das **Erfassungsformat, das Speicherformat und das Austauschformat**. [10]
 
@@ -244,7 +244,9 @@ Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsd
 
 [7] Hagel, F. v. (2025). Konservierung/Restaurierung (Metadatenvokabular). https://museumsvokabular.de/metadatenvokabular-konservierung-restaurierung/ (Stand: 08.09.2026)
 
-[8] (Biernacka et al., 2023, S. 59)
+[8] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes,
+C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zen-
+odo. https://doi.org/10.5281/ZENODO.10122153
 
 [9] Stegemann, J., Yildiz, C., Blümm, M., Bock, S., Fritsch, K., Kaiser, K. & Rathmann, T. (2024). Arten von Metadaten. In *Schluss mit dem Datenchaos – Wie Forschungsdatenmanagement für Ordnung sorgt* (Version 1.0) [Lernbaustein, FDM@Studium.nrw Selbstlernkurs]. ORCA.nrw. https://www.orca.nrw/moodle/mod/page/view.php?id=22320 (Stand: 24.11.2026)
 
@@ -255,6 +257,8 @@ Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsd
 https://www.nfdi4objects.net/services/conservation-data-framework/
 
 [12] https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/98
+
+[13] Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Glossar zur Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3) [Working Paper]. Zenodo. https://doi.org/10.5281/zenodo.15025246
 
 
 [3] NFDI4Objects Conservation Data Framework Online-Portal. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS), Version 1.0. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 24.11.2026)

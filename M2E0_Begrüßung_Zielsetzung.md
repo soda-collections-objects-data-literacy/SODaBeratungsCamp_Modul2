@@ -90,7 +90,7 @@ Lernende können...
 
 *keine*
 
-Die Kenntnis der Inhalte aus Modul 1: Arbeiten mit strukturierten Daten in der Konservierungsdokumentation (https://doi.org/10.5281/zenodo.17832837) sind von Vorteil.
+Die Kenntnis der Inhalte aus *SODaBeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungsdokumentation* [1] sind von Vorteil.
 
 ---
 

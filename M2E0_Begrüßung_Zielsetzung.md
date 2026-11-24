@@ -135,7 +135,7 @@ Der Prozess wird am Beispiel der **medienarchäologischen Erschließung** in **d
 
 2) Darauf aufbauend werden **unstrukturierte Konservierungs- und Restaurierungsdaten an konkreten medienarchäologischen Beispiel(en) analysiert und strukturiert.**
 
-3) Abschließend wird betrachtet, wie die strukturierten Informationen in den **SODa Semantic Co-Working Space (SCS) als graphbasierte Datenstruktur modelliert und erfasst** werden können.
+3) Abschließend wird betrachtet, wie die strukturierten Informationen in den **SODa Semantic Co-Working Space (SCS) [4] als graphbasierte Datenstruktur modelliert und erfasst** werden können.
 
 ---
 
@@ -145,7 +145,7 @@ Ziel des Moduls ist es, den Prozess der **Überführung vorhandener Konservierun
 
 Im Mittelpunkt stehen dabei die **Analyse und fachliche Erschließung** vorhandener Informationen, ihre **Strukturierung** mithilfe geeigneter Metadaten sowie ihre anschließende **digitale Modellierung und Erfassung**.
 
-Die Strukturierung und Zuordnung zum KuR-MDS wird dabei nicht ausschließlich als technischer Aufbereitungsschritt verstanden, sondern als **Teil des wissenschaftlichen Erschließungsprozesses**. 
+Die Strukturierung und Zuordnung zum KuR-MDS [3] wird dabei nicht ausschließlich als technischer Aufbereitungsschritt verstanden, sondern als **Teil des wissenschaftlichen Erschließungsprozesses**. 
 
 Damit wird die Voraussetzung geschaffen, die in der Konservierungs- und Restaurierungsdokumentation entstehenden Forschungsdaten systematisch und nachhaltig zu sichern und zu verknüpfen um Zusammenhänge sichtbar zumachen um weiterführende Forschungsfragen zu ermöglichen und eine wissenschaftliche Nachnutzung zu gewährleisten.
 
@@ -158,6 +158,8 @@ Damit wird die Voraussetzung geschaffen, die in der Konservierungs- und Restauri
 [2] Weber, C. (2020). Universitätssammlungen: keine Museen, sondern Infrastrukturen für Forschung und Lehre. In ICOM Deutschland und M. Walz (Hrsg.), Museum: ausreichend. Die „untere Grenze“ der Museumsdefinition: Tagungsband des Internationalen Bodensee-Symposiums 2018 (Beiträge zur Museologie, Band 9, S. 130–140). https://doi:10.11588/arthistoricum.565.c8979
 
 [3] NFDI4Objects Conservation Data Framework Online Portal. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS), Version 1.0. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 24.11.2026)
+
+[4] SODa. (o. D.). Semantic Coworking Space. https://sammlungen.io/kb/scs (Stand: 24.11.2026)
 
 
 

@@ -94,7 +94,7 @@ Die Kenntnis der Inhalte aus Modul 1: Arbeiten mit strukturierten Daten in der K
 
 ---
 
-## Rückblick Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation
+## Rückblick Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation [1]
 
 Das **Modul 1** besteht aus zwei Einheiten:
 
@@ -103,7 +103,7 @@ Das **Modul 1** besteht aus zwei Einheiten:
 
 Das Mudul 1 macht deutlich, dass die Konservierung und Restaurierung von Objekten in wissenschaftlichen Sammlungen vor **besonderen Herausforderungen** stehen: 
 
-- Die Objekte müssen einerseits langfristig erhalten werden und sollen gleichzeitig für Lehr- und Forschungskontexte zugänglich und nutzbar bleiben. Die Bewahrung bewegt sich damit in einem **Spannungsfeld zwischen Substanzerhalt und Nutzbarmachung**.
+- Die Objekte müssen einerseits langfristig erhalten werden und sollen gleichzeitig für Lehr- und Forschungskontexte zugänglich und nutzbar bleiben. Die Bewahrung bewegt sich damit in einem **Spannungsfeld zwischen Substanzerhalt und Nutzbarmachung**. [2]
   
 - Die **Konservierungs- und Restaurierungsdokumentation** ist kontinuierlich und begleitend zu allen einzelnen Arbeisschritten des Konservierungs- und Restaurierungsprozesses. Die erhobenen Forschungsdaten entstehen auf Basis verschiedener fachlicher Fragestellungen, Schwerpunktsetzungen und beziehen sich auf unterschiedliche Aspekte des Objekts; von seiner materiellen Beschaffenheit und seinem Erhaltungszustand bis hin zu den durchgeführten Untersuchungen, Konservierungs- und Restaurierungsmaßnahmen sowie den dabei getroffenen Entscheidungen.
 
@@ -131,7 +131,7 @@ Im Zentrum steht dabei die Frage, wie vorhandene, häufig heterogen oder unstruk
 
 Der Prozess wird am Beispiel der **medienarchäologischen Erschließung** in **drei aufeinander aufbauenden Einheiten** vermittelt:
 
-1) Zunächst wird mit dem **Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)** ein konkretes Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten vorgestellt. 
+1) Zunächst wird mit dem **Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS), Version 1.0** [3] ein konkretes Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten vorgestellt. 
 
 2) Darauf aufbauend werden **unstrukturierte Konservierungs- und Restaurierungsdaten an konkreten medienarchäologischen Beispiel(en) analysiert und strukturiert.**
 
@@ -153,7 +153,11 @@ Damit wird die Voraussetzung geschaffen, die in der Konservierungs- und Restauri
 
 ## Bibliografie
 
-https://doi.org/10.5281/zenodo.17832837 
+[1] Hastik, C., & Schwenk, G. A. (2025, Dezember 5). SODaBeratungsCamp: Modul 1. Zenodo. https://doi.org/10.5281/zenodo.17832837
+
+[2] Weber, C. (2020). Universitätssammlungen: keine Museen, sondern Infrastrukturen für Forschung und Lehre. In ICOM Deutschland und M. Walz (Hrsg.), Museum: ausreichend. Die „untere Grenze“ der Museumsdefinition: Tagungsband des Internationalen Bodensee-Symposiums 2018 (Beiträge zur Museologie, Band 9, S. 130–140). https://doi:10.11588/arthistoricum.565.c8979
+
+[3] NFDI4Objects Conservation Data Framework Online Portal. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS), Version 1.0. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 24.11.2026)
 
 
 

@@ -113,9 +113,9 @@ Objekte werden häufig nur partiell und im Rahmen konkreter Ausstellungs-, Forsc
 
 Die KuR-Prozesse und ihre Dokumentationen sind daher sehr unterschiedlich und umfassen nicht immer alle Aspekte des Restaurierungsprozesses.
 
+### Die Sektionen
 
-  
-Der KuR-MDS strukturiert die grundlegenden "Prozesse im Umgang mit Kunst- und Kulturgut im Kontext konservatorisch-restauratorischer Arbeiten" [6] in **elf übergeordnete Kategorien**, die als **Sektionen** bezeichnet werden. 
+Der KuR-MDS strukturiert die grundlegenden "Prozesse im Umgang mit Kunst- und Kulturgut im Kontext konservatorisch-restauratorischer Arbeiten" [6] in **zehn übergeordnete Kategorien**, die als **Sektionen** bezeichnet werden. 
 
 Für die einzelnen **Sektionen** und den zugehörigen spezifischen **KuR-Metadatenelementen** sind **Verpflichtungsgrade** zugeordnet. Ingesgesamt gibt es **vier Verpflichtungsgrade**: [6]
 
@@ -243,14 +243,15 @@ odo. https://doi.org/10.5281/ZENODO.10122153
 [6 9] NFDI4Objects (o. D.). Die thematischen Sektionen des KuR-Metadatenschemas. Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/ (Stand: 24.11.2026)
 
 
+[7 10] Hagel, F. v. (2025). Konservierung/Restaurierung (Metadatenvokabular). https://museumsvokabular.de/metadatenvokabular-konservierung-restaurierung/ (Stand: 08.09.2026)
+
+
 
 [4] Mempel-Länger L., Fischer, K., Witt, N., Gulbins, G., Schwenk, G. A., Schoel, E., & Zettner, H. (2025). Standardisierung der Konservierungs-Restaurierungs-Dokumentation - Minimaldatensatz für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [Graphic]. Zenodo. NFDI4Objects Community Meeting 2025, Bochum. https://doi.org/10.5281/zenodo.17151310
 
 [5] Fischer, K., & Lasse Mempel-Länger. (2025, October 16). Aufbau eines Minimalmetadatensatzes für die Konservierung-Restaurierung. Zenodo. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 [6] NFDI4Objects Conservation Data Framework Online Portal. (o. D.). Die thematischen Sektionen des KuR Metadatenschemas. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/ (Stand: 11.09.2026)
-
-[7] Hagel, F. v. (2025). Konservierung/Restaurierung (Metadatenvokabular). https://museumsvokabular.de/metadatenvokabular-konservierung-restaurierung/ (Stand: 08.09.2026)
 
 [11] NFDI4Objects. (o. D.). NFDI4Objects Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/ (Stand: 24.11.2026)
 

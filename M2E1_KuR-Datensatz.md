@@ -103,7 +103,7 @@ Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurieru
 
 ---
 
-### 1.3.1 Aufbau und grundlegende Begriffe des KuR-MDS
+## 1.4 Aufbau und grundlegende Begriffe des KuR-MDS
 
 Das KuR-MDS besitzt eine **modulare Struktur** und ermöglicht eine bedarfsgerechte KuR-Dokumentation. [6]
 
@@ -113,7 +113,7 @@ Objekte werden häufig nur partiell und im Rahmen konkreter Ausstellungs-, Forsc
 
 Die KuR-Prozesse und ihre Dokumentationen sind daher sehr unterschiedlich und umfassen nicht immer alle Aspekte des Restaurierungsprozesses.
 
-### 1.3.2 Die Sektionen
+## 1.5 Die Sektionen
 
 Der KuR-MDS strukturiert die grundlegenden "Prozesse im Umgang mit Kunst- und Kulturgut im Kontext konservatorisch-restauratorischer Arbeiten" [6] in **zehn übergeordnete Kategorien**, die als **Sektionen** bezeichnet werden. 
 
@@ -137,7 +137,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 ---
 
-### 1.3.3 Überblick über die Sektionen
+## 1.6 Überblick über die Sektionen
 
 | Sektionen | Verpflichtungsgrad | URI (Conservation Metadata Terminology) |
 |--------|--------|------|
@@ -157,9 +157,9 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 ---
 
-### 1.3.4 Beispiel: Sektion Erhaltungskonzept
+## 1.7 Beispiel: Sektion Erhaltungskonzept
 
-#### Zweck und Funktion
+### Zweck und Funktion
 
 ![Beispiel Sektion Erhaltungskonzept](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_25-CDF_Erhaltungskonzept.png)
 
@@ -169,7 +169,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 ---
 
-#### Metadaten der Sektion Erhaltungskonzept
+### Metadaten der Sektion Erhaltungskonzept
 
 ![Beispiel Metadatenelemente Sektion Erhaltungskonzept](https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/main/assets/2026_11_25-CDF_MetadatenelementeErhaltungskonzept.png)
 
@@ -179,7 +179,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 ---
 
-#### Definition des Metadatums Zuständige Person
+### Definition des Metadatums Zuständige Person
 
 ![Beispiel Eintrag Zuständige Person (Erhaltungsmaßnahme) aus Conservation Metadata Terminology](/assets/2026_11_25-CDF_CMT_ZustaendigePerson.png)
 
@@ -188,7 +188,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 ---
 
-## 1.7 Weiterführende Hinweise und wichtige Links 
+## 1.8 Weiterführende Hinweise und wichtige Links 
 
 **NFDI4Objects Conservation Data Framework (CDF):**
 
@@ -216,7 +216,7 @@ Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsd
 
 ---
 
-## 1.8 Ausblick
+## 1.9 Ausblick
 
 ---
 

@@ -161,30 +161,30 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 ### Zweck und Funktion
 
-![Beispiel Sektion Erhaltungskonzept](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_09_09-CDF_Erhaltungskonzept.png)
+![Beispiel Sektion Erhaltungskonzept](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_25-CDF_Erhaltungskonzept.png)
 
 
->**Abbildung:** Beschreibung von Zweck und Funktion der Sektion *Erhaltungskonzept* aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/06_conservation_plan.html) (Stand: 09.09.2026)  
+>**Abbildung:** Beschreibung von Zweck und Funktion der Sektion *Erhaltungskonzept* aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/06_conservation_plan.html) (Stand: 25.11.2026)  
 > Die Webseite wurde aktualisiert und ist abrufbar unter [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan) (Stand: 11.09.2026)  
 
 ---
 
 ### Metadaten der Sektion Erhaltungskonzept
 
-![Beispiel Metadatenelemente Sektion Erhaltungskonzept](https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/main/assets/2026_09_09-CDF_MetadatenelementeErhaltungskonzept.png)
+![Beispiel Metadatenelemente Sektion Erhaltungskonzept](https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/main/assets/2026_11_25-CDF_MetadatenelementeErhaltungskonzept.png)
 
 
 >**Abbildung:** Überblick über die Metadatenelemente der Sektion *Erhaltungskonzept* mit entsprechenden Verpflichtungsgraden und Conservation Metadata Terminology-URIs aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/06_conservation_plan.html) (Stand: 09.09.2026)  
-> Die Webseite wurde aktualisiert und ist abrufbar unter [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan) (Stand: 11.09.2026)
+> Die Webseite wurde aktualisiert und ist abrufbar unter [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan) (Stand: 25.11.2026)
 
 ---
 
 ### Definition des Metadatums Zuständige Person
 
-![Beispiel Eintrag Zuständige Person (Erhaltungsmaßnahme) aus Conservation Metadata Terminology](/assets/2026_09_09-CDF_CMT_ZustaendigePerson.png)
+![Beispiel Eintrag Zuständige Person (Erhaltungsmaßnahme) aus Conservation Metadata Terminology](/assets/2026_11_25-CDF_CMT_ZustaendigePerson.png)
 
 
->**Abbildung:** Terminus *C79561 Zuständige Person (Erhaltungsmaßnahme)* aus der [Conservation Metadata Terminology](https://conservationdata.github.io/terms/metadata.html) (Stand: 09.09.2026)
+>**Abbildung:** Terminus *C79561 Zuständige Person (Erhaltungsmaßnahme)* aus der [Conservation Metadata Terminology](https://conservationdata.github.io/terms/metadata.html) (Stand: 25.11.2026)
 
 ---
 

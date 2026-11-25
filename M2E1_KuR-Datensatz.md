@@ -133,7 +133,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 > **Hinweis:**  
 > 
-> Detallierte Informationen zu Hintergrund, fachlichem und konzeptuellen Rahmen sowie Nachnutzung des KuR-MDS bietet das [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/). Die dort bereitgestellte Dokumentation umfasst eine detaillierte Beschreibung von Zweck und Funktion der einzelnen Sektionen sowie einen Überblick über die und eine Beschreibung der in den jeweiligen Sektionen enthaltenen Metadatenelemente, den Verpflichtungsgrad und die dazugehörigen URIs. Die im Conservation Data Framework bereitgestellten Inhalte stehen unter der CC BY 4.0-Lizenz und können unter Angabe der Quelle frei nachgenutzt werden.
+> Detallierte Informationen zu Hintergrund, fachlichem und konzeptuellen Rahmen sowie Nachnutzung des KuR-MDS bietet das [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/) [11]. Die dort bereitgestellte Dokumentation umfasst eine detaillierte Beschreibung von Zweck und Funktion der einzelnen Sektionen sowie einen Überblick über die und eine Beschreibung der in den jeweiligen Sektionen enthaltenen Metadatenelemente, den Verpflichtungsgrad und die dazugehörigen URIs. Die im Conservation Data Framework bereitgestellten Inhalte stehen unter der CC BY 4.0-Lizenz und können unter Angabe der Quelle frei nachgenutzt werden.
 
 ---
 
@@ -153,7 +153,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 | Verwendete Literatur | Optional | https://www.w3id.org/conservation/terms/metadata/F2AG55 |
 
 
-> Quellen: [Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/) (NFDI4Objects) [] & [Conservation Metadata Terminology](https://conservationdata.github.io/terms/metadata.html) (TWG Community-Standards) []
+> Quellen: [Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/) (NFDI4Objects) [11] & [Conservation Metadata Terminology](https://conservationdata.github.io/terms/metadata.html) (TWG Community-Standards) [12]
 
 ---
 

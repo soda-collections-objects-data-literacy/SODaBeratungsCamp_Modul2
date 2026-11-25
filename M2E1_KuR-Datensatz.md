@@ -99,7 +99,7 @@ Damit die unterschiedlichen Informationen über ihren ursprünglichen Dokumentat
 
 ## 1.3 Das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)
 
-Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)** [6] wurde von den Mitgliedern der **NFDI4Objects-TWG "Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbens"** [3] in einem iterativen Prozess und unter enger Rückbindung an die Fachcommunity entwickelt. [8] 
+Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)** wurde von den Mitgliedern der **NFDI4Objects-TWG "Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbens"** [3] in einem iterativen Prozess und unter enger Rückbindung an die Fachcommunity entwickelt. [6] 
 
 ---
 
@@ -164,8 +164,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 ![Beispiel Sektion Erhaltungskonzept](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_25-CDF_Erhaltungskonzept.png)
 
 
->**Abbildung:** Beschreibung von Zweck und Funktion der Sektion *Erhaltungskonzept* aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/06_conservation_plan.html) (Stand: 25.11.2026)  
-> Die Webseite wurde aktualisiert und ist abrufbar unter [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan) (Stand: 11.09.2026)  
+>**Abbildung:** Beschreibung von Zweck und Funktion der Sektion *Erhaltungskonzept* aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) [ (Stand: 25.11.2026)
 
 ---
 

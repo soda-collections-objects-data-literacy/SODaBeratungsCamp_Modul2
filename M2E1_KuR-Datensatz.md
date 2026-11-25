@@ -61,14 +61,14 @@ Lernende können...
 
 Es gibt zahlreiche **Definitionen:**
 
-„Metadaten sind strukturierte Daten, die Informationen über andere Daten beinhalten – Daten über Daten.“ [8]
+„Metadaten sind strukturierte Daten, die Informationen über andere Daten beinhalten – Daten über Daten.“ [1]
 
 „Metadaten beinhalten strukturierte Informationen über Daten (z.B. Forschungsdaten) oder andere Ressourcen und deren Merkmale. Sie werden entweder unabhängig von oder zusammen mit den Daten, die sie beschreiben, abgespeichert.“ [2]
 
-Metadaten „enthalten strukturierte Informationen über Daten, Objekte oder andere Ressourcen und machen diese identifizierbar, auffindbar und interpretierbar.“ [1]
+Metadaten „enthalten strukturierte Informationen über Daten, Objekte oder andere Ressourcen und machen diese identifizierbar, auffindbar und interpretierbar.“ [3]
 
 
-Im Forschungsdatenmanagement werden **verschiedene Arten von Metadaten** unterschieden: [1] [9]
+Im Forschungsdatenmanagement werden **verschiedene Arten von Metadaten** unterschieden: [3] [4]
 
 - **Deskriptive/Bibliografische Metadaten** beschreiben ein Objekt und seinen Kontext und dienen der Zietierbarkeit und Auffindbarkeit.
 
@@ -79,9 +79,9 @@ Im Forschungsdatenmanagement werden **verschiedene Arten von Metadaten** untersc
 - **Strukturelle Metadaten** beschreiben, die Datenstruktur und wie einzelne Informationen verknüpft sind.
 
 
-„Ein **Metadatenschema** "ist eine Sammlung von Metadaten-Elementen und Eigenschaften, mit denen Objekte und deren Beziehungen zueinander strukturiert beschrieben und verarbeitet werden können." [13] Es "legt fest, welche Informationen zu einem Objekt oder einer Ressource erfasst werden, wie diese Informationen benannt werden und welche Felder verpflichtend oder wiederholbar sind.“ [1]
+„Ein **Metadatenschema** "ist eine Sammlung von Metadaten-Elementen und Eigenschaften, mit denen Objekte und deren Beziehungen zueinander strukturiert beschrieben und verarbeitet werden können." [5] Es "legt fest, welche Informationen zu einem Objekt oder einer Ressource erfasst werden, wie diese Informationen benannt werden und welche Felder verpflichtend oder wiederholbar sind.“ [3]
 
-Unterschieden werden hierbei das **Erfassungsformat, das Speicherformat und das Austauschformat**. [10]
+Unterschieden werden hierbei das **Erfassungsformat, das Speicherformat und das Austauschformat**. [6]
 
 ---
 
@@ -99,13 +99,13 @@ Damit die unterschiedlichen Informationen über ihren ursprünglichen Dokumentat
 
 ## 1.3 Das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)
 
-Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)** wurde von den Mitgliedern der **NFDI4Objects-TWG "Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbens"** [3] in einem iterativen Prozess und unter enger Rückbindung an die Fachcommunity entwickelt. [6] 
+Das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)** wurde von den Mitgliedern der **NFDI4Objects-TWG "Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbens"** [7] in einem iterativen Prozess und unter enger Rückbindung an die Fachcommunity entwickelt. [8] 
 
 ---
 
 ## 1.4 Aufbau und grundlegende Begriffe des KuR-MDS
 
-Das KuR-MDS besitzt eine **modulare Struktur** und ermöglicht eine bedarfsgerechte KuR-Dokumentation. [6]
+Das KuR-MDS besitzt eine **modulare Struktur** und ermöglicht eine bedarfsgerechte KuR-Dokumentation. [9]
 
 Die zu konservierenden und restaurierenden Objekte stammen aus unterschiedlichen kulturellen und historischen Kontexten und unterscheiden sich in Material, Funktion, Erhaltungszustand und -anforderungen. 
 
@@ -115,9 +115,9 @@ Die KuR-Prozesse und ihre Dokumentationen sind daher sehr unterschiedlich und um
 
 ## 1.5 Die Sektionen
 
-Der KuR-MDS strukturiert die grundlegenden "Prozesse im Umgang mit Kunst- und Kulturgut im Kontext konservatorisch-restauratorischer Arbeiten" [6] in **zehn übergeordnete Kategorien**, die als **Sektionen** bezeichnet werden. 
+Der KuR-MDS strukturiert die grundlegenden "Prozesse im Umgang mit Kunst- und Kulturgut im Kontext konservatorisch-restauratorischer Arbeiten" in **zehn übergeordnete Kategorien**, die als **Sektionen** bezeichnet werden. [9] 
 
-Für die einzelnen **Sektionen** und den zugehörigen spezifischen **KuR-Metadatenelementen** sind **Verpflichtungsgrade** zugeordnet. Ingesgesamt gibt es **vier Verpflichtungsgrade**: [6]
+Für die einzelnen **Sektionen** und den zugehörigen spezifischen **KuR-Metadatenelementen** sind **Verpflichtungsgrade** zugeordnet. Ingesgesamt gibt es **vier Verpflichtungsgrade**: [9]
 
   - **Pflicht:** Das Metadatenelement ist in jeder vollständigen Restaurierungsdokumentation zu erfassen.
     
@@ -128,12 +128,12 @@ Für die einzelnen **Sektionen** und den zugehörigen spezifischen **KuR-Metadat
   - **Optional:** Das Metadatenelement dient der Erweiterung des KuR-MDS für spezifische Fachdisziplinen und Arbeitskontexte sowie für einen kontextspezifischen Ausbau der Dokumentation.
   
 
-Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservation Metadata Terminology**](https://conservationdata.github.io/terms/metadata.html) definiert. [7] Die Definitionen umfassen unter anderem folgende Angaben: **Begriffsdefinition, Verpflichtungsgrad, Feldwert, Wiederholbarkeit, Verwendungshinweis sowie eine eindeutige URI**.
+Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservation Metadata Terminology**](https://conservationdata.github.io/terms/metadata.html) definiert. Die Definitionen umfassen unter anderem folgende Angaben: **Begriffsdefinition, Verpflichtungsgrad, Feldwert, Wiederholbarkeit, Verwendungshinweis sowie eine eindeutige URI**. [10] [11]
 
 
 > **Hinweis:**  
 > 
-> Detallierte Informationen zu Hintergrund, fachlichem und konzeptuellen Rahmen sowie Nachnutzung des KuR-MDS bietet das [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/) [11]. Die dort bereitgestellte Dokumentation umfasst eine detaillierte Beschreibung von Zweck und Funktion der einzelnen Sektionen sowie einen Überblick über die und eine Beschreibung der in den jeweiligen Sektionen enthaltenen Metadatenelemente, den Verpflichtungsgrad und die dazugehörigen URIs. Die im Conservation Data Framework bereitgestellten Inhalte stehen unter der CC BY 4.0-Lizenz und können unter Angabe der Quelle frei nachgenutzt werden.
+> Detallierte Informationen zu Hintergrund, fachlichem und konzeptuellen Rahmen sowie Nachnutzung des KuR-MDS bietet das [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/). Die dort bereitgestellte Dokumentation umfasst eine detaillierte Beschreibung von Zweck und Funktion der einzelnen Sektionen sowie einen Überblick über die und eine Beschreibung der in den jeweiligen Sektionen enthaltenen Metadatenelemente, den Verpflichtungsgrad und die dazugehörigen URIs. Die im Conservation Data Framework bereitgestellten Inhalte stehen unter der CC BY 4.0-Lizenz und können unter Angabe der Quelle frei nachgenutzt werden. [12]
 
 ---
 
@@ -153,7 +153,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 | Verwendete Literatur | Optional | https://www.w3id.org/conservation/terms/metadata/F2AG55 |
 
 
-> Quellen: [Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/) (NFDI4Objects) [11] & [Conservation Metadata Terminology](https://conservationdata.github.io/terms/metadata.html) (TWG Community-Standards) [12]
+> Quellen: Die thematischen Sektionen des KuR-Metadatenschemas | CDF Online-Portal (NFDI4Objects) [9] & [Conservation Metadata Terminology](https://conservationdata.github.io/terms/metadata.html) (TWG Community-Standards) [10]
 
 ---
 
@@ -164,7 +164,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 ![Beispiel Sektion Erhaltungskonzept](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_25-CDF_Erhaltungskonzept.png)
 
 
->**Abbildung:** Beschreibung von Zweck und Funktion der Sektion *Erhaltungskonzept* aus dem [CDF Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) [ (Stand: 25.11.2026)
+>**Abbildung:** Beschreibung von [Zweck und Funktion der Sektion *Erhaltungskonzept*](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem CDF Online-Portal (Stand: 25.11.2026)
 
 ---
 
@@ -221,39 +221,46 @@ Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsd
 
 ## Quellenangaben
 
-[8 1] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes,
+[1] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes,
 C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zen-
 odo. https://doi.org/10.5281/ZENODO.10122153
 
-[2 2] Kommunikations-, Informations-, Medienzentrum (KIM) der Uni Konstanz. (2026). Metadaten. In Forschungsdaten.info: Praxis kompakt Glossar. https://forschungsdaten.info/praxis-kompakt/glossar/#c269911 (Stand: 17.03.2026)
+[2] Kommunikations-, Informations-, Medienzentrum (KIM) der Uni Konstanz. (2026). Metadaten. In Forschungsdaten.info: Praxis kompakt Glossar. https://forschungsdaten.info/praxis-kompakt/glossar/#c269911 (Stand: 17.03.2026)
 
-[1 3] Zöllner, G., & Reichert, R. (2026). Selbstlernkurs: Einführung in die Digitale Provenienzforschung (Version v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22296350
+[3] Zöllner, G., & Reichert, R. (2026). Selbstlernkurs: Einführung in die Digitale Provenienzforschung (Version v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22296350
 
-[9 4] Stegemann, J., Yildiz, C., Blümm, M., Bock, S., Fritsch, K., Kaiser, K. & Rathmann, T. (2024). Arten von Metadaten. In *Schluss mit dem Datenchaos – Wie Forschungsdatenmanagement für Ordnung sorgt* (Version 1.0) [Lernbaustein, FDM@Studium.nrw Selbstlernkurs]. ORCA.nrw. https://www.orca.nrw/moodle/mod/page/view.php?id=22320 (Stand: 24.11.2026)
+[4] Stegemann, J., Yildiz, C., Blümm, M., Bock, S., Fritsch, K., Kaiser, K. & Rathmann, T. (2024). Arten von Metadaten. In *Schluss mit dem Datenchaos – Wie Forschungsdatenmanagement für Ordnung sorgt* (Version 1.0) [Lernbaustein, FDM@Studium.nrw Selbstlernkurs]. ORCA.nrw. https://www.orca.nrw/moodle/mod/page/view.php?id=22320 (Stand: 24.11.2026)
 
-[10 5] Rühle, S. (2019). Metadaten. In *Kleines Handbuch Metadaten.* https://wiki.dnb.de/download/attachments/43523047/201209_metadaten.pdf (Stand: 24.11.2026)
+[5] Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Glossar zur Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3) [Working Paper]. Zenodo. https://doi.org/10.5281/zenodo.15025246
 
-[6] Fischer, K., & Witt, N. (2026). Bericht zum Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Version v.1). Zenodo. https://doi.org/10.5281/zenodo.22871824
+[6] Rühle, S. (2019). Metadaten. In *Kleines Handbuch Metadaten.* https://wiki.dnb.de/download/attachments/43523047/201209_metadaten.pdf (Stand: 24.11.2026)
 
-[3 7] Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. Zenodo. https://doi.org/10.5281/zenodo.14135529
+[7] Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. Zenodo. https://doi.org/10.5281/zenodo.14135529
 
-[8] NFDI4Objects. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Conservation Metadata Schema oder kurz KuR-MDS), Version 1.0. Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 24.11.2026)
+[8] Fischer, K., & Witt, N. (2026). Bericht zum Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Version v.1). Zenodo. https://doi.org/10.5281/zenodo.22871824
 
-[6 9] NFDI4Objects (o. D.). Die thematischen Sektionen des KuR-Metadatenschemas. Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/ (Stand: 24.11.2026)
+[9] NFDI4Objects. (o. D.). Die thematischen Sektionen des KuR-Metadatenschemas. Conservation Metadata Schema. Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/ (Stand: 25.11.2026)
 
-[7 10] Hagel, F. v. (2025). Konservierung/Restaurierung (Metadatenvokabular). https://museumsvokabular.de/metadatenvokabular-konservierung-restaurierung/ (Stand: 08.09.2026)
+[10] TWG Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. (o. D.). Conservation Metadata Terminology [Kontrolliertes Vokabular]. Restaurierungs- und Konservierungsdaten. https://conservationdata.github.io/terms/metadata.html (Stand: 24.11.2026)
 
-[11] NFDI4Objects. (o. D.). NFDI4Objects Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/ (Stand: 24.11.2026)
+[11] Hagel, F. v. (2025). Konservierung/Restaurierung (Metadatenvokabular). https://museumsvokabular.de/metadatenvokabular-konservierung-restaurierung/ (Stand: 25.11.2026)
+
+[12] NFDI4Objects. (o. D.). NFDI4Objects Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/ (Stand: 24.11.2026)
+
+
+
+---
+
+[13] NFDI4Objects. (o. D.). Metadatenelemente. Conservation Metadata Schema. Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/elements/ (Stand: 25.11.2026)
+
+
+[8 9] NFDI4Objects. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Conservation Metadata Schema oder kurz KuR-MDS), Version 1.0. Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 24.11.2026)
 
 [12] TWG Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. (o. D.). Conservation Metadata Terminology [Kontrolliertes Vokabular]. Restaurierungs- und Konservierungsdaten. https://conservationdata.github.io/terms/metadata.html (Stand: 24.11.2026)
-
-
 
 [4] Mempel-Länger L., Fischer, K., Witt, N., Gulbins, G., Schwenk, G. A., Schoel, E., & Zettner, H. (2025). Standardisierung der Konservierungs-Restaurierungs-Dokumentation - Minimaldatensatz für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [Graphic]. Zenodo. NFDI4Objects Community Meeting 2025, Bochum. https://doi.org/10.5281/zenodo.17151310
 
 [5] Fischer, K., & Lasse Mempel-Länger. (2025, October 16). Aufbau eines Minimalmetadatensatzes für die Konservierung-Restaurierung. Zenodo. SODa Forum. https://doi.org/10.5281/zenodo.17367214
-
-
 
 [12] https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/98
 
@@ -261,6 +268,7 @@ odo. https://doi.org/10.5281/ZENODO.10122153
 
 
 [3] NFDI4Objects Conservation Data Framework Online-Portal. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS), Version 1.0. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 24.11.2026)
+
 ---
 
 ### Metadaten

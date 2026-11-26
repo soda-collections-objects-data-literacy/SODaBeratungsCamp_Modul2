@@ -54,15 +54,15 @@ e
 
 ## Voraussetzung
 
-*Die Kenntnis des Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen [1] sind von Vorteil.*
+*Die Kenntnis des Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [1] als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen [2] sind von Vorteil.*
 
 ---
 
-## 3.1 Ereignisorientierte Erfassung von KuR-Maßnahmen im WissKI/SCS
+## 3.1 Ereignisorientierte Erfassung von Konservierungs- und Restaurierungsmaßnahmen im WissKI des Semantic Coworking-Space (SCS)
 
 **Ereignisorientierte Datenerfassung im SCS**
 
-Für die Erfassung von Konservierungs- und Restaurierungsdaten wird der [**Semantic Coworking Space (SCS)**](https://manager.scs.sammlungen.io/) als eine von SODa entwickelte cloudbasierte Arbeitsumgebung eingesetzt. 
+Für die Erfassung von Konservierungs- und Restaurierungsdaten wird der [**SODa Semantic Coworking-Space (SCS)**](https://manager.scs.sammlungen.io/) als eine von SODa entwickelte cloudbasierte Arbeitsumgebung eingesetzt. [3]
 
 Der SCS stellt verschiedene digitale Werkzeuge für die Arbeit mit Sammlungsdaten bereit, insbesondere die virtuelle Forschungsumgebung [**WissKI (WissenschaftlicheInfrastruktur)**](https://wiss-ki.eu/de) zur **strukturierten Erfassung und Modellierung von Daten** [1] mit einem **fachspezifischen Modell für Konservierungs- und Restaurierungsdaten (KuR-Modell)**, [2] welches auf dem zuvor eingeführten Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [3] basiert.
 
@@ -162,6 +162,14 @@ Weitere Diskussionsfragen:
 
 
 ## Quellenangaben
+
+[1] NFDI4Objects. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Conservation Metadata Schema oder kurz KuR-MDS), Version 1.0. Conservation Data Framework Online Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 26.11.2026)
+
+[2] Hastik, C., & Schwenk, G. A. (2025, Dezember 5). SODaBeratungsCamp: Modul 1. Zenodo. https://doi.org/10.5281/zenodo.17832837
+
+[3] SODa. (o. D.). Semantic Coworking Space. https://sammlungen.io/kb/scs (Stand: 26.11.2026)
+
+----
 
 [1] https://sammlungen.io/
 

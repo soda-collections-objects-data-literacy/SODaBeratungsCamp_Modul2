@@ -206,7 +206,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
   
 - **Online-Portal:**
 
-  - **Online-Präsenz:**https://nfdi4objects.github.io/n4o_conservation_data_framework/
+  - **Online-Präsenz:** https://nfdi4objects.github.io/n4o_conservation_data_framework/
     
   - **Projektseite:** https://www.nfdi4objects.net/services/conservation-data-framework/
 

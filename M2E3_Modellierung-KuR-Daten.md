@@ -91,7 +91,11 @@ Diese ereignisorientierte Perspektive ist für die Datenerfassung zunächst unge
 
 ### Vom KuR-MDS zur hierarchisch strukturierten Eingabemaske
 
-Die folgende Abbildung 1 zeigt links einen Ausschnitt aus der [Mockup-App für Konservierungsdaten](https://conservationdata.github.io/docu/#/) (beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsdaten auf Basis des KuR-MDS). [8] Die hierarchische Erfassungslogik entspricht der einer klassischen Eingabemaske. Auf derselben Abbildung 1 rechts werden Ausschnitte aus Beschreibungstexten des KuR-MDS zur **Sektion "Erhaltungskonzept"** und zu **Metadatenelementen** der Sektion aufgeführt. [9]
+> Die folgende Abbildung 1 zeigt **links** einen Ausschnitt aus der [Mockup-App für Konservierungsdaten](https://conservationdata.github.io/docu/#/) (beispielhafte 
+> Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsdaten auf Basis des KuR-MDS). [8] Die hierarchische Erfassungslogik entspricht der einer klassischen
+> Eingabemaske. 
+> Auf derselben Abbildung 1 **rechts** werden Ausschnitte aus Beschreibungstexten des KuR-MDS zur **Sektion "Erhaltungskonzept"** und zu **Metadatenelementen** der Sektion 
+> aufgeführt. [9]
 
 ---
 

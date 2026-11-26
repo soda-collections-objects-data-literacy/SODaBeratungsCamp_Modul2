@@ -210,7 +210,7 @@ Für eine strukturierte Konservierungs- und Restaurierungsdokumentation reicht e
 > Dauer: ca. 20 Min.
 
 
-## 1.4 Vergleich und gemeinsame Auswertung
+## 2.4 Vergleich und gemeinsame Auswertung
 
 Nach der Annotation werden die Ergebnisse der zwei Gruppen gemeinsam betrachtet. Dabei geht es nicht darum, eine „richtige“ Annotation festzulegen, sondern unterschiedliche Zuordnungen, Informationslagen und Interpretationen sichtbar zu machen.
 

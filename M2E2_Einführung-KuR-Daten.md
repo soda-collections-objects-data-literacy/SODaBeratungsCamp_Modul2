@@ -226,6 +226,7 @@ Zunächst vergleichen jeweils die beiden Gruppen, die dasselbe Beispiel bearbeit
 > Dauer: ca. 5 Min.
 > 
 
+---
 
 > Anschließend werden die beiden Beispiele miteinander verglichen.
 >
@@ -243,6 +244,7 @@ Zunächst vergleichen jeweils die beiden Gruppen, die dasselbe Beispiel bearbeit
 > 
 > Dauer: ca. 5 Min.
 
+---
 
 **Fazit:**
 

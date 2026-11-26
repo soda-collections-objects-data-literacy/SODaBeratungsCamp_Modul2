@@ -167,7 +167,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 > Der Screenshot zeigt exemplarisch anhand der **Sektion Erhaltungskonzept**, wie die einzelnen Sektionen des KuR-MDS im CDF beschrieben werden. Zu sehen ist nur ein Ausschnitt des Beschreibungstextes. Die Beschreibung beinhaltet darüber hinaus eine Übersicht der enthaltenen Metadatenelemente sowie Hinweise zur Implementierung und Entsprechungen in anderen Schemata.
 
-![Beispiel Sektion Erhaltungskonzept](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_25-CDF_Erhaltungskonzept.png)
+![Beispiel Sektion Erhaltungskonzept](/assets/2026_11_25-CDF_Erhaltungskonzept.png)
 
 
 >**Abbildung:** Beschreibung von [Zweck und Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS. Screenshot (Ausschnitt) aus: KuR-MDS | CDF (CC BY 4.0) (Stand: 26.11.2026) [13]
@@ -178,7 +178,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 > Der Screenshot zeigt exemplarisch anhand der **Sektion Erhaltungskonzept**, wie die einzelnen Metadatenelemente einer Sektion des KuR-MDS im CDF mit jeweiligen Verpflichtungsgraden und eindeutigen URIs aus der Conservation Metadata Terminology [10] hierarchisch aufgeführt werden.
 
-![Beispiel Metadatenelemente Sektion Erhaltungskonzept](https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/main/assets/2026_11_25-CDF_MetadatenelementeErhaltungskonzept.png)
+![Beispiel Metadatenelemente Sektion Erhaltungskonzept](/assets/2026_11_25-CDF_MetadatenelementeErhaltungskonzept.png)
 
 
 >**Abbildung:** Überblick über die [Metadatenelemente der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS. Screenshot aus: KuR-MDS | CDF (CC BY 4.0) (Stand: 26.11.2026) [13] 

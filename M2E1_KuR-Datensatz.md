@@ -163,6 +163,12 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 ## 1.7 Beispiel: Sektion Erhaltungskonzept
 
+**Folgende Inhalte:**
+
+- Zweck und Funktion der Sektion Erhaltungskonzept (KuR-MDS Beschreibungstext)
+- Metadaten der Sektion Erhaltungskonzept (KuR-MDS Beschreibungstext)
+- Definition des Metadatums "Zuständige Person" in der Conservation Metadata Terminology
+
 ### Zweck und Funktion der Sektion Erhaltungskonzept (KuR-MDS Beschreibungstext)
 
 > Der Screenshot zeigt exemplarisch anhand der **Sektion Erhaltungskonzept**, wie die einzelnen Sektionen des KuR-MDS im CDF beschrieben werden. Zu sehen ist nur ein Ausschnitt des Beschreibungstextes. Die Beschreibung beinhaltet darüber hinaus eine Übersicht der enthaltenen Metadatenelemente sowie Hinweise zur Implementierung und Entsprechungen in anderen Schemata.

@@ -109,17 +109,18 @@ In der Mockup-App werden diese Metadaten in Form einer Eingabemaske visualisiert
 
 ### Von der Eingabemaske zurm Ereignismodell
 
-Die Abbildung 2 macht dagegen sichtbar, wie diese fachlichen Angaben im SCS-WissKI auf Grundlage des zugrunde liegenden Datenmodells erfasst werden. 
+Die Abbildung 2 macht dagegen sichtbar, wie diese fachlichen Angaben (mitte) im SCS-WissKI auf Grundlage des zugrunde liegenden Datenmodells erfasst werden. 
 
-**Der im KuR-MDS als "Anlass der Erhaltungsmaßnahme"** bezeichnete Aspekt wird dabei nicht als einfache Eigenschaft der Erhaltungsmaßnahme oder des Erhaltungskonzepts erfasst, sondern in Ereignisbezügen modelliert. 
+**Der im KuR-MDS als "Anlass der Erhaltungsmaßnahme"** (links) bezeichnete Aspekt wird dabei nicht als einfache Eigenschaft der Erhaltungsmaßnahme oder des Erhaltungskonzepts erfasst, sondern in Ereignisbezügen modelliert. 
 
-Im dargestellten Beispiel wird die **Erhaltungsmaßnahme vom Typ Rekonstruktion mit einer *Zustandsbewertung*** verknüpft. Die Erhaltungsmaßnahme wird also mit einem Ereignis verknüpft, der ***Zustandsbewertung***, durch welche die Erhaltungsmaßnahme motiviert ist. Das Ereignis ***Zustandsbewertung*** kann wiederum motiviert sein durch das Ereignis ***Zustandsbeurteilung***. Über ***Erstelle die Zustandsbeurteilung*** kann ein entsprechendes Ereignis angelegt und so mit dem Ereignis ***Zustandsbewertung*** und der ***Erhaltungsmaßnahme*** verknüpft werden.
+Im dargestellten Beispiel wird die **Erhaltungsmaßnahme vom Typ Rekonstruktion mit einer *Zustandsbewertung*** verknüpft (rechts). Die Erhaltungsmaßnahme wird also mit einem Ereignis verknüpft, der ***Zustandsbewertung***, durch welche die Erhaltungsmaßnahme motiviert ist. Das Ereignis ***Zustandsbewertung*** kann wiederum motiviert sein durch das Ereignis ***Zustandsbeurteilung***. Über ***Erstelle die Zustandsbeurteilung*** kann ein entsprechendes Ereignis angelegt und so mit dem Ereignis ***Zustandsbewertung*** und der ***Erhaltungsmaßnahme*** verknüpft werden (rechts).
 
 ---
 
 ![Visualisierung ereignisorientierte Erfassung des Anlasses der Erhaltungsmaßnahme](assets/2026_11_26-EreignisorientierteErfassungWissKISCS1.png)
 
->**Abbildung 2:** Gegenüberstellung eines Ausschnitts der hierarchisch strukturierten Eingabemaske in der Mockup-App (links) und Modellierung des "Anlasses der Erhaltungsmaßnahme" als verknüpftes Ereignis im WissKI/SCS (rechts)
+>**Abbildung 2:** Gegenüberstellung eines Ausschnitts der hierarchisch strukturierten Eingabemaske mit "Anlass der Erhaltungsmaßnahme" aus der [Mockup-App](https://conservationdata.github.io/docu/#/) (links) und Modellierung des "Anlasses der Erhaltungsmaßnahme" als verknüpfte Ereignisse im SCS-WissKI (rechts). Ausschnitt aus Beschreibung von [Zweck und Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) [9] aus dem KuR-MDS (mitte).       
+Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten (links) [8] und Screenshot (Ausschnitt) aus: SCS-WissKI (rechts) 
 
 **Hinweis:**
 

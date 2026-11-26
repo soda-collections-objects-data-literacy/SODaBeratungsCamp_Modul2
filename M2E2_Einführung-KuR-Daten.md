@@ -84,7 +84,7 @@ Das **Beispiel MEGA65** verdeutlicht, wie stark relevante Informationen über un
 
 ### Beipiel: MEGA65 [2]
 
-![MEGA65](/assets/mega65.JPG)
+![MEGA65](assets/mega65.JPG)
 
 > Abbildung: © 2015-2025 MEGA Museum of Electronic Games & Art e.V.
 

@@ -163,62 +163,67 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 ## 1.7 Beispiel: Sektion Erhaltungskonzept
 
-### Zweck und Funktion der Sektion Erhaltungskonzept (Beschreibungstext)
+### Zweck und Funktion der Sektion Erhaltungskonzept (KuR-MDS Beschreibungstext)
 
 > Der Screenshot zeigt exemplarisch anhand der **Sektion Erhaltungskonzept**, wie die einzelnen Sektionen des KuR-MDS im CDF beschrieben werden. Zu sehen ist nur ein Ausschnitt des Beschreibungstextes. Die Beschreibung beinhaltet darüber hinaus eine Übersicht der enthaltenen Metadatenelemente sowie Hinweise zur Implementierung und Entsprechungen in anderen Schemata.
 
 ![Beispiel Sektion Erhaltungskonzept](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_25-CDF_Erhaltungskonzept.png)
 
 
->**Abbildung:** Beschreibung von [Zweck und Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS. Screenshot (Ausschnitt) aus: KuR-MDS | CDF (CC BY 4.0) [13]
+>**Abbildung:** Beschreibung von [Zweck und Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS. Screenshot (Ausschnitt) aus: KuR-MDS | CDF (CC BY 4.0) (Stand: 26.11.2026) [13]
 
 ---
 
-### Metadaten der Sektion Erhaltungskonzept (Beschreibungstext)
+### Metadaten der Sektion Erhaltungskonzept (KuR-MDS Beschreibungstext)
 
-> Der Screenshot zeigt exemplarisch anhand der **Sektion Erhaltungskonzept**, wie die einzelnen Metadatenelemente einer Sektion des KuR-MDS im CDF mit jeweiligem Verpflichtungsgrad und eindeutigen URIs aus der Conservation Metadata Terminology [10] aufgeführt werden.
+> Der Screenshot zeigt exemplarisch anhand der **Sektion Erhaltungskonzept**, wie die einzelnen Metadatenelemente einer Sektion des KuR-MDS im CDF mit jeweiligen Verpflichtungsgraden und eindeutigen URIs aus der Conservation Metadata Terminology [10] hierarchisch aufgeführt werden.
 
 ![Beispiel Metadatenelemente Sektion Erhaltungskonzept](https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/main/assets/2026_11_25-CDF_MetadatenelementeErhaltungskonzept.png)
 
 
->**Abbildung:** Überblick über die [Metadatenelemente der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS. Screenshot aus: KuR-MDS | CDF (CC BY 4.0) [13] 
+>**Abbildung:** Überblick über die [Metadatenelemente der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS. Screenshot aus: KuR-MDS | CDF (CC BY 4.0) (Stand: 26.11.2026) [13] 
 
 ---
 
-### Definition des Metadatums Zuständige Person
+### Definition des Metadatums "Zuständige Person" in der Conservation Metadata Terminology
+
+> Der Screenshot zeigt exemplarisch anhand des Metadatums "Zuständige Person" der KuR-MDS Sektion Erhaltungskonzept, wie Definitionen von Metadaten in der Conservation Metadata Terminology [10] aufgebaut sind und welche Informationen sie umfassen.
 
 ![Beispiel Eintrag Zuständige Person (Erhaltungsmaßnahme) aus Conservation Metadata Terminology](/assets/2026_11_25-CDF_CMT_ZustaendigePerson.png)
 
 
->**Abbildung:** Terminus *C79561 Zuständige Person (Erhaltungsmaßnahme)* aus der [Conservation Metadata Terminology](https://conservationdata.github.io/terms/metadata.html) (Stand: 25.11.2026)
+>**Abbildung:** Terminus ["C79561 Zuständige Person (Erhaltungsmaßnahme)"](https://conservationdata.github.io/terms/metadata/C79561.html) aus der Conservation Metadata Terminology. Screenshot aus: Conservation Metadata Terminology (CC BY 4.0) (Stand: 26.11.2026) [14]
 
 ---
 
-## 1.8 Weiterführende Hinweise und wichtige Links 
+## 1.8 Weiterführende Hinweise und Linksammlung
 
-**NFDI4Objects Conservation Data Framework (CDF):**
+> *Stand: 26.11.2026*
+
+**NFDI4Objects Conservation Data Framework Online-Portal (CDF):**
 
 - **Github-Repositorium:** https://github.com/nfdi4objects/n4o_conservation_data_framework
   
 - **Online-Portal:**
-  - https://nfdi4objects.github.io/n4o_conservation_data_framework/
+
+  - **Online-Präsenz:**https://nfdi4objects.github.io/n4o_conservation_data_framework/
     
-  - https://www.nfdi4objects.net/services/conservation-data-framework/
+  - **Projektseite:** https://www.nfdi4objects.net/services/conservation-data-framework/
 
-**Conservation Metadata Terminology:**
+---
 
-- **Katalog:** https://conservationdata.github.io/terms/metadata.html
+**Conservation Metadata Terminology:** https://conservationdata.github.io/terms/metadata.html
 
+---
 
-**Mockup-App für Konservierungsdaten:**   
+**Mockup-App für Konservierungsdaten:** https://conservationdata.github.io/docu/#/ [15]
+
 Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsdaten auf Basis des KuR-MDS. 
 
-- https://conservationdata.github.io/docu/#/
-
+---
 
 > **Hinweis:**  
-> Die Angebote wurden innerhalb der Temporary Working Group Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes innerhalb des Konsortiums
-> NFDI4Objects entwickelt.
+> Die Angebote wurden innerhalb der Temporary Working Group Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes innerhalb des Konsortiums NFDI4Objects entwickelt. [7]
 
 ---
 
@@ -255,29 +260,10 @@ C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Versio
 
 [13] NFDI4Objects. (o. D.). Erhaltungskonzept. Conservation Metadata Schema. Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan (Stand: 25.11.2026)
 
+[14] TWG Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. (o. D.). Terminus "C79561 Zuständige Person (Erhaltungsmaßnahme)". Conservation Metadata Terminology [Kontrolliertes Vokabular]. Restaurierungs- und Konservierungsdaten. https://conservationdata.github.io/terms/metadata/C79561.html (Stand: 26.11.2026)
 
+[15] Mempel-Länger, L., Fischer, K., & Witt, N. (2025). Conservation Documentation Data [Webanwendung]. https://conservationdata.github.io/docu/#/ (Stand: 26.11.2026)
 
----
-
-[13] NFDI4Objects. (o. D.). Metadatenelemente. Conservation Metadata Schema. Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/elements/ (Stand: 25.11.2026)
-
-
-[8 9] NFDI4Objects. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Conservation Metadata Schema oder kurz KuR-MDS), Version 1.0. Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 24.11.2026)
-
-[12] TWG Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. (o. D.). Conservation Metadata Terminology [Kontrolliertes Vokabular]. Restaurierungs- und Konservierungsdaten. https://conservationdata.github.io/terms/metadata.html (Stand: 24.11.2026)
-
-[4] Mempel-Länger L., Fischer, K., Witt, N., Gulbins, G., Schwenk, G. A., Schoel, E., & Zettner, H. (2025). Standardisierung der Konservierungs-Restaurierungs-Dokumentation - Minimaldatensatz für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [Graphic]. Zenodo. NFDI4Objects Community Meeting 2025, Bochum. https://doi.org/10.5281/zenodo.17151310
-
-[5] Fischer, K., & Lasse Mempel-Länger. (2025, October 16). Aufbau eines Minimalmetadatensatzes für die Konservierung-Restaurierung. Zenodo. SODa Forum. https://doi.org/10.5281/zenodo.17367214
-
-[12] https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/98
-
-[13] Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Glossar zur Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3) [Working Paper]. Zenodo. https://doi.org/10.5281/zenodo.15025246
-
-
-[3] NFDI4Objects Conservation Data Framework Online-Portal. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS), Version 1.0. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 24.11.2026)
-
----
 
 ### Metadaten
 

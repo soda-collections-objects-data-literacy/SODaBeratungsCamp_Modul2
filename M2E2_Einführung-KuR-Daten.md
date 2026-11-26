@@ -28,33 +28,33 @@ Einheit 2: **Analyse und Strukturierung unstrukturierter Konservierungs- und Res
 
 Lernende können...
 
-2.1  unterschiedliche Formen und Quellen von Dokumentationsdaten im Kontext medienarchäologischer Erschließung benennen.
+2\.1  unterschiedliche Formen und Quellen von Dokumentationsdaten im Kontext medienarchäologischer Erschließung benennen. (LZ-ID SODa\_03\_001\_0628)
 
-2.2  konservierungs- und restaurierungsrelevante Informationen in heterogenen und unstrukturierten Dokumentationen benennen.
+2\.2  konservierungs- und restaurierungsrelevante Informationen in heterogenen und unstrukturierten Datendokumentationen benennen. (LZ-ID SODa\_03\_001\_0629)
 
-2.3  Kategorien des KuR-MDS für unstrukturierte Dokumentationen anwenden.
+2\.3  eigenständig das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) anwenden. (LZ-ID SODa\_03\_003\_0680)
 
-2.4  Fehlende, mehrdeutige oder nur implizit dokumentierte Informationen benennen.
+2\.4  eigenständig unstrukturierte Datendokumentationen auf fehlende, mehrdeutige oder nur implizit dokumentierte Informationen analysieren.
 
-2.5  Herausforderungen bei der Überführung unstrukturierter Dokumentationen in strukturierte Forschungsdaten erläutern.
+2\.5  Herausforderungen bei der Überführung unstrukturierter Dokumentationen in strukturierte Forschungsdaten erläutern.
 
 ---
 
 ## Voraussetzung
 
-*Die Kenntnis über KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen sind von Vorteil.*
+*Die Kenntnis über das KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen [1] sind von Vorteil.*
 
 ---
 
-## 1.1 Von der Dokumentation zu strukturierten KuR-Daten
+## 2.1 Von der Dokumentation zu strukturierten KuR-Daten
 
-Bei der konservierungs- und restaurierungsbezogenen Arbeit entstehen kontinuierlich Forschungsdaten. Diese können sich auf die materielle Beschaffenheit, den Erhaltungszustand eines Objekts, auf Untersuchungen, durchgeführte Maßnahmen oder auf die dabei getroffenen Entscheidungen beziehen. 
+Bei der konservierungs- und restaurierungsbezogenen Arbeit entstehen kontinuierlich Forschungsdaten. Diese können sich auf die materielle Beschaffenheit, den Erhaltungszustand eines Objekts, auf Untersuchungen, durchgeführte Maßnahmen oder auf die dabei getroffenen Entscheidungen beziehen. (Vgl. dazu Modul 1, Einheit 2 [1])
 
 Gleichzeitig können diese Informationen in sehr unterschiedlichen Dokumentationsformaten vorliegen.
 
 ### Leitfrage 
 
-> Wie gelangen wir von einer bereits vorhandenen Dokumentation zu strukturierten KuR-Daten?
+> Wie gelangen wir von einer bereits vorhandenen unstrukturierten Dokumentation konservierungs- und restaurierungsbezogener Daten zu strukturierten KuR-Daten?
 
 In bestehenden Dokumentationen sind relevante Informationen häufig nicht bereits als einzelne Datenfelder vorhanden. 
 
@@ -82,7 +82,11 @@ Das Beispiel MEGA65 verdeutlicht, wie stark relevante Informationen über unters
 
 ### Beipiel: MEGA65
 
+> Stand: 26.11.2026
+
 ![MEGA65](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/mega65.JPG)
+
+> Abbildung: © 2015-2025 MEGA Museum of Electronic Games & Art e.V.
 
 
 > - Projektwebseite: [MEGA65 - 8-Bit Computer](https://mega65.org)
@@ -169,7 +173,7 @@ Für eine strukturierte Konservierungs- und Restaurierungsdokumentation reicht e
 
 
 
-## 1.3 Übung: Dokumentation lesen und annotieren 
+## 2.3 Übung: Dokumentation lesen und annotieren 
 
 Übung: Gruppenarbeit
 
@@ -236,7 +240,7 @@ Zunächst vergleichen jeweils die beiden Gruppen, die dasselbe Beispiel bearbeit
 
 ## Quellenangaben
 
-[1]
+[1] Hastik, C., & Schwenk, G. A. (2025, Dezember 5). SODaBeratungsCamp: Modul 1. Zenodo. https://doi.org/10.5281/zenodo.17832837
 
 ---
 

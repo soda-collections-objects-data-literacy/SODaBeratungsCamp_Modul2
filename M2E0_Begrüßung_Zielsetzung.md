@@ -88,6 +88,16 @@ Lernende können...
 
 Lernende können...
 
+2\.1  unterschiedliche Formen und Quellen von Dokumentationsdaten im Kontext medienarchäologischer Erschließung benennen. (LZ-ID SODa\_03\_001\_0628)
+
+2\.2  konservierungs- und restaurierungsrelevante Informationen in heterogenen und unstrukturierten Datendokumentationen benennen. (LZ-ID SODa\_03\_001\_0629)
+
+2\.3  eigenständig das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) anwenden. (LZ-ID SODa\_03\_003\_0680)
+
+2\.4  eigenständig unstrukturierte Datendokumentationen auf fehlende, mehrdeutige oder nur implizit dokumentierte Informationen analysieren. (LZ-ID SODa\_03\_001\_0630)
+
+2\.5  Herausforderungen bei der Überführung unstrukturierter Dokumentationen in strukturierte Dokumentationen erläutern. (LZ-ID SODa\_03\_001\_0631)
+
 ---
 
 ## Voraussetzungen

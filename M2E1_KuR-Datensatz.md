@@ -171,34 +171,34 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 ### Zweck und Funktion der Sektion Erhaltungskonzept (KuR-MDS Beschreibungstext)
 
-> Der Screenshot zeigt exemplarisch anhand der **Sektion Erhaltungskonzept**, wie die einzelnen Sektionen des KuR-MDS im CDF beschrieben werden. Zu sehen ist nur ein Ausschnitt des Beschreibungstextes. Die Beschreibung beinhaltet darüber hinaus eine Übersicht der enthaltenen Metadatenelemente sowie Hinweise zur Implementierung und Entsprechungen in anderen Schemata.
+> Der Screenshot aus Abbildung 1 zeigt exemplarisch anhand der **Sektion Erhaltungskonzept**, wie die einzelnen Sektionen des KuR-MDS im CDF beschrieben werden. Zu sehen ist nur ein Ausschnitt des Beschreibungstextes. Die Beschreibung beinhaltet darüber hinaus eine Übersicht der enthaltenen Metadatenelemente sowie Hinweise zur Implementierung und Entsprechungen in anderen Schemata.
 
 ![Beispiel Sektion Erhaltungskonzept](/assets/2026_11_25-CDF_Erhaltungskonzept.png)
 
 
->**Abbildung:** Beschreibung von [Zweck und Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS. Screenshot (Ausschnitt) aus: KuR-MDS | CDF (CC BY 4.0) (Stand: 26.11.2026) [13]
+>**Abbildung 1:** Beschreibung von [Zweck und Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS. Screenshot (Ausschnitt) aus: KuR-MDS | CDF (CC BY 4.0) (Stand: 26.11.2026) [13]
 
 ---
 
 ### Metadaten der Sektion Erhaltungskonzept (KuR-MDS Beschreibungstext)
 
-> Der Screenshot zeigt exemplarisch anhand der **Sektion Erhaltungskonzept**, wie die einzelnen Metadatenelemente einer Sektion des KuR-MDS im CDF mit jeweiligen Verpflichtungsgraden und eindeutigen URIs aus der Conservation Metadata Terminology [10] hierarchisch aufgeführt werden.
+> Der Screenshot aus Abbildung 2 zeigt exemplarisch anhand der **Sektion Erhaltungskonzept**, wie die einzelnen Metadatenelemente einer Sektion des KuR-MDS im CDF mit jeweiligen Verpflichtungsgraden und eindeutigen URIs aus der Conservation Metadata Terminology [10] hierarchisch aufgeführt werden.
 
 ![Beispiel Metadatenelemente Sektion Erhaltungskonzept](/assets/2026_11_25-CDF_MetadatenelementeErhaltungskonzept.png)
 
 
->**Abbildung:** Überblick über die [Metadatenelemente der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS. Screenshot aus: KuR-MDS | CDF (CC BY 4.0) (Stand: 26.11.2026) [13] 
+>**Abbildung 2:** Überblick über die [Metadatenelemente der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS. Screenshot aus: KuR-MDS | CDF (CC BY 4.0) (Stand: 26.11.2026) [13] 
 
 ---
 
 ### Definition des Metadatums "Zuständige Person" in der Conservation Metadata Terminology
 
-> Der Screenshot zeigt exemplarisch anhand des Metadatums "Zuständige Person" der KuR-MDS Sektion Erhaltungskonzept, wie Definitionen von Metadaten in der Conservation Metadata Terminology [10] aufgebaut sind und welche Informationen sie umfassen.
+> Der Screenshot aus Abbildung 3 zeigt exemplarisch anhand des Metadatums "Zuständige Person" der KuR-MDS Sektion Erhaltungskonzept, wie Definitionen von Metadaten in der Conservation Metadata Terminology [10] aufgebaut sind und welche Informationen sie umfassen.
 
 ![Beispiel Eintrag Zuständige Person (Erhaltungsmaßnahme) aus Conservation Metadata Terminology](/assets/2026_11_25-CDF_CMT_ZustaendigePerson.png)
 
 
->**Abbildung:** Terminus ["C79561 Zuständige Person (Erhaltungsmaßnahme)"](https://conservationdata.github.io/terms/metadata/C79561.html) aus der Conservation Metadata Terminology. Screenshot aus: Conservation Metadata Terminology (CC BY 4.0) (Stand: 26.11.2026) [14]
+>**Abbildung 3:** Terminus ["C79561 Zuständige Person (Erhaltungsmaßnahme)"](https://conservationdata.github.io/terms/metadata/C79561.html) aus der Conservation Metadata Terminology. Screenshot aus: Conservation Metadata Terminology (CC BY 4.0) (Stand: 26.11.2026) [14]
 
 ---
 

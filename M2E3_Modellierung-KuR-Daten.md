@@ -91,17 +91,15 @@ Diese ereignisorientierte Perspektive ist für die Datenerfassung zunächst unge
 
 ### Vom KuR-MDS zur hierarchisch strukturierten Eingabemaske
 
-> Die folgende Abbildung 1 zeigt **links** einen Ausschnitt aus der [Mockup-App für Konservierungsdaten](https://conservationdata.github.io/docu/#/) (beispielhafte 
-> Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsdaten auf Basis des KuR-MDS). [8] Die hierarchische Erfassungslogik entspricht der einer klassischen
-> Eingabemaske.   
-> Auf derselben Abbildung 1 **rechts** werden Ausschnitte aus Beschreibungstexten des KuR-MDS zur **Sektion "Erhaltungskonzept"** und zu **Metadatenelementen** der Sektion 
-> aufgeführt. [9]
+Die folgende Abbildung 1 zeigt **links** einen Ausschnitt aus der [Mockup-App für Konservierungsdaten](https://conservationdata.github.io/docu/#/) (beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsdaten auf Basis des KuR-MDS). [8] Die hierarchische Erfassungslogik entspricht der einer klassischen Eingabemaske.  
+
+Auf derselben Abbildung 1 **rechts** werden Ausschnitte aus Beschreibungstexten des KuR-MDS zur **Sektion "Erhaltungskonzept"** und zu **Metadatenelementen** der Sektion aufgeführt. [9]
 
 ---
 
 ![Visualisierung Erfassung als Eigenschaft des Objekts](assets/2026_11_26-ModellierungalsObjekteigenschaft.png)
 
->**Abbildung 1:** Ausschnitt des KuR-MDS als hierarchisch strukturierte Eingabemaske in der Mockup-App
+>**Abbildung 1:** Ausschnitt aus Beschreibung von [Zweck und Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) [9] aus dem KuR-MDS als hierarchisch strukturierte Eingabemaske in der [Mockup-App](https://conservationdata.github.io/docu/#/). Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten [8]
 
 Dazu gehören beispielsweise **"Anlass der Erhaltungsmaßnahmen"** und **"Konservatorische Zielsetzung"** (Planungsphase) sowie Angaben zur **"Erhaltungsmaßnahme"** selbst, etwa die **"Zuständige Person"** (Durchführungsphase). 
 
@@ -111,9 +109,9 @@ In der Mockup-App werden diese Metadaten in Form einer Eingabemaske visualisiert
 
 ### Von der Eingabemaske zurm Ereignismodell
 
-Die Abbildung 2 macht dagegen sichtbar, wie diese fachlichen Angaben im WissKI/SCS auf Grundlage des zugrunde liegenden KuR-Datenmodells erfasst werden. 
+Die Abbildung 2 macht dagegen sichtbar, wie diese fachlichen Angaben im SCS-WissKI auf Grundlage des zugrunde liegenden Datenmodells erfasst werden. 
 
-**Der im KuR-MDS als "Anlass der Erhaltungsmaßnahme"** bezeichnete Aspekt wird dabei nicht als einfache Eigenschaft der Erhaltungsmaßnahme oder des Erhaltungskonzepts erfasst, sondern in Ereignisbezügen modeliert. 
+**Der im KuR-MDS als "Anlass der Erhaltungsmaßnahme"** bezeichnete Aspekt wird dabei nicht als einfache Eigenschaft der Erhaltungsmaßnahme oder des Erhaltungskonzepts erfasst, sondern in Ereignisbezügen modelliert. 
 
 Im dargestellten Beispiel wird die **Erhaltungsmaßnahme vom Typ Re-creation mit einem *Condition Assessment*** verknüpft. Die Erhaltungsmaßnahme wird also mit einem Ereignis verknüpft, der Zustandsbewertung, durch welche die Erhaltungsmaßnahme motiviert ist. Die Angabe *Connected with condition assessement* beschreibt diese Beziehung. Über *Create Condition assessment for reference* kann ein entsprechendes Ereignis angelegt und als Bezug zur Erhaltungsmaßnahme erfasst werden.
 

@@ -117,15 +117,17 @@ Die KuR-Prozesse und ihre Dokumentationen sind daher sehr unterschiedlich und um
 
 Der KuR-MDS strukturiert die grundlegenden "Prozesse im Umgang mit Kunst- und Kulturgut im Kontext konservatorisch-restauratorischer Arbeiten" in **zehn übergeordnete Kategorien**, die als **Sektionen** bezeichnet werden. [9] 
 
+Den einzelnen Sektionen sind Metadatenelemente zugeordnet, die den entsprechenden KuR-Prozess beschreiben.
+
 Für die einzelnen **Sektionen** und den zugehörigen spezifischen **KuR-Metadatenelementen** sind **Verpflichtungsgrade** zugeordnet. Ingesgesamt gibt es **vier Verpflichtungsgrade**: [9]
 
-  - **Pflicht:** Das Metadatenelement ist in jeder vollständigen Restaurierungsdokumentation zu erfassen.
+  - **Pflicht:** "Umfasst jene Informationen, ohne die eine vollständige und für Dritte nachvollziehbare Dokumentation nicht möglich ist." [9]
     
-  - **Bedingte Pflicht:** Das Metadatenelement ist unter bestimmten Umständen verpflichtend zu erfassen, wenn die entsprechenden Maßnahmen Bestandteil des zu dokumentierenden restauratorischen Prozesses sind.
+  - **Bedingte Pflicht:** "Bezeichnet Elemente, die nur unter bestimmten Umständen verpflichtend auszufüllen sind, z.b. nur wenn eine bestimmte Tätigkeit durchgeführt wurde." Der Verpflichtungsgrad adressiert Informationen, "die grundsätzlich für eine qualitätvolle Dokumentation erwartet werden (die also über eine bloße Empfehlung hinausgehen), in der realen Praxis jedoch zum Zeitpunkt der Erfassung häufig nicht (mehr) verfügbar sind. (z.B. bei der Retrodigitalisierung analoger Berichte)." [9]
     
-  - **Empfohlen:** Das Metadatenelement bezieht sich auf Informationen, die aus einer soezifischen fachlichen Sicht relevant sind. Ihr Fehlen beeinträchtigt das grundsätzliche Verständnis der Dokumentation nichtm ihre Erfassung verbessert jedoch deren Qualität und Nachnutzbarkeit.
+  - **Empfohlen:** "Bezieht sich auf Informationen, die aus fachlicher Sicht als wünschenswert deklariert werden. Ihre Erfassung verbessert die Qualität und Nachnutzbarkeit der Dokumentation erheblich, ohne dass ihr Fehlen das grundlegende Verständnis der konservatorisch-restauratorischen Dokumentation beeinträchtigt." [9]
     
-  - **Optional:** Das Metadatenelement dient der Erweiterung des KuR-MDS für spezifische Fachdisziplinen und Arbeitskontexte sowie für einen kontextspezifischen Ausbau der Dokumentation.
+  - **Optional:** "Dient der Erweiterung des Schemas für spezifische Fachdisziplinen oder besondere Arbeitskontexte. Diese Elemente zeigen exemplarisch auf, wie das Schema kontextspezifisch ausgebaut werden kann." [9]
   
 
 Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservation Metadata Terminology**](https://conservationdata.github.io/terms/metadata.html) definiert. Die Definitionen umfassen unter anderem folgende Angaben: **Begriffsdefinition, Verpflichtungsgrad, Feldwert, Wiederholbarkeit, Verwendungshinweis sowie eine eindeutige URI**. [10] [11]
@@ -133,7 +135,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 > **Hinweis:**  
 > 
-> Detallierte Informationen zu Hintergrund, fachlichem und konzeptuellen Rahmen sowie Nachnutzung des KuR-MDS bietet das [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/). Die dort bereitgestellte Dokumentation umfasst eine detaillierte Beschreibung von Zweck und Funktion der einzelnen Sektionen sowie einen Überblick über die und eine Beschreibung der in den jeweiligen Sektionen enthaltenen Metadatenelemente, den Verpflichtungsgrad und die dazugehörigen URIs. Die im Conservation Data Framework bereitgestellten Inhalte stehen unter der CC BY 4.0-Lizenz und können unter Angabe der Quelle frei nachgenutzt werden. [12]
+> Detallierte Informationen zu Hintergrund, fachlichem und konzeptuellen Rahmen sowie Nachnutzung des KuR-MDS bietet das [NFDI4Objects Conservation Data Framework Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/) (im Folgenden **CDF**). Die dort bereitgestellte Dokumentation umfasst eine detaillierte Beschreibung von Zweck und Funktion der einzelnen Sektionen sowie einen Überblick über die und eine Beschreibung der in den jeweiligen Sektionen enthaltenen Metadatenelemente, den Verpflichtungsgrad und die dazugehörigen URIs. Die im Conservation Data Framework bereitgestellten Inhalte stehen unter der CC BY 4.0-Lizenz und können unter Angabe der Quelle frei nachgenutzt werden. [12]
 
 ---
 
@@ -153,7 +155,7 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 | Verwendete Literatur | Optional | https://www.w3id.org/conservation/terms/metadata/F2AG55 |
 
 
-> Quellen: [Die thematischen Sektionen des KuR-Metadatenschemas](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/) | CDF Online-Portal [9] & [Conservation Metadata Terminology](https://conservationdata.github.io/terms/metadata.html) [10]
+> Quellen: [Die thematischen Sektionen des KuR-MDS](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/) [9] & [Conservation Metadata Terminology](https://conservationdata.github.io/terms/metadata.html) [10]
 
 ---
 
@@ -164,7 +166,10 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 ![Beispiel Sektion Erhaltungskonzept](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_25-CDF_Erhaltungskonzept.png)
 
 
->**Abbildung:** Beschreibung von [Zweck und Funktion der Sektion *Erhaltungskonzept*](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem CDF Online-Portal (Stand: 25.11.2026)
+>**Abbildung:** Beschreibung von [Zweck und Funktion der Sektion *Erhaltungskonzept*](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS. Screenshot (Ausschnitt) aus: CDF Online-Portal (CC BY 4.0) [13]
+
+
+ aus dem CDF Online-Portal (Stand: 25.11.2026)
 
 ---
 
@@ -222,8 +227,7 @@ Beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsd
 ## Quellenangaben
 
 [1] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes,
-C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zen-
-odo. https://doi.org/10.5281/ZENODO.10122153
+C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zenodo. https://doi.org/10.5281/ZENODO.10122153
 
 [2] Kommunikations-, Informations-, Medienzentrum (KIM) der Uni Konstanz. (2026). Metadaten. In Forschungsdaten.info: Praxis kompakt Glossar. https://forschungsdaten.info/praxis-kompakt/glossar/#c269911 (Stand: 17.03.2026)
 
@@ -246,6 +250,8 @@ odo. https://doi.org/10.5281/ZENODO.10122153
 [11] Hagel, F. v. (2025). Konservierung/Restaurierung (Metadatenvokabular). https://museumsvokabular.de/metadatenvokabular-konservierung-restaurierung/ (Stand: 25.11.2026)
 
 [12] NFDI4Objects. (o. D.). NFDI4Objects Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/ (Stand: 24.11.2026)
+
+[13] NFDI4Objects. (o. D.). Erhaltungskonzept. Conservation Metadata Schema. Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan (Stand: 25.11.2026)
 
 
 

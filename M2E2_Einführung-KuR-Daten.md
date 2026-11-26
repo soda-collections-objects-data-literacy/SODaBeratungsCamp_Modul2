@@ -84,7 +84,7 @@ Das **Beispiel MEGA65** verdeutlicht, wie stark relevante Informationen über un
 
 ### Beipiel: MEGA65 [2]
 
-![MEGA65](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/mega65.JPG)
+![MEGA65](/assets/mega65.JPG)
 
 > Abbildung: © 2015-2025 MEGA Museum of Electronic Games & Art e.V.
 
@@ -192,7 +192,7 @@ Für eine strukturierte Konservierungs- und Restaurierungsdokumentation reicht e
 Übung: Gruppenarbeit
 
 > **Gruppe 1 und 2: CircuitLab – Rave Racer**
->   
+>
 > **Gruppe 3 und 4: MEGA e. V. – T42 / Tennis for Two**
 > 
 > In den beiden vorgestellten Beispielen liegen Informationen zur medienarchäologischen Erschließung in Form von Projektdokumentationen vor.
@@ -212,7 +212,7 @@ Für eine strukturierte Konservierungs- und Restaurierungsdokumentation reicht e
 
 ## 2.4 Vergleich und gemeinsame Auswertung
 
-Nach der Annotation werden die Ergebnisse der zwei Gruppen gemeinsam betrachtet. Dabei geht es nicht darum, eine „richtige“ Annotation festzulegen, sondern unterschiedliche Zuordnungen, Informationslagen und Interpretationen sichtbar zu machen.
+Nach der Annotation werden die Ergebnisse der vier Gruppen gemeinsam betrachtet. Dabei geht es nicht darum, eine „richtige“ Annotation festzulegen, sondern unterschiedliche Zuordnungen, Informationslagen und Interpretationen sichtbar zu machen.
 
 Zunächst vergleichen jeweils die beiden Gruppen, die dasselbe Beispiel bearbeitet haben, ihre Ergebnisse.
 

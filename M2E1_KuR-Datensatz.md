@@ -163,17 +163,14 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 ## 1.7 Beispiel: Sektion Erhaltungskonzept
 
-### Zweck und Funktion
+### Zweck und Funktion der Sektion Erhaltungskonzept (Beschreibungstext)
 
 > Der Screenshot zeigt exemplarisch anhand der **Sektion Erhaltungskonzept**, wie die einzelnen Sektionen des KuR-MDS im CDF beschrieben werden. Zu sehen ist nur ein Ausschnitt des Beschreibungstextes. Die Beschreibung beinhaltet darüber hinaus eine Übersicht der enthaltenen Metadatenelemente sowie Hinweise zur Implementierung und Entsprechungen in anderen Schemata.
 
 ![Beispiel Sektion Erhaltungskonzept](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_25-CDF_Erhaltungskonzept.png)
 
 
->**Abbildung:** Beschreibung von [Zweck und Funktion der Sektion *Erhaltungskonzept*](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS. Screenshot (Ausschnitt) aus: CDF Online-Portal (CC BY 4.0) [13]
-
-
- aus dem CDF Online-Portal (Stand: 25.11.2026)
+>**Abbildung:** Beschreibung von [Zweck und Funktion der Sektion *Erhaltungskonzept*](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS. Screenshot (Ausschnitt) aus: KuR-MDS | CDF (CC BY 4.0) [13]
 
 ---
 

@@ -141,6 +141,8 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 
 ## 1.6 Überblick über die Sektionen
 
+> Die folgende Tabelle zeigt die 10 thematischen Sektionen des KuR-MDS mit den entsprechenden Verpflichtungsgraden und URIs aus der Conservation Metadata Terminology.
+
 | Sektionen | Verpflichtungsgrad | URI (Conservation Metadata Terminology) |
 |--------|--------|------|
 | Objektkennzeichnung | Pflicht | https://www.w3id.org/conservation/terms/metadata/B51DAF |
@@ -162,6 +164,8 @@ Sowohl die Sektionen als auch die KuR-Metadatenelemente sind in der [**Conservat
 ## 1.7 Beispiel: Sektion Erhaltungskonzept
 
 ### Zweck und Funktion
+
+> Der Screenshot zeigt exemplarisch anhand der **Sektion Erhaltungskonzept**, wie die einzelnen Sektionen des KuR-MDS im CDF beschrieben werden. Zu sehen ist nur ein Ausschnitt des Beschreibungstextes. Die Beschreibung beinhaltet darüber hinaus eine Übersicht der enthaltenen Metadatenelemente sowie Hinweise zur Implementierung und Entsprechungen in anderen Schemata.
 
 ![Beispiel Sektion Erhaltungskonzept](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_25-CDF_Erhaltungskonzept.png)
 

@@ -209,6 +209,7 @@ Für eine strukturierte Konservierungs- und Restaurierungsdokumentation reicht e
 >
 > Dauer: ca. 20 Min.
 
+---
 
 ## 2.4 Vergleich und gemeinsame Auswertung
 

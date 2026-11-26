@@ -58,15 +58,15 @@ e
 
 ---
 
-## 3.1 Ereignisorientierte Erfassung von Konservierungs- und Restaurierungsmaßnahmen im WissKI des Semantic Coworking-Space (SCS)
+## 3.1 Ereignisorientierte Erfassung von Konservierungs- und Restaurierungsmaßnahmen im WissKI des SODa Semantic Coworking-Space (SCS)
 
 **Ereignisorientierte Datenerfassung im SCS**
 
 Für die Erfassung von Konservierungs- und Restaurierungsdaten wird der [**SODa Semantic Coworking-Space (SCS)**](https://manager.scs.sammlungen.io/) als eine von SODa entwickelte cloudbasierte Arbeitsumgebung eingesetzt. [3]
 
-Der SCS stellt verschiedene digitale Werkzeuge für die Arbeit mit Sammlungsdaten bereit, insbesondere die virtuelle Forschungsumgebung [**WissKI (WissenschaftlicheInfrastruktur)**](https://wiss-ki.eu/de) zur **strukturierten Erfassung und Modellierung von Daten** [1] mit einem **fachspezifischen Modell für Konservierungs- und Restaurierungsdaten (KuR-Modell)**, [2] welches auf dem zuvor eingeführten Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [3] basiert.
+Der SCS stellt verschiedene digitale Werkzeuge für die Arbeit mit Sammlungsdaten bereit [4], insbesondere die virtuelle Forschungsumgebung [**WissKI (WissenschaftlicheInfrastruktur)**](https://wiss-ki.eu/de) zur **strukturierten Erfassung und Modellierung von Daten**. Das SCS-WissKI bringt ein "Standard-Datenmodell" mit sich, das sich unter anderem für die Erfassung von Konservierungs- und Restaurierungsdaten eignet. [5]
 
-Konservierungs- und Restaurierungsmaßnahmen sind stets ein **zielgerichteter Prozess** **zeitlich begrenzter Ereignisse**, die einen **konkreten Objektbezug** haben und in deren Verlauf unterschiedliche Informationen zusammenkommen können. [4] Dazu gehören beispielsweise:
+Konservierungs- und Restaurierungsmaßnahmen sind stets ein **zielgerichteter Prozess** **zeitlich begrenzter Ereignisse**, die einen **konkreten Objektbezug** haben und in deren Verlauf unterschiedliche Informationen zusammenkommen können. [6] Dazu gehören beispielsweise:
 
 - beteiligte Personen,
 - verwendete Materialien und Werkzeuge,
@@ -76,14 +76,14 @@ Konservierungs- und Restaurierungsmaßnahmen sind stets ein **zielgerichteter Pr
 
 Für die digitale Erfassung bedeutet dies, dass eine **Restaurierungsmaßnahme nicht lediglich als Eigenschaft eines Objekts erfasst wird, sondern als eigenständiges Ereignis, mit dem die jeweils relevanten Informationen verknüpft werden**. 
 
-Die in WissKI/SCS verwendete Modellierung orientiert sich genau aus diesem Grund am [**CIDOC Conceptual Reference Model (CIDOC CRM)**](https://cidoc-crm.org/), das Beschreibungen komplexer Zusammenhänge im Bereich des Kulturellen Erbes über **Ereignisse und die zwischen ihnen bestehenden Beziehungen** ermöglicht.[5] Diese **ereignisorientierte Modellierung** bietet damit eine Möglichkeit, die unterschiedlichen Informationen, die im Verlauf einer Konservierungs- oder Restaurierungsmaßnahme entstehen, systematisch miteinander in Beziehung zu setzen.
+Die im SCS-WissKI verwendete Modellierung orientiert sich genau aus diesem Grund am [**CIDOC Conceptual Reference Model (CIDOC CRM)**](https://cidoc-crm.org/), das Beschreibungen komplexer Zusammenhänge im Bereich des Kulturellen Erbes über **Ereignisse und die zwischen ihnen bestehenden Beziehungen** ermöglicht.[7] Diese **ereignisorientierte Modellierung** bietet damit eine Möglichkeit, die unterschiedlichen Informationen, die im Verlauf einer Konservierungs- oder Restaurierungsmaßnahme entstehen, systematisch miteinander in Beziehung zu setzen.
 
 **Perspektivwechsel bei der Dateneingabe**
 
 Diese ereignisorientierte Perspektive ist für die Datenerfassung zunächst ungewohnt: Statt ausschließlich vom Objekt und seinen Eigenschaften auszugehen, steht das **Ereignis der Konservierungs- und Restaurierungsmaßnahme** im Mittelpunkt. 
 
 
-> Für die Erfassung im WissKI/SCS bedeutet dies, die **jeweiligen Maßnahme als Ereignis zu denken und zu erfassen** und die daran **beteiligten Objekte, Personen, Materialien, Werkzeuge, Untersuchungen und weiteren Informationen mit diesem Ereignis in Beziehung** zu setzen.
+> Für die Erfassung im SCS-WissKI bedeutet dies, die **jeweiligen Maßnahme als Ereignis zu denken und zu erfassen** und die daran **beteiligten Objekte, Personen, Materialien, Werkzeuge, Untersuchungen und weiteren Informationen mit diesem Ereignis in Beziehung** zu setzen.
 
 ---
 
@@ -91,9 +91,11 @@ Diese ereignisorientierte Perspektive ist für die Datenerfassung zunächst unge
 
 ### Vom KuR-MDS zur hierarchisch strukturierten Eingabemaske
 
-Die folgende Abbildung 1 zeigt links einen Ausschnitt aus der [Mockup-App für Konservierungsdaten](https://conservationdata.github.io/docu/#/) (beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsdaten auf Basis des KuR-MDS). Die hierarchische Erfassungslogik entspricht der einer klassischen Eingabemaske. Auf derselben Abbildung 1 rechts werden Ausschnitte aus Beschreibungstexten des Conservation Data Framework Online Portals zur **Sektion "Erhaltungskonzept"** und zu **Metadatenelementen** der Sektion aufgeführt.
+Die folgende Abbildung 1 zeigt links einen Ausschnitt aus der [Mockup-App für Konservierungsdaten](https://conservationdata.github.io/docu/#/) (beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsdaten auf Basis des KuR-MDS). [8] Die hierarchische Erfassungslogik entspricht der einer klassischen Eingabemaske. Auf derselben Abbildung 1 rechts werden Ausschnitte aus Beschreibungstexten des KuR-MDS zur **Sektion "Erhaltungskonzept"** und zu **Metadatenelementen** der Sektion aufgeführt. [9]
 
-![Visualisierung Erfassung als Eigenschaft des Objekts](assets/2026_09_09-ModellierungalsObjekteigenschaft.png)
+---
+
+![Visualisierung Erfassung als Eigenschaft des Objekts](assets/2026_11_26-ModellierungalsObjekteigenschaft.png)
 
 >**Abbildung 1:** Ausschnitt des KuR-MDS als hierarchisch strukturierte Eingabemaske in der Mockup-App
 
@@ -139,7 +141,7 @@ Abbildung 3 zeigt am Beispiel des Metadatums **"Zuständigen Person (Erhaltungsm
 
 ---
 
-## 3.2 Gemeinsame Aufgabe im Medienarchäologie WissKI/SCS
+## 3.3 Gemeinsame Aufgabe im Medienarchäologie WissKI/SCS
 
 [Medienarchäologie WissKI/SCS](https://wisski-medienarchaeologie.wisski.scs.sammlungen.io)
 
@@ -149,7 +151,7 @@ Abbildung 3 zeigt am Beispiel des Metadatums **"Zuständigen Person (Erhaltungsm
   
 ---
 
-## 3.3 Diskussion
+## 3.4 Diskussion
 
 > **Was musstet ihr bei der Erfassung in WissKI/SCS anders denken als bei der Arbeit mit einer hierarchisch strukturierten Eingabemaske?**
 
@@ -169,17 +171,17 @@ Weitere Diskussionsfragen:
 
 [3] SODa. (o. D.). Semantic Coworking Space. https://sammlungen.io/kb/scs (Stand: 26.11.2026)
 
-----
+[4] SODa. (o. D.). Die Werkzeuge im SCS. In Semantic Coworking Space. https://sammlungen.io/kb/scs/die-werkzeuge-im-scs (Stand: 26.11.2026)
 
-[1] https://sammlungen.io/
+[5] SODa. (o. D.). WissKI-Umgebung. In Verfügbare Anwendungen. SODa Semantic Co-Working Space. https://manager.scs.sammlungen.io/de/soda-scs-manager/app/wisski (Stand: 26.11.2026)
 
-[2] Verweis auf KuR-Modell, sobald publiziert.
+[6] Schwenk, G. A., & Fischer, K. (2025, Mai 21). SODa Forum: Konservierungs- und Restaurierungsdokumentation gemeinsam weiterdenken - Ontologieentwicklung im Dialog. Zenodo. https://doi.org/10.5281/zenodo.15481743
 
-[3] NFDI4Objects Conservation Data Framework Online Portal. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS), Version 1.0. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 11.09.2026)
+[7] Bekiari, C., Bruseker, G., Canning, E., Doerr, M., Michon, P., Ore, C.-E., Stead, S., & Velios, A. (Hrsg.). (2024). Definition of the CIDOC Conceptual Reference Model (Version 7.1.3). CIDOC CRM Special Interest Group. https://cidoc-crm.org/Version/version-7.1.3 (Stand: 26.11.2026)
 
-[4] Schwenk, G. A., & Fischer, K. (2025, May 21). SODa Forum: Konservierungs- und Restaurierungsdokumentation gemeinsam weiterdenken - Ontologieentwicklung im Dialog. Zenodo. https://doi.org/10.5281/zenodo.15481743
+[8] Mempel-Länger, L., Fischer, K., & Witt, N. (2025). Conservation Documentation Data [Webanwendung]. https://conservationdata.github.io/docu/#/ (Stand: 26.11.2026)
 
-[5] CIDOC CRM
+[9] NFDI4Objects. (o. D.). Erhaltungskonzept. Conservation Metadata Schema. Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan (Stand: 26.11.2026)
 
 ---
 

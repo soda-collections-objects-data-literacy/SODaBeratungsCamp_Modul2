@@ -107,7 +107,7 @@ In der Mockup-App werden diese Metadaten in Form einer Eingabemaske visualisiert
 
 ---
 
-### Von der Eingabemaske zurm Ereignismodell
+### Von der Eingabemaske zum Ereignismodell
 
 Die Abbildung 2 macht dagegen sichtbar, wie diese fachlichen Angaben (mitte) im SCS-WissKI auf Grundlage des zugrunde liegenden Datenmodells erfasst werden. 
 
@@ -122,6 +122,8 @@ Im dargestellten Beispiel wird die **Erhaltungsmaßnahme vom Typ Rekonstruktion 
 >**Abbildung 2:** Gegenüberstellung eines Ausschnitts der hierarchisch strukturierten Eingabemaske mit "Anlass der Erhaltungsmaßnahme" aus der [Mockup-App](https://conservationdata.github.io/docu/#/) (links) und Modellierung des "Anlasses der Erhaltungsmaßnahme" als verknüpfte Ereignisse im SCS-WissKI (rechts). Ausschnitt aus Beschreibung von [Zweck und Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) [9] aus dem KuR-MDS (mitte).       
 Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten (links) [8] und Screenshot (Ausschnitt) aus: SCS-WissKI (rechts) 
 
+---
+
 **Hinweis:**
 
 > Damit wird ein zentraler Unterschied zur vertrauten Eingabemaske deutlich:
@@ -132,11 +134,11 @@ Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten (links) [8] und
 
 ### Die "Zuständige Person" als Teil einer Ereignisstruktur
 
-Abbildung 3 zeigt am Beispiel des Metadatums **"Zuständigen Person (Erhaltungsmaßnahme)"**, wie eine hierarchisch unter der Erhaltungsmaßnahme eingeordnete Information im WissKI/SCS als Teil eine Ereignisstruktur erfasst wird. Während die "Zuständige Person" in der vertrauten Eingabemaske unmittelbar als Angabe zur Erhaltungsmaßnahme erscheint, wird sie im WissKI/SCS über eine dazwischenliegende **Activity** modelliert: Die Erhaltungsmaßnahme (*Preservation*) **beginnt mit einer Aktivität** (*Begins with activity*). Für diese Aktivität wird anschließend die ausführende Person über **Carried out by** erfasst.
+Abbildung 3 zeigt am Beispiel des Metadatums **"Zuständigen Person (Erhaltungsmaßnahme)"**, wie eine hierarchisch unter der Erhaltungsmaßnahme eingeordnete Information im SCS-WissKI als Teil eine Ereignisstruktur erfasst wird. Während die **Zuständige Person** in der vertrauten Eingabemaske unmittelbar als Angabe zur Erhaltungsmaßnahme erscheint, wird sie im SCS-WissKI über eine dazwischenliegende **Aktivität** modelliert: Die Erhaltungsmaßnahme (*Rekonstruktion*) **beginnt mit einer Aktivität** (*Beginnt mit Aktivität*). Für diese Aktivität wird anschließend die ausführende Person über *Durchgeführt von* erfasst.
 
-![Visualisierung ereignisorientierte Erfassung des Erhaltungsmaßnahme](assets/2026_09_09-EreignisorientierteErfassungErhaltungsmasznahme.png)
+![Visualisierung ereignisorientierte Erfassung des Erhaltungsmaßnahme](assets/2026_11_26-EreignisorientierteErfassungErhaltungsmasnahme.png)
 
->**Abbildung 3:** Ereignisorientierte Erfassung der "Zuständigen Person" über eine Aktivität im WissKI/SCS
+>**Abbildung 3:** Ereignisorientierte Erfassung der "Zuständigen Person" über eine Aktivität im SCS-WissKI
 
 **Hinweis:**
 

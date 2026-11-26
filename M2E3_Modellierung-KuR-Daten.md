@@ -115,7 +115,7 @@ Die Abbildung 2 macht dagegen sichtbar, wie diese fachlichen Angaben im SCS-Wiss
 
 Im dargestellten Beispiel wird die **Erhaltungsmaßnahme vom Typ Re-creation mit einem *Condition Assessment*** verknüpft. Die Erhaltungsmaßnahme wird also mit einem Ereignis verknüpft, der Zustandsbewertung, durch welche die Erhaltungsmaßnahme motiviert ist. Die Angabe *Connected with condition assessement* beschreibt diese Beziehung. Über *Create Condition assessment for reference* kann ein entsprechendes Ereignis angelegt und als Bezug zur Erhaltungsmaßnahme erfasst werden.
 
-![Visualisierung ereignisorientierte Erfassung des Anlasses der Erhaltungsmaßnahme](assets/2026_09_09-EreignisorientierteErfassungWissKISCS1.png)
+![Visualisierung ereignisorientierte Erfassung des Anlasses der Erhaltungsmaßnahme](assets/2026_11_26-EreignisorientierteErfassungWissKISCS1.png)
 
 >**Abbildung 2:** Gegenüberstellung eines Ausschnitts der hierarchisch strukturierten Eingabemaske in der Mockup-App (links) und Modellierung des "Anlasses der Erhaltungsmaßnahme" als verknüpftes Ereignis im WissKI/SCS (rechts)
 

@@ -113,7 +113,7 @@ Die Abbildung 2 macht dagegen sichtbar, wie diese fachlichen Angaben im SCS-Wiss
 
 **Der im KuR-MDS als "Anlass der Erhaltungsmaßnahme"** bezeichnete Aspekt wird dabei nicht als einfache Eigenschaft der Erhaltungsmaßnahme oder des Erhaltungskonzepts erfasst, sondern in Ereignisbezügen modelliert. 
 
-Im dargestellten Beispiel wird die **Erhaltungsmaßnahme vom Typ Rekonstruktion mit einer *Zustandsbewertung*** verknüpft. Die Erhaltungsmaßnahme wird also mit einem Ereignis verknüpft, der *Zustandsbewertung*, durch welche die Erhaltungsmaßnahme motiviert ist. Das Ereignis *Zustandsbewertung* kann wiederum motiviert sein durch das Ereignis *Zustandsbeurteilung*. Über *Erstelle die Zustandsbeurteilung* kann ein entsprechendes Ereignis angelegt und so mit dem Ereignis *Zustandsbewertung* und der *Erhaltungsmaßnahme* verknüpft werden.
+Im dargestellten Beispiel wird die **Erhaltungsmaßnahme vom Typ Rekonstruktion mit einer *Zustandsbewertung*** verknüpft. Die Erhaltungsmaßnahme wird also mit einem Ereignis verknüpft, der ***Zustandsbewertung***, durch welche die Erhaltungsmaßnahme motiviert ist. Das Ereignis ***Zustandsbewertung*** kann wiederum motiviert sein durch das Ereignis ***Zustandsbeurteilung***. Über ***Erstelle die Zustandsbeurteilung*** kann ein entsprechendes Ereignis angelegt und so mit dem Ereignis ***Zustandsbewertung*** und der ***Erhaltungsmaßnahme*** verknüpft werden.
 
 ---
 

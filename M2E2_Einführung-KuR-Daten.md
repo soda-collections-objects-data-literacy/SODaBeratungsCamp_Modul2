@@ -34,19 +34,19 @@ Lernende können...
 
 2\.3  eigenständig das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) anwenden. (LZ-ID SODa\_03\_003\_0680)
 
-2\.4  eigenständig unstrukturierte Datendokumentationen auf fehlende, mehrdeutige oder nur implizit dokumentierte Informationen analysieren.
+2\.4  eigenständig unstrukturierte Datendokumentationen auf fehlende, mehrdeutige oder nur implizit dokumentierte Informationen analysieren. (LZ-ID SODa\_03\_001\_0630)
 
-2\.5  Herausforderungen bei der Überführung unstrukturierter Dokumentationen in strukturierte Forschungsdaten erläutern.
+2\.5  Herausforderungen bei der Überführung unstrukturierter Dokumentationen in strukturierte Dokumentationen erläutern. (LZ-ID SODa\_03\_001\_0631)
 
 ---
 
 ## Voraussetzung
 
-*Die Kenntnis über das KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen [1] sind von Vorteil.*
+*Die Kenntnis des Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen [1] sind von Vorteil.*
 
 ---
 
-## 2.1 Von der Dokumentation zu strukturierten KuR-Daten
+## 2.1 Von der unstrukturierten Dokumentation zu strukturierten Konservierungs- und Restaurierungsdaten (KuR-Daten)
 
 Bei der konservierungs- und restaurierungsbezogenen Arbeit entstehen kontinuierlich Forschungsdaten. Diese können sich auf die materielle Beschaffenheit, den Erhaltungszustand eines Objekts, auf Untersuchungen, durchgeführte Maßnahmen oder auf die dabei getroffenen Entscheidungen beziehen. (Vgl. dazu Modul 1, Einheit 2 [1])
 
@@ -70,7 +70,7 @@ vorliegen.
 
 Bevor Informationen strukturiert erfasst und modelliert werden können, müssen daher zunächst die relevanten Informationseinheiten identifiziert, voneinander unterschieden und fachlich eingeordnet werden:
 
-Insbesondere computerbasierte Medien weisen aufgrund ihrer technischen Komplexität eine große Vielfalt an Informationen und damit verbundenen Informationsquellen auf. 
+Insbesondere **computerbasierte Medien** weisen aufgrund ihrer technischen Komplexität eine große Vielfalt an Informationen und damit verbundenen Informationsquellen auf. 
 
 Informationen zu einem Objekt können sich beispielsweise auf **Hardware, Software, technische Funktionen, Nutzung, Veränderungen, Reparaturen oder Rekonstruktionen** beziehen und über unterschiedliche **analoge und digitale Quellen** verteilt sein.
 
@@ -78,16 +78,17 @@ Hinzu kommt, dass computerbasierte Medien häufig nicht allein durch ihre materi
 
 Die für eine konservierungs- und restaurierungsbezogene Erschließung benötigten Informationen müssen daher häufig aus verschiedenen Quellen zusammengeführt und in ihrem jeweiligen Zusammenhang bewertet werden.
 
-Das Beispiel MEGA65 verdeutlicht, wie stark relevante Informationen über unterschiedliche Dokumentationsformen und Plattformen verteilt sein können:
+Das **Beispiel MEGA65** verdeutlicht, wie stark relevante Informationen über unterschiedliche Dokumentationsformate und Plattformen verteilt sein können:
 
-### Beipiel: MEGA65
+---
 
-> Stand: 26.11.2026
+### Beipiel: MEGA65 [2]
 
 ![MEGA65](https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/mega65.JPG)
 
 > Abbildung: © 2015-2025 MEGA Museum of Electronic Games & Art e.V.
 
+---
 
 > - Projektwebseite: [MEGA65 - 8-Bit Computer](https://mega65.org)
 >
@@ -105,30 +106,39 @@ Das Beispiel MEGA65 verdeutlicht, wie stark relevante Informationen über unters
 >
 > - Aternative Computer / Arcade / Konsolen-Cores kostenlos auf https://cores.mega65.org
 
+---
+
+Stand: 26.11.2026
+
+---
+
 
 ### Eine Dokumentation ist nicht automatisch ein strukturierter Datensatz
 
-Die strukturierte Erschließung beginnt mit der Analyse vorhandener relevanter Informationen: 
+Die strukturierte Erschließung beginnt mit der Analyse vorhandener relevanter Informationen, die...
 
 - an unterschiedlichen Orten liegen,
 - in unterschiedlichen Formaten vorliegen,
-- unterschiedlich detailliert beschrieben sein,
+- unterschiedlich detailliert beschrieben sind,
 - mehrfach vorkommen,
 - nur indirekt aus dem Kontext hervorgehen oder vollständig fehlen.
 
+---
 
-## Weitere medienarchäologische Beispiele
+## 2.2 Weitere medienarchäologische Beispiele
 
 Für die folgende Analyse werden zwei Beispiele aus dem Bereich medienarchäologischer Erschließung betrachtet:
 
-- CurcuitLab Rave Racer
-- MEGA e.V. T42
+- CurcuitLab Rave Racer [3]
+- MEGA e.V. T42 [4]
 
-Beide Beispiele verdeutlichen, wie unterschiedlich eine medienarchäologische Arbeit zur Wiederherstellung eines Objektes sein kann.
+Beide Beispiele verdeutlichen, wie unterschiedlich eine medienarchäologische Arbeit und die entsprechende Dokumentation zur Wiederherstellung eines Objektes sein kann.
+
+---
 
 ### Beispiel: Rave Racer
 
-Das Rave Racer Projekt dokumentiert die historische Aufarbeitung (sog. Restauration) eines zweisitzigen Arcade-Fahrsimulators des japanischen Herstellers Namco aus dem Jahr 1995. Das Gerät wurde dem Circuit Lab 2025 vom Computerspielemuseum als Leihgabe zur Verfügung gestellt und wird im Zusammenhang mit einer technischen Restaurierung an der Burg Giebichenstein Kunsthochschule Halle untersucht und bearbeitet.
+Das Rave Racer Projekt dokumentiert die historische Aufarbeitung eines zweisitzigen Arcade-Fahrsimulators des japanischen Herstellers Namco aus dem Jahr 1995. Das Gerät wurde dem Circuit Lab 2025 vom Computerspielemuseum als Leihgabe zur Verfügung gestellt und wird im Zusammenhang mit einer technischen Restaurierung an der Burg Giebichenstein Kunsthochschule Halle untersucht und bearbeitet. [3]
 
 Das Beispiel enthält damit Informationen zu unterschiedlichen Bereichen:
 
@@ -140,9 +150,11 @@ Das Beispiel enthält damit Informationen zu unterschiedlichen Bereichen:
 - zum Restaurierungsprozess,
 - sowie zu verschiedenen Formen der Dokumentation.
 
+---
+
 ### Beispiel: T42 / Tennis for Two
 
-Beim Projekt T42 / Tennis for Two ging es darum eine Rekonstruktion (re-creation) aus fragmentarischer Quellenlage herzuleiten. Es lag keine umfassende technische Dokumentation vor noch war das Original vorhanden. Aus wenigen heterogenen Informationen mussten technische Funktion, Spiellogik und konkrete Umsetzung erschlossen werden.
+Beim Projekt T42 / Tennis for Two ging es darum eine Rekonstruktion (re-creation) aus fragmentarischer Quellenlage herzuleiten. Es lag keine umfassende technische Dokumentation vor noch war das Original vorhanden. Aus wenigen heterogenen Informationen mussten technische Funktion, Spiellogik und konkrete Umsetzung erschlossen werden. [4]
 
 Zur Verfügung standen unter anderem:
 
@@ -154,6 +166,8 @@ Zur Verfügung standen unter anderem:
 Eine Rekonstruktion (re-creation) schließt Dokumentationslücken nicht dadurch, dass fehlende Informationen einfach ergänzt werden. Sie erzeugt neue Aussagen auf Grundlage vorhandener Quellen, technischer Zusammenhänge und fachspezifischer Interpretation. 
 
 Für eine nachvollziehbare Dokumentation muss deshalb erkennbar bleiben, was überliefert und was rekonstruiert wurde – und worauf die Rekonstruktion beruht.
+
+---
 
 ### Fazit: Entstehungs- und Erkenntniskontexte
 
@@ -169,9 +183,9 @@ Eine Information kann beispielsweise am vorhandenen Objekt beobachtet, einer his
 
 Für eine strukturierte Konservierungs- und Restaurierungsdokumentation reicht es daher nicht aus, lediglich festzuhalten, welche Information vorliegt. Ebenso relevant ist, woher sie stammt, in welchem Zusammenhang sie entstanden ist und wie sie erschlossen wurde.
 
-> Strukturierung bedeutet deshalb nicht nur, vorhandene Informationen zu ordnen, sondern auch ihre Zusammenhänge und Entstehungskontexte nachvollziehbar zu machen.
+> **Strukturierung bedeutet deshalb in diesem Kontext nicht nur, vorhandene Informationen zu ordnen, sondern auch ihre Zusammenhänge und Entstehungskontexte nachvollziehbar zu machen.**
 
-
+---
 
 ## 2.3 Übung: Dokumentation lesen und annotieren 
 
@@ -185,7 +199,7 @@ Für eine strukturierte Konservierungs- und Restaurierungsdokumentation reicht e
 > 
 > In der folgenden Übung wird untersucht, welche konservierungs- und restaurierungsrelevanten Informationen in diesen Dokumentationen enthalten sind und wie sie mithilfe des KuR-MDS strukturiert erschlossen werden können.
 >
-> Jede Gruppe erhält die jeweilige Projektdokumentation als Präsentation (.ppt/.pptx) sowie das KuR-MDS als Referenz.
+> Jede Gruppe erhält die jeweilige Projektdokumentation als Präsentation (.ppt/.pptx) sowie das KuR-MDS [5] als Referenz.
 >
 > **Leifragen:**
 >
@@ -198,14 +212,14 @@ Für eine strukturierte Konservierungs- und Restaurierungsdokumentation reicht e
 
 ## 1.4 Vergleich und gemeinsame Auswertung
 
-Nach der Annotation werden die Ergebnisse der vier Gruppen gemeinsam betrachtet. Dabei geht es nicht darum, eine „richtige“ Annotation festzulegen, sondern unterschiedliche Zuordnungen, Informationslagen und Interpretationen sichtbar zu machen.
+Nach der Annotation werden die Ergebnisse der zwei Gruppen gemeinsam betrachtet. Dabei geht es nicht darum, eine „richtige“ Annotation festzulegen, sondern unterschiedliche Zuordnungen, Informationslagen und Interpretationen sichtbar zu machen.
 
 Zunächst vergleichen jeweils die beiden Gruppen, die dasselbe Beispiel bearbeitet haben, ihre Ergebnisse.
 
 >
-> Gemeinsame Auswertung
+> Gemeinsame Auswertung:
 >
-> - Welche Informationen habt ihr identifiziert und welchen Elementen des KuR-MDS habt ihr sie zugeordnet?
+> - Welche Informationen habt ihr identifiziert und welchen Elementen des KuR-MDS [5] habt ihr ihnen zugeordnet?
 > 
 > - Wo unterscheiden sich die Annotationen der beiden Gruppen?
 > 
@@ -215,25 +229,24 @@ Zunächst vergleichen jeweils die beiden Gruppen, die dasselbe Beispiel bearbeit
 
 > Anschließend werden die beiden Beispiele miteinander verglichen.
 >
-> Diskussion und Vergleich im Plenum
+> Diskussion und Vergleich im Plenum:
 >
-> Welche Informationen ließen sich unmittelbar aus der Dokumentation entnehmen?
+> - Welche Informationen ließen sich unmittelbar aus der Dokumentation entnehmen?
 >
-> Wo war fachliche Interpretation notwendig?
+> - Wo war fachliche Interpretation notwendig?
 >
-> Wo wurden Informationen aus anderen Informationen oder Quellen hergeleitet bzw. rekonstruiert?
+> - Wo wurden Informationen aus anderen Informationen oder Quellen hergeleitet bzw. rekonstruiert?
 >
-> Welche Informationen ließen sich mit dem KuR-MDS eindeutig strukturieren und wo entstanden Schwierigkeiten?
+> - Welche Informationen ließen sich mit dem KuR-MDS eindeutig strukturieren und wo entstanden Schwierigkeiten?
 >
-> Welche für eine strukturierte Dokumentation relevanten Informationen fehlten?
+> - Welche für eine strukturierte Dokumentation relevanten Informationen fehlten?
 > 
 > Dauer: ca. 5 Min.
 
 
-
 **Fazit:**
 
-> Strukturierung bedeutet nicht nur, Informationen Kategorien zuzuordnen. Sie erfordert auch, ihren Kontext, ihre Herkunft und die Beziehungen zwischen den Informationen nachvollziehbar zu machen.
+> Strukturierung bedeutet nicht nur, Informationen Kategorien zuzuordnen. Sie erfordert auch, Kontext der Informationen, ihre Herkunft und die Beziehungen zwischen den Informationen nachvollziehbar zu machen.
 
  
 ---
@@ -241,6 +254,14 @@ Zunächst vergleichen jeweils die beiden Gruppen, die dasselbe Beispiel bearbeit
 ## Quellenangaben
 
 [1] Hastik, C., & Schwenk, G. A. (2025, Dezember 5). SODaBeratungsCamp: Modul 1. Zenodo. https://doi.org/10.5281/zenodo.17832837
+
+[2] MEGA Museum of Electronic Games & Art e. V. (2025). MEGA65 – 8-Bit Computer. https://mega65.org/ (Stand: 26.11.2026)
+
+[3] Vonderau, P. (2026). Das Rave Racer Projekt (Version 1) [Projektseite]. Circuit Lab, Martin-Luther-Universität Halle-Wittenberg. https://racerprojekt.de/ (Stand: 26.11.2026)
+
+[4] MEGA Museum of Electronic Games & Art e. V. (o. D.). T42: Tennis For Two with New Media @ gamescom 2012 [Ausstellungsseite]. https://www.m-e-g-a.org/exhibition/t42-tennis-for-two-with-new-media-gamescom-2012/ (Stand: 26.11.2026)
+
+[5] NFDI4Objects. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Conservation Metadata Schema oder kurz KuR-MDS), Version 1.0. Conservation Data Framework Online Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 26.11.2026)
 
 ---
 

@@ -86,7 +86,7 @@ Das **Beispiel MEGA65** verdeutlicht, wie stark relevante Informationen über un
 
 ![MEGA65](assets/mega65.JPG)
 
-> Abbildung: © 2015-2025 MEGA Museum of Electronic Games & Art e.V.
+> **Abbildung:** © 2015-2025 MEGA Museum of Electronic Games & Art e.V.
 
 ---
 

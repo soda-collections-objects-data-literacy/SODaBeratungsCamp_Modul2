@@ -42,13 +42,13 @@ Lernende können...
 
 ## Voraussetzung
 
-*Die Kenntnis des Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen [1] sind von Vorteil.*
+*Die Kenntnis des Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [1] als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen [2] sind von Vorteil.*
 
 ---
 
 ## 2.1 Von der unstrukturierten Dokumentation zu strukturierten Konservierungs- und Restaurierungsdaten (KuR-Daten)
 
-Bei der konservierungs- und restaurierungsbezogenen Arbeit entstehen kontinuierlich Forschungsdaten. Diese können sich auf die materielle Beschaffenheit, den Erhaltungszustand eines Objekts, auf Untersuchungen, durchgeführte Maßnahmen oder auf die dabei getroffenen Entscheidungen beziehen. (Vgl. dazu Modul 1, Einheit 2 [1])
+Bei der konservierungs- und restaurierungsbezogenen Arbeit entstehen kontinuierlich Forschungsdaten. Diese können sich auf die materielle Beschaffenheit, den Erhaltungszustand eines Objekts, auf Untersuchungen, durchgeführte Maßnahmen oder auf die dabei getroffenen Entscheidungen beziehen. (Vgl. dazu Modul 1, Einheit 2 [2])
 
 Gleichzeitig können diese Informationen in sehr unterschiedlichen Dokumentationsformaten vorliegen.
 
@@ -82,7 +82,7 @@ Das **Beispiel MEGA65** verdeutlicht, wie stark relevante Informationen über un
 
 ---
 
-### Beipiel: MEGA65 [2]
+### Beipiel: MEGA65 [3]
 
 ![MEGA65](assets/mega65.JPG)
 
@@ -129,8 +129,8 @@ Die strukturierte Erschließung beginnt mit der Analyse vorhandener relevanter I
 
 Für die folgende Analyse werden zwei Beispiele aus dem Bereich medienarchäologischer Erschließung betrachtet:
 
-- CurcuitLab Rave Racer [3]
-- MEGA e.V. T42 [4]
+- CurcuitLab Rave Racer [4]
+- MEGA e.V. T42 [5]
 
 Beide Beispiele verdeutlichen, wie unterschiedlich eine medienarchäologische Arbeit und die entsprechende Dokumentation zur Wiederherstellung eines Objektes sein kann.
 
@@ -138,7 +138,7 @@ Beide Beispiele verdeutlichen, wie unterschiedlich eine medienarchäologische Ar
 
 ### Beispiel: Rave Racer
 
-Das Rave Racer Projekt dokumentiert die historische Aufarbeitung eines zweisitzigen Arcade-Fahrsimulators des japanischen Herstellers Namco aus dem Jahr 1995. Das Gerät wurde dem Circuit Lab 2025 vom Computerspielemuseum als Leihgabe zur Verfügung gestellt und wird im Zusammenhang mit einer technischen Restaurierung an der Burg Giebichenstein Kunsthochschule Halle untersucht und bearbeitet. [3]
+Das Rave Racer Projekt dokumentiert die historische Aufarbeitung eines zweisitzigen Arcade-Fahrsimulators des japanischen Herstellers Namco aus dem Jahr 1995. Das Gerät wurde dem Circuit Lab 2025 vom Computerspielemuseum als Leihgabe zur Verfügung gestellt und wird im Zusammenhang mit einer technischen Restaurierung an der Burg Giebichenstein Kunsthochschule Halle untersucht und bearbeitet. [4]
 
 Das Beispiel enthält damit Informationen zu unterschiedlichen Bereichen:
 
@@ -154,7 +154,7 @@ Das Beispiel enthält damit Informationen zu unterschiedlichen Bereichen:
 
 ### Beispiel: T42 / Tennis for Two
 
-Beim Projekt T42 / Tennis for Two ging es darum eine Rekonstruktion (re-creation) aus fragmentarischer Quellenlage herzuleiten. Es lag keine umfassende technische Dokumentation vor noch war das Original vorhanden. Aus wenigen heterogenen Informationen mussten technische Funktion, Spiellogik und konkrete Umsetzung erschlossen werden. [4]
+Beim Projekt T42 / Tennis for Two ging es darum eine Rekonstruktion (re-creation) aus fragmentarischer Quellenlage herzuleiten. Es lag keine umfassende technische Dokumentation vor noch war das Original vorhanden. Aus wenigen heterogenen Informationen mussten technische Funktion, Spiellogik und konkrete Umsetzung erschlossen werden. [5]
 
 Zur Verfügung standen unter anderem:
 
@@ -199,7 +199,7 @@ Für eine strukturierte Konservierungs- und Restaurierungsdokumentation reicht e
 > 
 > In der folgenden Übung wird untersucht, welche konservierungs- und restaurierungsrelevanten Informationen in diesen Dokumentationen enthalten sind und wie sie mithilfe des KuR-MDS strukturiert erschlossen werden können.
 >
-> Jede Gruppe erhält die jeweilige Projektdokumentation als Präsentation (.ppt/.pptx) sowie das KuR-MDS [5] als Referenz.
+> Jede Gruppe erhält die jeweilige Projektdokumentation als Präsentation (.ppt/.pptx) sowie das KuR-MDS [1] als Referenz.
 >
 > **Leifragen:**
 >
@@ -220,7 +220,7 @@ Zunächst vergleichen jeweils die beiden Gruppen, die dasselbe Beispiel bearbeit
 >
 > Gemeinsame Auswertung:
 >
-> - Welche Informationen habt ihr identifiziert und welchen Elementen des KuR-MDS [5] habt ihr ihnen zugeordnet?
+> - Welche Informationen habt ihr identifiziert und welchen Elementen des KuR-MDS [1] habt ihr ihnen zugeordnet?
 > 
 > - Wo unterscheiden sich die Annotationen der beiden Gruppen?
 > 
@@ -256,15 +256,15 @@ Zunächst vergleichen jeweils die beiden Gruppen, die dasselbe Beispiel bearbeit
 
 ## Quellenangaben
 
-[1] Hastik, C., & Schwenk, G. A. (2025, Dezember 5). SODaBeratungsCamp: Modul 1. Zenodo. https://doi.org/10.5281/zenodo.17832837
+[1] NFDI4Objects. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Conservation Metadata Schema oder kurz KuR-MDS), Version 1.0. Conservation Data Framework Online Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 26.11.2026)
 
-[2] MEGA Museum of Electronic Games & Art e. V. (2025). MEGA65 – 8-Bit Computer. https://mega65.org/ (Stand: 26.11.2026)
+[2] Hastik, C., & Schwenk, G. A. (2025, Dezember 5). SODaBeratungsCamp: Modul 1. Zenodo. https://doi.org/10.5281/zenodo.17832837
 
-[3] Vonderau, P. (2026). Das Rave Racer Projekt (Version 1) [Projektseite]. Circuit Lab, Martin-Luther-Universität Halle-Wittenberg. https://racerprojekt.de/ (Stand: 26.11.2026)
+[3] MEGA Museum of Electronic Games & Art e. V. (2025). MEGA65 – 8-Bit Computer. https://mega65.org/ (Stand: 26.11.2026)
 
-[4] MEGA Museum of Electronic Games & Art e. V. (o. D.). T42: Tennis For Two with New Media @ gamescom 2012 [Ausstellungsseite]. https://www.m-e-g-a.org/exhibition/t42-tennis-for-two-with-new-media-gamescom-2012/ (Stand: 26.11.2026)
+[4] Vonderau, P. (2026). Das Rave Racer Projekt (Version 1) [Projektseite]. Circuit Lab, Martin-Luther-Universität Halle-Wittenberg. https://racerprojekt.de/ (Stand: 26.11.2026)
 
-[5] NFDI4Objects. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Conservation Metadata Schema oder kurz KuR-MDS), Version 1.0. Conservation Data Framework Online Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 26.11.2026)
+[5] MEGA Museum of Electronic Games & Art e. V. (o. D.). T42: Tennis For Two with New Media @ gamescom 2012 [Ausstellungsseite]. https://www.m-e-g-a.org/exhibition/t42-tennis-for-two-with-new-media-gamescom-2012/ (Stand: 26.11.2026)
 
 ---
 

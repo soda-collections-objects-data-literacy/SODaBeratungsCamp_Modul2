@@ -93,9 +93,9 @@ Diese ereignisorientierte Perspektive ist für die Datenerfassung zunächst unge
 
 Die folgende **Abbildung 1** zeigt **links** einen Ausschnitt aus der [Mockup-App für Konservierungsdaten](https://conservationdata.github.io/docu/#/) (beispielhafte Eingabemaske zur Erfassung von Konservierungs- und Restaurierungsdaten auf Basis des KuR-MDS). [8] Die hierarchische Erfassungslogik entspricht der einer klassischen Eingabemaske.  
 
-Auf derselben Abbildung 1 **rechts** werden Ausschnitte aus Beschreibungstexten des KuR-MDS zur **Sektion "Erhaltungskonzept"** und zu **Metadatenelementen** der Sektion aufgeführt. [9]
+Auf derselben Abbildung 1 **rechts** werden Ausschnitte aus Beschreibungstexten des KuR-MDS zur **Sektion Erhaltungskonzept** und zu **Metadatenelementen** der Sektion aufgeführt. [9]
 
-Dazu gehören beispielsweise "Anlass der Erhaltungsmaßnahmen" und "Konservatorische Zielsetzung" (Planungsphase) sowie Angaben zur "Erhaltungsmaßnahme" selbst, etwa die "Zuständige Person" (Durchführungsphase).
+Dazu gehören beispielsweise **Anlass der Erhaltungsmaßnahme** und **Konservatorische Zielsetzung** (Planungsphase) sowie Angaben zur **Erhaltungsmaßnahme** selbst, etwa die **Zuständige Person** (Durchführungsphase).
 
 In der Mockup-App werden diese Metadaten in Form einer Eingabemaske visualisiert, die einer vertrauten Erfassungsoberfläche entspricht. Die einzelnen Erfassungsfelder sind hierarchisch angeordnet, sie bilden die hierarchische Struktur des KuR-MDS ab.
 
@@ -109,20 +109,18 @@ In der Mockup-App werden diese Metadaten in Form einer Eingabemaske visualisiert
 
 ### Von der Eingabemaske zum Ereignismodell
 
-Die **Abbildung 2** macht dagegen sichtbar, wie diese fachlichen Angaben (mitte) im SCS-WissKI auf Grundlage des zugrunde liegenden Datenmodells erfasst werden. 
+Die **Abbildung 2** macht dagegen sichtbar, wie diese fachlichen Angaben (mitte) im SCS-WissKI (rechts) auf Grundlage des zugrunde liegenden Datenmodells erfasst werden. 
 
-**Der im KuR-MDS als "Anlass der Erhaltungsmaßnahme"** (links) bezeichnete Aspekt wird dabei nicht als einfache Eigenschaft der Erhaltungsmaßnahme oder des Erhaltungskonzepts erfasst, sondern in Ereignisbezügen modelliert. 
+**Der im KuR-MDS als Anlass der Erhaltungsmaßnahme** (links) bezeichnete Aspekt wird dabei (rechts) nicht als einfache Eigenschaft der Erhaltungsmaßnahme oder des Erhaltungskonzepts erfasst, sondern in Ereignisbezügen modelliert. 
 
-Im dargestellten Beispiel wird die **Erhaltungsmaßnahme vom Typ Rekonstruktion mit einer *Zustandsbewertung*** verknüpft (rechts). Die Erhaltungsmaßnahme wird also mit einem Ereignis verknüpft, der ***Zustandsbewertung***, durch welche die Erhaltungsmaßnahme motiviert ist. Das Ereignis ***Zustandsbewertung*** kann wiederum motiviert sein durch das Ereignis ***Zustandsbeurteilung***. Über ***Erstelle die Zustandsbeurteilung*** kann ein entsprechendes Ereignis angelegt und so mit dem Ereignis ***Zustandsbewertung*** und der ***Erhaltungsmaßnahme*** verknüpft werden (rechts).
+Im dargestellten Beispiel wird (rechts) die **Erhaltungsmaßnahme vom Typ Rekonstruktion mit einer *Zustandsbewertung*** verknüpft. Die Erhaltungsmaßnahme wird also mit einem Ereignis verknüpft, der ***Zustandsbewertung***, durch welche die Erhaltungsmaßnahme motiviert ist. Das Ereignis ***Zustandsbewertung*** kann wiederum motiviert sein durch das Ereignis ***Zustandsbeurteilung***. Über ***Erstelle die Zustandsbeurteilung*** kann ein entsprechendes Ereignis angelegt und so mit dem Ereignis ***Zustandsbewertung*** und der ***Erhaltungsmaßnahme*** verknüpft werden.
 
 ---
 
 ![Visualisierung ereignisorientierte Erfassung des Anlasses der Erhaltungsmaßnahme](assets/2026_11_26-EreignisorientierteErfassungWissKISCS1.png)
 
->**Abbildung 2:** 
->
->Gegenüberstellung des"Anlasses der Erhaltungsmaßnahme" in der [Mockup-App](https://conservationdata.github.io/docu/#/) (links) [8] und Modellierung des "Anlasses der Erhaltungsmaßnahme" als verknüpfte Ereignisse im SCS-WissKI (rechts). Ausschnitt aus Beschreibung von [Zweck und Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) [9] aus dem KuR-MDS (mitte).       
-Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten (links) [8] und Screenshot (Ausschnitt) aus: SCS-WissKI (rechts) 
+>**Abbildung 2:** Links: Hierarchisch strukturierte Eingabemaske in der [Mockup-App](https://conservationdata.github.io/docu/#/). Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten (Stand:26.11.2026) [8]. Mitte: Ausschnitt aus Beschreibung von [Zweck und
+> Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS (Stand: 26.11.2026) [9]. Rechts: Modellierung des Anlasses der Erhaltungsmaßnahme als verknüpfte Ereignisse in einer SCS-WissKI-Instanz (Stand: 26.11.2026)
 
 ---
 

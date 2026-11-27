@@ -14,7 +14,9 @@ Gudrun Schwenk, https://orcid.org/0009-0002-3156-8339
 
 ## Inhalte
 
-Dieses Modul beinhaltet Materialien zur Durchführung eines Präsenz Workshops als BeratungsCamp mit [Inhalte ergänzen]
+Dieses Modul beinhaltet Materialien zur Durchführung eines Präsenz Workshops als BeratungsCamp mit Kurzimpulsen zu den Themen **Metadaten und Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation** in **Einheit 1**. Einheit 1 beinhaltet dabei eine Kurzvorstellung des von der NFDI4Objects-TWG "Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbens" entwickelten **Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)**. In **Einheit 2** folgen Kurzimpulse zur Frage wie man von einer **unstrukturierten Dokumentation konservierungs- und restaurierungsbezogener Daten zu strukturierten Daten** gelangt. Der Herausforderung wird sich anhand **medienarchäologischer Beispiele** genähert. **Einheit 3** widmet sich exemplarisch der **ereignisorientierten Erfassung von Konservierungs- und Restaurierungsmaßnahmen im WissKI des SODa Semantic Coworking-Space (SCS)**.
+
+Die folienbasierten Kurzinputs werden ergänzt durch Gruppenarbeiten, gemeinsame Übungen, der konkreten Arbeit mit einer WissKI-Instanz und Diskussionsimpulsen, die sich didaktisch für Präsenzveranstaltungen mit einer Gruppengröße von maximal 25 Personen eignen. (z. B. *Übung: Dokumentation lesen und annotieren*)
 
 ---
 
@@ -43,11 +45,11 @@ Das bedeutet: Sie dürfen die Daten frei nutzen, teilen und weiterverarbeiten, s
 
 mediatype: Text (mit referenzierten Multimedia-Inhalten)
 
-additional mediatype: Moving Image, Still Image
+additional mediatype: Still Image
 
 technical format: Markdown mit LiaScript-Erweiterungen
 
-additional technical format: mp4 (YouTube-Video, Streaming), png (eingebettete Grafik)
+additional technical format: png (eingebettete Grafik), jpeg (eingebettete Grafik)
 
 file format: .md | MIME: text/markdown
 

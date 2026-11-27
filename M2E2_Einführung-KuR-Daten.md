@@ -286,11 +286,11 @@ sessiontitle: Analyse und Strukturierung von Konservierungs- und Restaurierungsd
 
 sessionnumber: 2
 
-unittitle: Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten
+unittitle: Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten an medienarchäologischen Beispielen
 
 unitnumber: 2  
 
-duration unit: 30 Minuten (PT0H30M)
+duration unit: 30 Minuten (PT30M)
 
 rights: CC-BY 4.0
 
@@ -298,7 +298,7 @@ rights description: Dieses Material steht unter der Lizenz Creative Commons Attr
 
 rights link: https://creativecommons.org/licenses/by/4.0/
 
-SODaformat: SODa Workshop, SODa Train-the-Trainer
+SODaformat: SODa Workshop
 
 SODagestaltungsprinzip: Forschendes Lernen
 
@@ -306,11 +306,15 @@ classification: Forschende, Sammlungsleitende und -betreuende. Technisches admin
 
 classification description: basierend auf SODaPersonas-Beschreibungen, Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
 
-mediatype: Text
+mediatype: Text (mit referenzierten Multimedia-Inhalten)
+
+additional mediatype: Still Image
 
 technical format: Markdown mit LiaScript-Erweiterungen
 
-file format: .md | MIME: text/markdown
+additional technical format: jpg (eingebettete Grafik)
+
+file format: .md | MIME: text/markdown, image/jpeg
 
 software: LiaScript
 
@@ -320,3 +324,90 @@ keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurie
 
 references:
 
+type: Image
+
+title: mega65.JPG
+
+url: https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/mega65.JPG
+
+format: image/jpg
+
+type: Webseite
+
+title: MEGA65 - 8-Bit Computer
+
+url: https://mega65.org/
+
+format: text/html
+
+type: Wiki (Webseite)
+
+title: MEGA65 Wiki
+
+url: https://mega65.atlassian.net/wiki/spaces/MEGA65/overview
+
+format: text/html
+
+type: Webseite (Plattform / Dateiarchiv) 
+
+title: MEGA65 Filehost
+
+url: https://files.mega65.org/html/main.php
+
+format: text/html
+
+type: Buch / Handbuch (Dateieintrag im Filehost)
+
+title: MEGA65-Book
+
+url: https://files.mega65.org/html/main.php?id=d668168c-1fef-4560-a530-77e9e237536d
+
+format: text/html
+
+type: Videokanal (YouTube-Kanal)
+
+title: MEGA65
+
+url: https://www.youtube.com/@MEGA65retro
+
+format: text/html
+
+type: Community-Plattform (Discord-Server)
+
+title: MEGA65 Discord Server
+
+url: https://discord.com/invite/5DNvESf
+
+format: text/html
+
+type: Forenbereich (Board)
+
+title: MEGA65 (Forum64, Bereich „MEGA65“)
+
+url: https://www.forum64.de/index.php?board/457-mega65/&l=2
+
+format: text/html
+
+type: Software-Organisation (GitHub-Organisation mit Repositories)
+
+title: MEGA65 (MEGA65 Open-Source Retro Computer)
+
+url: https://github.com/MEGA65
+
+format: text/html
+
+type: Software (Downloadseite eines Emulators)
+
+title: Xemu Download Page
+
+url: https://github.lgb.hu/xemu/
+
+format: text/html
+
+type: Webseite (Übersichtsliste)
+
+title: Computer Core Overview
+
+url: https://kugelblitz360.github.io/m65-altcores/
+
+format: text/html

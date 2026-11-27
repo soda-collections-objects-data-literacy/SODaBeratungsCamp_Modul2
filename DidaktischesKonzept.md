@@ -51,27 +51,19 @@ Auf diese Weise entsteht eine dynamische Lernumgebung, die sowohl fachliche Orie
 
 ## Themenbereiche, Themen und Lernziele
 
-**Grundlegende und übergreifende Konzepte des FDM, Cluster 1 der Lernzielmatrix zum Forschungsdatenmanagment [1]** 
+Für die Thematik der strukturierten Konservierungs- und Restaurierungsdokumentation nachgenutzte, adaptierte und erweiterte Themencluster und Themen aus der Lernzielmatrix zum Forschungsdatenmanagement [1]
 
-* Grundlegende Konzepte des Forschungsdatenmanagements (FDM)
-* Relevanz von FDM und Problemstellungen 
-* Verantwortlichkeiten und Rollen im Forschungsdatenmenagement (FDM)
-* Maßnahmen entlang des Datenlebenszyklus
-* Beratungsbedarfe, eigene Rolle und Kompetenzen reflektieren
+**Grundlegende und übergreifende Konzepte, Cluster 1 der Lernzielmatrix zum Forschungsdatenmanagement [1]**
 
+- Thema: IT-Infrastrukturen
 
-**Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen**
+**Dokumentation und Metadaten, Cluster 3 der Lernzielmatrix zum Forschungsdatenmanagement [1]**
 
-Grundlegende und übergreifende Konzepte, Cluster 1 (angepasst an die Bedarfe der Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen)
-
-  * Fachspezifische Grundsatzpapiere mit Relevanz für Forschungsdatenmanagement (FDM) (neu)
-  * Personen und Rollen im Forschungsdatenmanagement (FDM) (in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen)
-    
-Dokumentation und Metadaten, Cluster 3 (angepasst an die Bedarfe der Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen)
-  
-  * Datendokumentation (in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen)
-  * Metadatenstandard (für Konservierungs- und Restaurierungsmaßnahmen)
-  * Taxonomie (für Konservierungs- und Restaurierungsmaßnahmen)
+- Thema: Datendokumentation
+- Thema: Metadaten
+- Thema: Metadatenstandard
+- Thema: Taxonomie
+- Thema: Ontologien
 
 ---
 ### Lernziele in Einheit 1
@@ -215,17 +207,29 @@ sessionnumber: 2
 
 duration session: 90 Minuten (PT1H30M)
 
-unittitle: Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie Reflexion eigener Rollen, Bedarfe und Kompetenzen  
+unittitle: Begrüßung und Zielsetzung
 
-unitnumber: 1  
+unitnumber: 0  
 
-duration unit: 70 Minuten (PT1H10M)
+duration unit: 5 Minuten (PT5M)
 
-unittitle: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen
+unittitle: Das KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten
+
+unitnumber: 1
+
+duration unit: 10 Minuten (PT10M)
+
+unittitle: Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten an medienarchäologischen Beispielen
 
 unitnumber: 2  
 
-duration unit: 50 Minuten (PT0H50M)
+duration unit: 35 Minuten (PT35M)
+
+unittitle: Ereignisorientierte Datendokumentation im SCS-WissKI
+
+unitnumber: 3  
+
+duration unit: 40 Minuten (PT40M)
 
 rights: CC-BY 4.0
 
@@ -233,7 +237,7 @@ rights description: Dieses Material steht unter der Lizenz Creative Commons Attr
 
 rights link: https://creativecommons.org/licenses/by/4.0/
 
-SODaformat: SODa Workshop, SODa Train-the-Trainer
+SODaformat: SODa Workshop
 
 SODagestaltungsprinzip: Forschendes Lernen
 
@@ -241,11 +245,15 @@ classification: Forschende, Sammlungsleitende und -betreuende. Technisches admin
 
 classification description: basierend auf SODaPersonas-Beschreibungen, Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
 
-mediatype: Text
+mediatype: Text (mit referenzierten Multimedia-Inhalten)
+
+additional mediatype: Still Image
 
 technical format: Markdown mit LiaScript-Erweiterungen
 
-file format: .md | MIME: text/markdown
+additional technical format: png (eingebettete Grafik), jpeg (eingebettete Grafik)
+
+file format: .md | MIME: text/markdown, image/png, image/jpeg
 
 software: LiaScript
 

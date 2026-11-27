@@ -1,6 +1,6 @@
 # SODaBeratungsCamp_Modul2
 
-[DOI ergänzen]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24584230.svg)](https://doi.org/10.5281/zenodo.24584230)
 
 Dieses Repository enthält offene Lehr-/Lerneinheiten zum Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation in Sammlungen. Die Materialien wurden im Rahmen der [SODa-Initiative](https://sammlungen.io) entwickelt und richten sich an Forschende, Sammlungsbetreuende, Sammlungsleitende und darüber hinaus.
 
@@ -14,7 +14,7 @@ Gudrun Schwenk, https://orcid.org/0009-0002-3156-8339
 
 ## Inhalte
 
-Dieses Modulk beinhaltet Materialien zur Durchführung eines Präsenz Workshops als BeratungsCamp mit [Inhalte ergänzen]
+Dieses Modul beinhaltet Materialien zur Durchführung eines Präsenz Workshops als BeratungsCamp mit [Inhalte ergänzen]
 
 ---
 
@@ -91,7 +91,7 @@ Das Projekt **SODa - Sammlungen, Objekte, Datenkompetenzen** wird durch das Bund
 
 ## Zitationsempfehlung
 
-[Zitationsempfehlung ergänzen]
+Schwenk, G. A., & Hastik, C. (2026, November 30). SODaBeratungsCamp: Modul 2. Zenodo. https://doi.org/10.5281/zenodo.24584230
 
 ---
 

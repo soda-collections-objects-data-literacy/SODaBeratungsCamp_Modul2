@@ -14,9 +14,11 @@ Gudrun Schwenk, https://orcid.org/0009-0002-3156-8339
 
 ## Inhalte
 
-Dieses Modul beinhaltet Materialien zur Durchführung eines Präsenz Workshops als BeratungsCamp mit Kurzimpulsen zu den Themen **Metadaten und Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation** in **Einheit 1**. Einheit 1 beinhaltet dabei eine Kurzvorstellung des von der NFDI4Objects-TWG "Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbens" entwickelten **Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)**. In **Einheit 2** folgen Kurzimpulse zur Frage wie man von einer **unstrukturierten Dokumentation konservierungs- und restaurierungsbezogener Daten zu strukturierten Daten** gelangt. Der Herausforderung wird sich anhand **medienarchäologischer Beispiele** genähert. **Einheit 3** widmet sich exemplarisch der **ereignisorientierten Erfassung von Konservierungs- und Restaurierungsmaßnahmen im WissKI des SODa Semantic Coworking-Space (SCS)**.
+Dieses Modul enthält Materialien für einen Präsenzworkshop im Format eines Beratungscamps. Im Mittelpunkt stehen **Metadaten und Metadatenschemata** in der Konservierungs- und Restaurierungsdokumentation sowie die **ereignisorientierte Erfassung von Konservierungs- und Restaurierungsmaßnahmen**.
 
-Die folienbasierten Kurzinputs werden ergänzt durch Gruppenarbeiten, gemeinsame Übungen, der konkreten Arbeit mit einer WissKI-Instanz und Diskussionsimpulsen, die sich didaktisch für Präsenzveranstaltungen mit einer Gruppengröße von maximal 25 Personen eignen. (z. B. *Übung: Dokumentation lesen und annotieren*)
+**Einheit 1** stellt in Kurzimpulsen das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)** vor, das die NFDI4Objects-TWG (Temporary Working Group) „Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes“ entwickelt hat. **Einheit 2** widmet sich in Kurzimpulsen der Frage, wie man **von einer unstrukturierten Dokumentation konservierungs- und restaurierungsbezogener Daten zu strukturierten Daten** gelangt. Der Herausforderung nähert man sich dabei anhand **medienarchäologischer Beispiele**. **Einheit 3** zeigt exemplarisch die **ereignisorientierte Erfassung von Konservierungs- und Restaurierungsmaßnahmen im WissKI des SODa Semantic Coworking-Space (SCS)**.
+
+Die folienbasierten Kurzimpulse werden durch Gruppenarbeiten, gemeinsame Übungen (z. B. *Dokumentation lesen und annotieren*), die praktische Arbeit mit einer WissKI-Instanz und Diskussionsimpulse ergänzt. Die Formate eignen sich didaktisch für Präsenzveranstaltungen mit maximal 25 Personen.
 
 ---
 

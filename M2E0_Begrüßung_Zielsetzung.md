@@ -193,7 +193,7 @@ Damit wird die Voraussetzung geschaffen, die in der Konservierungs- und Restauri
 
 ---
 
-## Bibliografie
+## Quellenangaben
 
 [1] Hastik, C., & Schwenk, G. A. (2025, Dezember 5). SODaBeratungsCamp: Modul 1. Zenodo. https://doi.org/10.5281/zenodo.17832837
 
@@ -202,3 +202,79 @@ Damit wird die Voraussetzung geschaffen, die in der Konservierungs- und Restauri
 [3] NFDI4Objects. (o. D.). Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Conservation Metadata Schema oder kurz KuR-MDS), Version 1.0. Conservation Data Framework Online Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/ (Stand: 26.11.2026)
 
 [4] SODa. (o. D.). Semantic Coworking Space. https://sammlungen.io/kb/scs (Stand: 24.11.2026)
+
+---
+
+### Metadaten
+
+author: Canan Hastik
+
+orcid: https://orcid.org/0000-0003-1729-4642
+
+email: c.hastik@igsd-ev.de
+
+author: Gudrun Schwenk
+
+orcid: https://orcid.org/0009-0002-3156-8339
+
+email: g.schwenk@igsd-ev.de
+
+sessiontitle: Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung
+
+sessionnumber: 2
+
+unittitle: Begrüßung und Zielsetzung  
+
+unitnumber: 0  
+
+duration unit: 0:05 Minuten (PT5M)
+
+rights: CC-BY 4.0
+
+rights description: Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 International.
+
+rights link: https://creativecommons.org/licenses/by/4.0/
+
+SODaformat: SODa Workshop
+
+SODagestaltungsprinzip: Forschendes Lernen
+
+classification: Forschende, Sammlungsleitende und -betreuende. Technisches admin Personal, Hilfskräfte, Interessierte
+
+classification description: basierend auf SODaPersonas-Beschreibungen, Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
+
+mediatype: Text
+
+technical format: Markdown mit LiaScript-Erweiterungen
+
+file format: .md | MIME: text/markdown
+
+software: LiaScript
+
+runtime environment: https://liascript.github.io
+
+keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
+
+references:
+
+type: Video
+
+title: Der Wal zieht um: Attraktion des Zoologischen Museums Göttingen
+
+url: https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=65
+
+duration: 1:30 Minuten (PT1M30S)
+
+type: Image
+
+title: Herausforderungen_FDM
+
+url: https://github.com/nfdi4objects/NFDI4Objects_CommunitySurveyConservation/blob/988d9726056eb2faedec632fcc780bd4a0ce716e/visualisation/png/Herausforderungen_FDM.png
+
+format: image/png
+
+type: Thesaurus
+
+title: TaDiRAH – Taxonomy of Digital Research Activities in the Humanities
+
+url: https://vocabs.dariah.eu/tadirah/en/

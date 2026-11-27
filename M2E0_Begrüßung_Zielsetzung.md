@@ -10,7 +10,7 @@ icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/
 link:     https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul1/refs/heads/main/soda.css
           https://fonts.googleapis.com/css?family=Noto+Sans
 
-comment: Dieses Modul führt in die Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung ein, wurde als Präsenz-Workshop erprobt und als OER im Train-the-Trainer-Format veröffentlicht.
+comment: Dieses Modul führt in die Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung ein und wurde als Präsenz-Workshop erprobt. Die Workshopmaterialien wurden als OER veröffentlicht.
 -->
 
 # SODa BeratungsCamp

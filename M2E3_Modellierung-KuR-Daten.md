@@ -18,7 +18,7 @@ comment: Dieses Modul führt in die Analyse und Strukturierung von Konservierung
 
 **Modul 2: Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung**  
 
-Einheit 3: **Modellierung und Erfassung im SCS-WissKI als graphbasierte Datenstruktur**  
+Einheit 3: **Ereignisorientierte Datendokumentation im SCS-WissKI**  
 
 **Dauer:** ~ 40 Min.
 

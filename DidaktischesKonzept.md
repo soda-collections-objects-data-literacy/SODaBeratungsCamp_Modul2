@@ -119,6 +119,8 @@ Lernende können...
 
 ### Lernziele in Einheit 3
 
+Lernende können...
+
 3\.1 für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen erläutern. (LZ-ID SODa\_01\_010\_0203)
 
 3\.2 den SODa Semantic Coworking-Space (SCS) als Werkzeug zur digitalen Arbeit mit Sammlungsdaten benennen. (LZ-ID SODa\_01\_010\_0205)

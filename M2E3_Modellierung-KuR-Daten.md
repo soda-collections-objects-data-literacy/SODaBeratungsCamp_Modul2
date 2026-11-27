@@ -139,7 +139,7 @@ Im dargestellten Beispiel wird (rechts) die **Erhaltungsmaßnahme vom Typ Rekons
 
 ![Visualisierung ereignisorientierte Erfassung des Erhaltungsmaßnahme](assets/2026_11_26-EreignisorientierteErfassungErhaltungsmasnahme.png)
 
->**Abbildung 3:** Links: Hierarchisch strukturierte Eingabemaske in der [Mockup-App](https://conservationdata.github.io/docu/#/). Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten (Stand: 26.11.2026) [8]. Mitte: Ereignisorientierte Erfassung einer Erhaltungsmaßnahme vom Typ Rekonstruktion in einer SCS-WissKI-Instanz ("Neu erstellen Erhaltung") (Stand: 26.11.2026). Rechts: Ereignisorientierte Erfassung der Zuständigen Person für eine Erhaltungsmaßnahme vom Typ Rekonstruktion über den Beginn einer Aktivität, die durchgeführt wird von dieser Person in einer SCS-WissKI-Instanz ("Neu erstellen Aktivität") (Stand: 26.11.2026). 
+>**Abbildung 3:** Links: Hierarchisch strukturierte Eingabemaske in der [Mockup-App](https://conservationdata.github.io/docu/#/). Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten (Stand: 26.11.2026) [8]. Mitte: Ereignisorientierte Erfassung einer Erhaltungsmaßnahme vom Typ Rekonstruktion in einer SCS-WissKI-Instanz ("Neu erstellen Erhaltung") (Stand: 26.11.2026). Rechts: Ereignisorientierte Erfassung der Zuständigen Person für eine Erhaltungsmaßnahme vom Typ Rekonstruktion über den Beginn einer Aktivität, die durchgeführt wird von dieser Person in einer SCS-WissKI-Instanz ("Neu erstellen Aktivität") (Stand: 26.11.2026) 
 
 ---
 

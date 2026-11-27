@@ -312,7 +312,7 @@ additional mediatype: Still Image
 
 technical format: Markdown mit LiaScript-Erweiterungen
 
-additional technical format: jpg (eingebettete Grafik)
+additional technical format: jpeg (eingebettete Grafik)
 
 file format: .md | MIME: text/markdown, image/jpeg
 

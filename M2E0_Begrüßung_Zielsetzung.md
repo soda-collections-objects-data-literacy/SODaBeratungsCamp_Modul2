@@ -227,7 +227,7 @@ unittitle: Begrüßung und Zielsetzung
 
 unitnumber: 0  
 
-duration unit: 0:05 Minuten (PT5M)
+duration unit: 5 Minuten (PT5M)
 
 rights: CC-BY 4.0
 

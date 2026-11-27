@@ -2,7 +2,7 @@
 author: Canan Hastik und Gudrun Schwenk
 email: soda@sammlungen.io
 
-title: SODa BeratungsCamp - Didaktisches Konzept
+title: SODa BeratungsCamp - Modul 2, Didaktisches Konzept
 version: v1.0.0
 language: DE
 
@@ -10,12 +10,12 @@ icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/
 link:     https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul1/refs/heads/main/soda.css
           https://fonts.googleapis.com/css?family=Noto+Sans
 
-comment: Dieses Modul führt in die Arbeit mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation ein und wurde als Präsenz-Workshop erprobt und als OER im Train-the-Trainer-Format veröffentlicht.
+comment: Dieses Modul führt in die Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung ein und wurde als Präsenz-Workshop erprobt. Die Workshopmaterialien wurden als OER veröffentlicht. 
 -->
 
-# SODa BeratungsCamp Modul 1 
+# SODa BeratungsCamp Modul 2
 
-*Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Didaktisches Konzept*
+*Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung – Didaktisches Konzept*
 
 ## Beschreibung
 
@@ -23,13 +23,13 @@ Das didaktische Konzept des SODa BeratungsCamps wurde entwickelt, um grundlegend
 
 Die Lernarchitektur folgt dem Ein- und Ausatem-Prinzip nach Klaus Döring: Wissensimpulse („einatmen“) werden mit kooperativen und handlungsorientierten Aktivitäten („ausatmen“) verzahnt. [1] Dadurch entsteht ein kontinuierlicher Wechsel zwischen theoretischer Erarbeitung, dialogischer Auseinandersetzung und Anwendung in authentischen Kontexten wissenschaftlicher Sammlungen.
 
-Modul 1 umfasst zwei Einheiten mit einem Gesamtumfang von 120 Minuten. In Einheit 1 werden grundlegende Konzepte des Forschungsdatenmanagements eingeführt, sammlungsspezifische Datenarten identifiziert, Rollen und Verantwortlichkeiten geklärt und Maßnahmen entlang des Datenlebenszyklus analysiert. In Einheit 2 liegt der Schwerpunkt auf der fachdisziplinären Dokumentationspraxis der Konservierung und Restaurierung: zentrale Grundsatzpapiere, Funktionen von Restaurator*innen, Prozesslogiken, Dokumentationsanforderungen sowie die Bedeutung kontrollierter Vokabulare und Metadatenstandards werden erarbeitet und praxisnah reflektiert.
+Modul 2 umfasst vier Einheiten mit einem Gesamtumfang von 90 Minuten. Im Mittelpunkt stehen Metadaten und Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation. In Einheit 1 wird das von der NFDI4Objects-TWG „Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes“ entwickelte Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) in Kurzimpulsen vorgestellt. Einheit 2 widmet sich anhand medienarchäologischer Beispiele der Frage, wie man von einer unstrukturierten Dokumentation konservierungs- und restaurierungsbezogener Daten zu strukturierten Daten gelangt. In Einheit 3 erfassen die Teilnehmenden Konservierungs- und Restaurierungsmaßnahmen exemplarisch ereignisorientiert im WissKI des SODa Semantic Coworking-Space (SCS).
 
-Die didaktische Umsetzung nutzt aktivierende Methoden wie Card-Sorting, Zurufphasen, Speed-Dating, Mini-Analysen, Videoimpulse und praxisorientierte Zuordnungsübungen. Die Teilnehmenden analysieren eigene Rollen, Bedarfe und Datenpraktiken und übertragen die Inhalte auf ihre institutionellen Kontexte. 
+Die didaktische Umsetzung verbindet folienbasierte Kurzimpulse mit Gruppenarbeiten, gemeinsamen Übungen (z. B. Dokumentation lesen und annotieren), der praktischen Arbeit mit einer WissKI-Instanz und Diskussionsimpulsen. Das Format eignet sich für Präsenzveranstaltungen mit bis zu 25 Personen.
 
-Das Modul ist als Train-the-Trainer-OER konzipiert und enthält ein ausführliches Drehbuch, das zur eigenständigen Durchführung, Anpassung und Weiterentwicklung in Beratungs- und Schulungssituationen befähigt. Ein besonderer Fokus liegt auf der praktischen Anwendbarkeit der vermittelten Inhalte. Daher wurde strukturiert die Lernzielmatrix zum FDM nachgenutzt. [2]
+Das Modul ist als OER konzipiert. Veröffentlicht werden die Workshopmaterialien, die eine eigenständige Durchführung und Anpassung in Beratungs- und Schulungssituationen ermöglichen. Ein besonderer Fokus liegt auf der praktischen Anwendbarkeit der vermittelten Inhalte. Daher wurde strukturiert die Lernzielmatrix zum FDM nachgenutzt. [2]
 
-Die Zielgruppen orientieren sich an den SODa Personas (z. B. Sammlungsleitende, Forschende, Restaurator*innen, technisches Personal). [3] Das Modul wurde als Präsenz-Workshop pilotiert und unter einer CC-BY-4.0-Lizenz veröffentlicht. Erweiterungen für Online-Workshops sowie eine Selbstlerneinheit sind vorgesehen.
+Die Zielgruppen orientieren sich an den SODa Personas (z. B. Sammlungsleitende, Forschende, Restaurator*innen, technisches Personal). [3] Das Modul wurde als Präsenz-Workshop pilotiert und unter einer CC-BY-4.0-Lizenz veröffentlicht.
 
 ---
 
@@ -123,13 +123,21 @@ Lernende können...
 
 ---
 
-## Voraussetzung für Modul 1
+## Voraussetzung für Modul 2
+
+**Einheit 0**
+
+*keine*
 
 **Einheit 1**
 
 *keine*
 
 **Einheit 2**
+
+*keine*
+
+**Einheit 3**
 
 *keine*
 

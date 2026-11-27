@@ -218,11 +218,11 @@ sessiontitle: Analyse und Strukturierung von Konservierungs- und Restaurierungsd
 
 sessionnumber: 2
 
-unittitle: Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstruktur
+unittitle: Ereignisorientierte Datendokumentation im SCS-WissKI
 
 unitnumber: 3  
 
-duration unit: 45 Minuten (PT0H45M)
+duration unit: 40 Minuten (PT45M)
 
 rights: CC-BY 4.0
 
@@ -230,7 +230,7 @@ rights description: Dieses Material steht unter der Lizenz Creative Commons Attr
 
 rights link: https://creativecommons.org/licenses/by/4.0/
 
-SODaformat: SODa Workshop, SODa Train-the-Trainer
+SODaformat: SODa Workshop
 
 SODagestaltungsprinzip: Forschendes Lernen
 
@@ -238,11 +238,13 @@ classification: Forschende, Sammlungsleitende und -betreuende. Technisches admin
 
 classification description: basierend auf SODaPersonas-Beschreibungen, Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
 
-mediatype: Text
+mediatype: Text (mit referenzierten Multimedia-Inhalten)
 
 technical format: Markdown mit LiaScript-Erweiterungen
 
-file format: .md | MIME: text/markdown
+additional technical format: png (eingebettete Grafik)
+
+file format: .md | MIME: text/markdown, image/png
 
 software: LiaScript
 
@@ -251,3 +253,75 @@ runtime environment: https://liascript.github.io
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
 
 references:
+
+type: Webanwendung
+
+title: SODa Semantic Co-Working Space
+
+url: https://manager.scs.sammlungen.io/
+
+format: text/html
+
+type: Webseite (Projektseite)
+
+title: Über WissKI
+
+url: https://wiss-ki.eu/de
+
+format: text/html
+
+type: Webseite (Projektseite)
+
+title: CIDOC CRM (Home)
+
+url: https://cidoc-crm.org/
+
+format: text/html
+
+type: Webanwendung (Mockup)
+
+title: Conservation Documentation Data
+
+url: https://conservationdata.github.io/docu/#/
+
+format: text/html
+
+type: Image
+
+title: 2026_11_26-ModellierungalsObjekteigenschaft.png
+
+url: https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_26-ModellierungalsObjekteigenschaft.png 
+
+format: image/png
+
+type: Webseite (Dokumentationsseite eines Metadatenschemas)
+
+title: Erhaltungskonzept
+
+url: https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/
+
+format: text/html
+
+type: Image
+
+title: 2026_11_26-EreignisorientierteErfassungWissKISCS1.png
+
+url: https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_26-EreignisorientierteErfassungWissKISCS1.png 
+
+format: image/png
+
+type: Image
+
+title: 2026_11_26-EreignisorientierteErfassungErhaltungsmasnahme.png
+
+url: https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_26-EreignisorientierteErfassungErhaltungsmasnahme.png 
+
+format: image/png
+
+type: Webanwendung (WissKI-Instanz)
+
+title: wisski-medienarchaeologie
+
+url: https://wisski-medienarchaeologie.wisski.scs.sammlungen.io/
+
+format: text/html

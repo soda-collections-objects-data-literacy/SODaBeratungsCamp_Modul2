@@ -293,7 +293,7 @@ unittitle: Das KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und R
 
 unitnumber: 1
 
-duration unit: 10 Minuten (PT0H10M)
+duration unit: 10 Minuten (PT10M)
 
 rights: CC-BY 4.0
 
@@ -301,7 +301,7 @@ rights description: Dieses Material steht unter der Lizenz Creative Commons Attr
 
 rights link: https://creativecommons.org/licenses/by/4.0/
 
-SODaformat: SODa Workshop, SODa Train-the-Trainer
+SODaformat: SODa Workshop
 
 SODagestaltungsprinzip: Forschendes Lernen
 
@@ -309,9 +309,13 @@ classification: Forschende, Sammlungsleitende und -betreuende. Technisches admin
 
 classification description: basierend auf SODaPersonas-Beschreibungen, Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
 
-mediatype: Text
+mediatype: Text (mit referenzierten Multimedia-Inhalten)
+
+additional mediatype: Still Image
 
 technical format: Markdown mit LiaScript-Erweiterungen
+
+additional technical format: png (eingebettete Grafik)
 
 file format: .md | MIME: text/markdown
 
@@ -322,3 +326,61 @@ runtime environment: https://liascript.github.io
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
 
 references: 
+
+type: Skos-Vokabular
+
+title: Conservation Metadata Terminology
+
+url: https://conservationdata.github.io/terms/metadata.html
+
+format: text/html
+
+type: Webseite (bzw. Online-Portal)
+
+title: NFDI4Objects Conservation Data Framework Online-Portal
+
+url: https://nfdi4objects.github.io/n4o_conservation_data_framework/
+
+format: text/html
+
+type: Image
+
+title: 2026_11_25-CDF_Erhaltungskonzept.png
+
+url: https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_25-CDF_Erhaltungskonzept.png
+
+format: image/png
+
+type: Image
+
+title: 2026_11_25-CDF_MetadatenelementeErhaltungskonzept.png
+
+url: https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_25-CDF_MetadatenelementeErhaltungskonzept.png
+
+format: image/png
+
+type: Image
+
+title: 2026_11_25-CDF_CMT_ZustaendigePerson.png
+
+url: https://github.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/blob/main/assets/2026_11_25-CDF_CMT_ZustaendigePerson.png
+
+format: image/png
+
+type: Software-Repository (Quellcode-Repository)
+
+title: Conservation Data Framework (kurz: CDF)
+
+url: https://github.com/nfdi4objects/n4o_conservation_data_framework
+
+format: text/html
+
+format: image/png
+
+type: Webseite (Dienstbeschreibung)
+
+title: Conservation Data Framework
+
+url: https://www.nfdi4objects.net/services/conservation-data-framework/
+
+format: text/html

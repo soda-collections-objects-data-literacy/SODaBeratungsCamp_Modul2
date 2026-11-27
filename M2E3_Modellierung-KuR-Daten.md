@@ -18,7 +18,7 @@ comment: Dieses Modul [Text ergänzen]
 
 **Modul 2: Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung**  
 
-Einheit 3: **Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstruktur**  
+Einheit 3: **Modellierung und Erfassung in SCS-WissKI als graphbasierte Datenstruktur**  
 
 **Dauer:** ~ 40 Min.
 
@@ -28,27 +28,27 @@ Einheit 3: **Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstr
 
 Lernende können...
 
-- für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen erläutern. (LZ-ID SODa\_01\_010\_0203)
+3\.1 für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen erläutern. (LZ-ID SODa\_01\_010\_0203)
 
-- Nutzen der Wissenschaftlichen Kommunikationsinfrastruktur WissKI benennen. (LZ-ID SODa\_01\_010\_0204)
+3\.2 den SODa Semantic Coworking-Space (SCS) als Werkzeug zur digitalen Arbeit mit Sammlungsdaten benennen. (neu)
 
-- im WissKI/SCS implementiertes semantisches Datenmodell für die Erfassung von Konservierungs- und Restaurierungsmaßnahmen (SCS Default Model) benennen. (neu)
+3\.3 im WissKI des SODa Semantic Coworking-Space (SCS) implementiertes semantisches Standard-Datenmodell benennen. (neu)
 
-- Ereignisorienterte Erfassung von Konservierungs- und Restaurierungsmaßnahmen
+3\.4 Nutzen der Wissenschaftlichen Kommunikationsinfrastruktur WissKI benennen. (LZ-ID SODa\_01\_010\_0204)
+
+3\.5 Ereignisorienterte Erfassung von Konservierungs- und Restaurierungsmaßnahmen
+
+3\.6 Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa_03_007_0805)
+
+3\.7 Nutzen des ereignisorientierten Modellierungsprinzips am Beispiel der Erfassung von Konservierungs- und Restaurierungsmaßnahmen benennen. (neu)
 
 - Ereignisorienterte Erfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel
-
-- Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0805)
-
-- Nutzen des ereignisorientierten Modellierungsprinzips am Beispiel der Erfassung von Konservierungs- und Restaurierungsmaßnahmen benennen. (neu)
 
 - Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel erläutern. (neu)
 
 - Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel anwenden. (neu)
 
 - Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel diskutieren. (neu)
-
-
 
 ---
 

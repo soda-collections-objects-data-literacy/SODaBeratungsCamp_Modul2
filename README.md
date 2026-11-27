@@ -51,7 +51,7 @@ technical format: Markdown mit LiaScript-Erweiterungen
 
 additional technical format: png (eingebettete Grafik), jpeg (eingebettete Grafik)
 
-file format: .md | MIME: text/markdown
+file format: .md | MIME: text/markdown, image/png, image/jpeg
 
 software: LiaScript
 

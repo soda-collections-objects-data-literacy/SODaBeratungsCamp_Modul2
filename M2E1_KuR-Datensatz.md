@@ -317,7 +317,7 @@ technical format: Markdown mit LiaScript-Erweiterungen
 
 additional technical format: png (eingebettete Grafik)
 
-file format: .md | MIME: text/markdown
+file format: .md | MIME: text/markdown, image/png
 
 software: LiaScript
 

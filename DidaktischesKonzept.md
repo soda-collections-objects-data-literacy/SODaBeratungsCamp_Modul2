@@ -23,7 +23,7 @@ Das didaktische Konzept des SODa BeratungsCamps wurde entwickelt, um grundlegend
 
 Die Lernarchitektur folgt dem Ein- und Ausatem-Prinzip nach Klaus Döring: Wissensimpulse („einatmen“) werden mit kooperativen und handlungsorientierten Aktivitäten („ausatmen“) verzahnt. [1] Dadurch entsteht ein kontinuierlicher Wechsel zwischen theoretischer Erarbeitung, dialogischer Auseinandersetzung und Anwendung in authentischen Kontexten wissenschaftlicher Sammlungen.
 
-Modul 2 umfasst vier Einheiten mit einem Gesamtumfang von 90 Minuten. Im Mittelpunkt stehen Metadaten und Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation. Das Modul beginnt mit einer Begrüßung und Einführung in Einheit 0. In Einheit 1 wird das von der NFDI4Objects-TWG „Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes“ entwickelte Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) in Kurzimpulsen vorgestellt. Einheit 2 widmet sich anhand medienarchäologischer Beispiele der Frage, wie man von einer unstrukturierten Dokumentation konservierungs- und restaurierungsbezogener Daten zu strukturierten Daten gelangt. In Einheit 3 erfassen die Teilnehmenden Konservierungs- und Restaurierungsmaßnahmen exemplarisch ereignisorientiert im WissKI des SODa Semantic Coworking-Space (SCS).
+Modul 2 umfasst vier Einheiten mit einem Gesamtumfang von 90 Minuten. Im Mittelpunkt stehen Metadaten und Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation. Das Modul beginnt mit einer Begrüßung und Einführung in Einheit 0. In Einheit 1 wird das von der NFDI4Objects-TWG „Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes“ entwickelte Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [4] in Kurzimpulsen vorgestellt. Einheit 2 widmet sich anhand medienarchäologischer Beispiele der Frage, wie man von einer unstrukturierten Dokumentation konservierungs- und restaurierungsbezogener Daten zu strukturierten Daten gelangt. In Einheit 3 erfassen die Teilnehmenden Konservierungs- und Restaurierungsmaßnahmen exemplarisch ereignisorientiert im WissKI des SODa Semantic Coworking-Space (SCS).
 
 Die didaktische Umsetzung verbindet folienbasierte Kurzimpulse mit Gruppenarbeiten, gemeinsamen Übungen (z. B. Dokumentation lesen und annotieren), der praktischen Arbeit mit einer WissKI-Instanz und Diskussionsimpulsen. Das Format eignet sich für Präsenzveranstaltungen mit bis zu 25 Personen.
 
@@ -179,6 +179,8 @@ Lernende können...
 [2] Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3). Zenodo. https://doi.org/10.5281/zenodo.15025246
 
 [3] Reichert, R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
+
+[4] Fischer, K., & Witt, N. (2026). Bericht zum Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Version v.1). Zenodo. https://doi.org/10.5281/zenodo.22871824
 
 ---
 

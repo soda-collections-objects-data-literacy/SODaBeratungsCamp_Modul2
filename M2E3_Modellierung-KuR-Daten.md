@@ -99,7 +99,7 @@ Auf derselben Abbildung 1 **rechts** werden Ausschnitte aus Beschreibungstexten 
 
 ![Visualisierung Erfassung als Eigenschaft des Objekts](assets/2026_11_26-ModellierungalsObjekteigenschaft.png)
 
->**Abbildung 1:** Ausschnitt aus Beschreibung von [Zweck und Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) [9] aus dem KuR-MDS als hierarchisch strukturierte Eingabemaske in der [Mockup-App](https://conservationdata.github.io/docu/#/). Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten [8]
+>**Abbildung 1:** Rechts: Ausschnitt aus Beschreibung von [Zweck und Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) [9] aus dem KuR-MDS. Links: Hierarchisch strukturierte Eingabemaske in der [Mockup-App](https://conservationdata.github.io/docu/#/). Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten [8]
 
 Dazu gehören beispielsweise **"Anlass der Erhaltungsmaßnahmen"** und **"Konservatorische Zielsetzung"** (Planungsphase) sowie Angaben zur **"Erhaltungsmaßnahme"** selbst, etwa die **"Zuständige Person"** (Durchführungsphase). 
 
@@ -119,7 +119,9 @@ Im dargestellten Beispiel wird die **Erhaltungsmaßnahme vom Typ Rekonstruktion 
 
 ![Visualisierung ereignisorientierte Erfassung des Anlasses der Erhaltungsmaßnahme](assets/2026_11_26-EreignisorientierteErfassungWissKISCS1.png)
 
->**Abbildung 2:** Gegenüberstellung eines Ausschnitts der hierarchisch strukturierten Eingabemaske mit "Anlass der Erhaltungsmaßnahme" aus der [Mockup-App](https://conservationdata.github.io/docu/#/) (links) und Modellierung des "Anlasses der Erhaltungsmaßnahme" als verknüpfte Ereignisse im SCS-WissKI (rechts). Ausschnitt aus Beschreibung von [Zweck und Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) [9] aus dem KuR-MDS (mitte).       
+>**Abbildung 2:** 
+>
+>Gegenüberstellung des"Anlasses der Erhaltungsmaßnahme" in der [Mockup-App](https://conservationdata.github.io/docu/#/) (links) [8] und Modellierung des "Anlasses der Erhaltungsmaßnahme" als verknüpfte Ereignisse im SCS-WissKI (rechts). Ausschnitt aus Beschreibung von [Zweck und Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) [9] aus dem KuR-MDS (mitte).       
 Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten (links) [8] und Screenshot (Ausschnitt) aus: SCS-WissKI (rechts) 
 
 ---
@@ -134,7 +136,7 @@ Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten (links) [8] und
 
 ### Die "Zuständige Person" als Teil einer Ereignisstruktur
 
-**Abbildung 3** zeigt am Beispiel des Metadatums **"Zuständigen Person (Erhaltungsmaßnahme)"**, wie eine hierarchisch unter der Erhaltungsmaßnahme eingeordnete Information im SCS-WissKI als Teil eine Ereignisstruktur erfasst wird. Während die **Zuständige Person** in der vertrauten Eingabemaske unmittelbar als Angabe zur Erhaltungsmaßnahme erscheint, wird sie im SCS-WissKI über eine dazwischenliegende **Aktivität** modelliert: Die Erhaltungsmaßnahme (*Rekonstruktion*) **beginnt mit einer Aktivität** (*Beginnt mit Aktivität*). Für diese Aktivität wird anschließend die ausführende Person über *Durchgeführt von* erfasst.
+**Abbildung 3** zeigt am Beispiel des Metadatums **"Zuständigen Person (Erhaltungsmaßnahme)"**, wie eine hierarchisch unter der Erhaltungsmaßnahme eingeordnete Information im SCS-WissKI als Teil eine Ereignisstruktur erfasst wird. Während die **Zuständige Person** in der vertrauten Eingabemaske (links) unmittelbar als Angabe zur Erhaltungsmaßnahme erscheint, wird sie im SCS-WissKI über eine dazwischenliegende **Aktivität** modelliert: Die Erhaltungsmaßnahme (*Rekonstruktion*) **beginnt mit einer Aktivität** (*Beginnt mit Aktivität*) (mitte). Für diese Aktivität wird anschließend die ausführende Person über *Durchgeführt von* erfasst (rechts).
 
 ![Visualisierung ereignisorientierte Erfassung des Erhaltungsmaßnahme](assets/2026_11_26-EreignisorientierteErfassungErhaltungsmasnahme.png)
 

@@ -18,7 +18,7 @@ comment: Dieses Modul führt in die Analyse und Strukturierung von Konservierung
 
 **Modul 2: Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung**  
 
-Einheit 2: **Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten**  
+Einheit 2: **Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten an medienarchäologischen Beispielen**  
 
 **Dauer:** ~ 35 Min.
 

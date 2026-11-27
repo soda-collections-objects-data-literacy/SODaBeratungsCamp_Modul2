@@ -95,7 +95,7 @@ Das Projekt **SODa - Sammlungen, Objekte, Datenkompetenzen** wird durch das Bund
 
 ## Zitationsempfehlung
 
-Schwenk, G. A., & Hastik, C. (2026, November 30). SODaBeratungsCamp: Modul 2. Zenodo. https://doi.org/10.5281/zenodo.24584230
+Schwenk, G. A., & Hastik, C. (2026, November 30). SODaBeratungsCamp: Modul 2  (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24584230
 
 ---
 

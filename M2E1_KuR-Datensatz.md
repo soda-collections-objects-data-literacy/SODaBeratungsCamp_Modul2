@@ -10,7 +10,7 @@ icon: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/S
 
 link: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul2/refs/heads/main/soda.css
 
-comment: Dieses Modul [Text ergänzen]
+comment: Dieses Modul führt in die Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung ein und wurde als Präsenz-Workshop erprobt. Die Workshopmaterialien wurden als OER veröffentlicht.
 
 -->
 

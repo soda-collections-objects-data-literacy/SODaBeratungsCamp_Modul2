@@ -30,25 +30,23 @@ Lernende können...
 
 3\.1 für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen erläutern. (LZ-ID SODa\_01\_010\_0203)
 
-3\.2 den SODa Semantic Coworking-Space (SCS) als Werkzeug zur digitalen Arbeit mit Sammlungsdaten benennen. (neu)
+3\.2 den SODa Semantic Coworking-Space (SCS) als Werkzeug zur digitalen Arbeit mit Sammlungsdaten benennen. (LZ-ID SODa\_01\_010\_0205)
 
-3\.3 im WissKI des SODa Semantic Coworking-Space (SCS) implementiertes semantisches Standard-Datenmodell benennen. (neu)
+3\.3 das im WissKI des SODa Semantic Coworking-Space (SCS) implementierte semantische Standard-Datenmodell benennen. (LZ-ID SODa\_03\_007\_0858)
 
 3\.4 Nutzen der Wissenschaftlichen Kommunikationsinfrastruktur WissKI benennen. (LZ-ID SODa\_01\_010\_0204)
 
-3\.5 Ereignisorienterte Erfassung von Konservierungs- und Restaurierungsmaßnahmen
+3\.5 die Relevanz einer ereignisorienterten Erfassung von Konservierungs- und Restaurierungsmaßnahmen benennen. (neu)
 
 3\.6 Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa_03_007_0805)
 
 3\.7 Nutzen des ereignisorientierten Modellierungsprinzips am Beispiel der Erfassung von Konservierungs- und Restaurierungsmaßnahmen benennen. (neu)
 
-- Ereignisorienterte Erfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel
+3\.8 die Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel erläutern. (neu)
 
-- Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel erläutern. (neu)
+3\.9 die Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel anwenden. (neu)
 
-- Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel anwenden. (neu)
-
-- Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel diskutieren. (neu)
+3\.10 die Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel diskutieren. (neu)
 
 ---
 

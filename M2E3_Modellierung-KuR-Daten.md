@@ -120,8 +120,8 @@ Im dargestellten Beispiel wird (rechts) die **Erhaltungsmaßnahme vom Typ Rekons
 
 ![Visualisierung ereignisorientierte Erfassung des Anlasses der Erhaltungsmaßnahme](assets/2026_11_26-EreignisorientierteErfassungWissKISCS1.png)
 
->**Abbildung 2:** Links: Hierarchisch strukturierte Eingabemaske in der [Mockup-App](https://conservationdata.github.io/docu/#/). Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten (Stand:26.11.2026) [8]. Mitte: Ausschnitt aus Beschreibung von [Zweck und
-> Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS (Stand: 26.11.2026) [9]. Rechts: Modellierung des Anlasses der Erhaltungsmaßnahme als verknüpfte Ereignisse in einer SCS-WissKI-Instanz (Stand: 26.11.2026)
+>**Abbildung 2:** Links: Hierarchisch strukturierte Eingabemaske in der [Mockup-App](https://conservationdata.github.io/docu/#/). Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten (Stand: 26.11.2026) [8]. Mitte: Ausschnitt aus Beschreibung von [Zweck und
+> Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS (Stand: 26.11.2026) [9]. Rechts: Modellierung des Anlasses der Erhaltungsmaßnahme als verknüpfte Ereignisse Zustandsbewertung und Zustandsbeurteilung in einer SCS-WissKI-Instanz (Stand: 26.11.2026)
 
 ---
 

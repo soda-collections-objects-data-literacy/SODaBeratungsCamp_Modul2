@@ -81,7 +81,7 @@ Im Forschungsdatenmanagement werden **verschiedene Arten von Metadaten** untersc
 - **Strukturelle Metadaten** beschreiben, die Datenstruktur und wie einzelne Informationen verknüpft sind.
 
 
-„Ein **Metadatenschema** "ist eine Sammlung von Metadaten-Elementen und Eigenschaften, mit denen Objekte und deren Beziehungen zueinander strukturiert beschrieben und verarbeitet werden können." [5] Es "legt fest, welche Informationen zu einem Objekt oder einer Ressource erfasst werden, wie diese Informationen benannt werden und welche Felder verpflichtend oder wiederholbar sind.“ [3]
+„Ein **Metadatenschema** ist eine Sammlung von Metadaten-Elementen und Eigenschaften, mit denen Objekte und deren Beziehungen zueinander strukturiert beschrieben und verarbeitet werden können." [5] Es "legt fest, welche Informationen zu einem Objekt oder einer Ressource erfasst werden, wie diese Informationen benannt werden und welche Felder verpflichtend oder wiederholbar sind.“ [3]
 
 Unterschieden werden hierbei das **Erfassungsformat, das Speicherformat und das Austauschformat**. [6]
 

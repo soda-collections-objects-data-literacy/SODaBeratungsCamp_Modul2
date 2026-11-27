@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24584230.svg)](https://doi.org/10.5281/zenodo.24584230)
 
-Dieses Repository enthält offene Lehr-/Lerneinheiten zum Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation in Sammlungen. Die Materialien wurden im Rahmen der [SODa-Initiative](https://sammlungen.io) entwickelt und richten sich an Forschende, Sammlungsbetreuende, Sammlungsleitende und darüber hinaus.
+Dieses Repository enthält offene Lehr-/Lerneinheiten Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung. Die Materialien wurden im Rahmen der [SODa-Initiative](https://sammlungen.io) entwickelt und richten sich an Forschende, Sammlungsbetreuende, Sammlungsleitende und darüber hinaus.
 
 ## Mitwirkende
 

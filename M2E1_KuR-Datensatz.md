@@ -49,6 +49,8 @@ Lernende können...
 
 1\.10 ein Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) erläutern. (LZ-ID SODa\_03\_003\_0679)
 
+1\11 Thesauri zur Beschreibung von Konservierungs- und Restaurierungsmaßnahmen benennen. (LZ-ID SODa\_03\_006\_0752a)
+
 ---
 
 ## Voraussetzung

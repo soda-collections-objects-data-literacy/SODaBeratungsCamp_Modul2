@@ -254,27 +254,3 @@ software: LiaScript
 runtime environment: https://liascript.github.io
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
-
-references:
-
-type: Video
-
-title: Der Wal zieht um: Attraktion des Zoologischen Museums Göttingen
-
-url: https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=65
-
-duration: 1:30 Minuten (PT1M30S)
-
-type: Image
-
-title: Herausforderungen_FDM
-
-url: https://github.com/nfdi4objects/NFDI4Objects_CommunitySurveyConservation/blob/988d9726056eb2faedec632fcc780bd4a0ce716e/visualisation/png/Herausforderungen_FDM.png
-
-format: image/png
-
-type: Thesaurus
-
-title: TaDiRAH – Taxonomy of Digital Research Activities in the Humanities
-
-url: https://vocabs.dariah.eu/tadirah/en/

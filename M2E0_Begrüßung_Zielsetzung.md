@@ -49,8 +49,8 @@ Das 90-minütige Modul umfasst 4 Einheiten:
 
 - (0) Begrüßung und Zielsetzung
 - (1) Das KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten
-- (2) Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten am konkreten Beispiel
-- (3) Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstruktur.
+- (2) Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten an medienarchäologischen Beispielen
+- (3) Ereignisorientierte Datendokumentation im SCS-WissKI.
 
 Das Modul wird aktiv moderiert und ist interaktiv gestaltet; Teilnehmende sind eingeladen, Erfahrungen und Fragestellungen einzubringen.
 
@@ -104,7 +104,7 @@ Lernende können...
 
 ---
 
-### M2E3: Modellierung und Erfassung im SCS-WissKI als graphbasierte Datenstruktur
+### M2E3: Ereignisorientierte Datendokumentation im SCS-WissKI
 
 Lernende können...
 

@@ -23,7 +23,7 @@ Das didaktische Konzept des SODa BeratungsCamps wurde entwickelt, um grundlegend
 
 Die Lernarchitektur folgt dem Ein- und Ausatem-Prinzip nach Klaus Döring: Wissensimpulse („einatmen“) werden mit kooperativen und handlungsorientierten Aktivitäten („ausatmen“) verzahnt. [1] Dadurch entsteht ein kontinuierlicher Wechsel zwischen theoretischer Erarbeitung, dialogischer Auseinandersetzung und Anwendung in authentischen Kontexten wissenschaftlicher Sammlungen.
 
-Modul 2 umfasst vier Einheiten mit einem Gesamtumfang von 90 Minuten. Im Mittelpunkt stehen Metadaten und Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation. In Einheit 1 wird das von der NFDI4Objects-TWG „Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes“ entwickelte Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) in Kurzimpulsen vorgestellt. Einheit 2 widmet sich anhand medienarchäologischer Beispiele der Frage, wie man von einer unstrukturierten Dokumentation konservierungs- und restaurierungsbezogener Daten zu strukturierten Daten gelangt. In Einheit 3 erfassen die Teilnehmenden Konservierungs- und Restaurierungsmaßnahmen exemplarisch ereignisorientiert im WissKI des SODa Semantic Coworking-Space (SCS).
+Modul 2 umfasst vier Einheiten mit einem Gesamtumfang von 90 Minuten. Im Mittelpunkt stehen Metadaten und Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation. Das Modul beginnt mit einer Begrüßung und Einführung in Einheit 0. In Einheit 1 wird das von der NFDI4Objects-TWG „Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes“ entwickelte Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) in Kurzimpulsen vorgestellt. Einheit 2 widmet sich anhand medienarchäologischer Beispiele der Frage, wie man von einer unstrukturierten Dokumentation konservierungs- und restaurierungsbezogener Daten zu strukturierten Daten gelangt. In Einheit 3 erfassen die Teilnehmenden Konservierungs- und Restaurierungsmaßnahmen exemplarisch ereignisorientiert im WissKI des SODa Semantic Coworking-Space (SCS).
 
 Die didaktische Umsetzung verbindet folienbasierte Kurzimpulse mit Gruppenarbeiten, gemeinsamen Übungen (z. B. Dokumentation lesen und annotieren), der praktischen Arbeit mit einer WissKI-Instanz und Diskussionsimpulsen. Das Format eignet sich für Präsenzveranstaltungen mit bis zu 25 Personen.
 
@@ -78,48 +78,64 @@ Dokumentation und Metadaten, Cluster 3 (angepasst an die Bedarfe der Konservieru
 
 Lernende können...
 
-1\.1 den Begriff Metadaten erläutern. (LZ-ID 03\_02\_0626)
+1\.1 den Begriff Metadaten erläutern. (LZ-ID 03\_002\_0626)
 
-1\.2 verschiedene Arten von Metadaten benennen. (LZ-ID 03\_02\_0627)
+1\.2 verschiedene Arten von Metadaten benennen. (LZ-ID 03\_002\_0627)
 
-1\.3 die Relevanz von Metadaten benennen und erläutern. (LZ-ID 03\_02\_0628 & LZ-ID 03\_02\_0629)
+1\.3 die Relevanz von Metadaten benennen (LZ-ID 03\_002\_0628)
 
-1\.4 die Relevanz von Metadaten in der Konservierungs- und Restaurierungsdokumentation benennen (LZ-ID SODa\_03\_002\_0628a)
+1\.4 die Relevanz von Metadaten erläutern. (LZ-ID 03\_002\_0629)
 
-1\.5 die Relevanz von Metadaten in der Konservierungs- und Restaurierungsdokumentation erläutern. (LZ-ID SODa\_03\_002\_0629a)
+1\.5 die Relevanz von Metadaten in der Konservierungs- und Restaurierungsdokumentation benennen (LZ-ID SODa\_03\_002\_0628a)
 
-1\.6 den Begriff Metadatenschema erläutern (LZ-ID SODa\_03\_003\_0675)
+1\.6 die Relevanz von Metadaten in der Konservierungs- und Restaurierungsdokumentation erläutern. (LZ-ID SODa\_03\_002\_0629a)
 
-1\.7 die Relevanz von Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation benennen. (LZ-ID SODa\_03\_003\_0676)
+1\.7 den Begriff Metadatenschema erläutern (LZ-ID SODa\_03\_003\_0675)
 
-1\.8 die Relevanz von Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation erläutern. (LZ-ID SODa\_03\_003\_0677)
+1\.8 die Relevanz von Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation benennen. (LZ-ID SODa\_03\_003\_0676)
 
-1\.9 ein Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) benennen. (LZ-ID SODa\_03\_003\_0678)
+1\.9 die Relevanz von Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation erläutern. (LZ-ID SODa\_03\_003\_0677)
 
-1\.10 ein Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) erläutern. (LZ-ID SODa\_03\_003\_0679)
+1\.10 ein Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) benennen. (LZ-ID SODa\_03\_003\_0678)
+
+1\.11 ein Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) erläutern. (LZ-ID SODa\_03\_003\_0679)
+
+1\.12 Thesauri zur Beschreibung von Konservierungs- und Restaurierungsmaßnahmen benennen. (LZ-ID SODa\_03\_006\_0752a)
 
 
 ### Lernziele in Einheit 2
 
 Lernende können...
 
-2\.1 Grundsatzpapiere für den Beruf des Konservator-Restaurators mit Relevanz für Forschungsdatenmanagement (FDM) benennen. (LZ-ID SODa\_01\_011\_0001)
+2\.1  unterschiedliche Formen und Quellen von Dokumentationsdaten im Kontext medienarchäologischer Erschließung benennen. (LZ-ID SODa\_03\_001\_0628)
 
-2\.2 Funktionen und Verantwortlichkeiten von Restaurator\*innen erläutern. (LZ-ID SODa\_01\_003\_0033a)
+2\.2  konservierungs- und restaurierungsrelevante Informationen in heterogenen und unstrukturierten Datendokumentationen benennen. (LZ-ID SODa\_03\_001\_0629)
 
-2\.3 Die Relevanz der (Daten-)Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen erläutern. (LZ-ID SODa\_03\_001\_0602a)
+2\.3  eigenständig das Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) anwenden. (LZ-ID SODa\_03\_003\_0680)
 
-2\.4 Allgemeine Inhalte einer konservierungs- und restaurierungsbezogenen (Daten-)Dokumentation benennen. (LZ-ID SODa\_03\_001\_0600a)
+2\.4  eigenständig unstrukturierte Datendokumentationen auf fehlende, mehrdeutige oder nur implizit dokumentierte Informationen analysieren. (LZ-ID SODa\_03\_001\_0630)
 
-2\.5 Den Prozess der Konservierung-Restaurierung (als Inhalt einer Datendokumentation) benennen. (LZ-ID SODa\_03\_01\_0600b)
+2\.5  Herausforderungen bei der Überführung unstrukturierter Dokumentationen in strukturierte Dokumentationen erläutern. (LZ-ID SODa\_03\_001\_0631)
 
-2\.6 Den Dokumentationsbedarf beim Prozess der Konservierung-Restaurierung beurteilen. (LZM-ID SODa\_03\_001\_1205)
+### Lernziele in Einheit 3
 
-2\.7 Unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation) erläutern. (LZM-ID SODa\_03\_001\_1206)
+3\.1 für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen erläutern. (LZ-ID SODa\_01\_010\_0203)
 
-2\.8 Datendokumentation der eigenen Sammlung in Hinblick auf unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen analysieren. (LZ-ID SODa\_03\_001\_0613a)
+3\.2 den SODa Semantic Coworking-Space (SCS) als Werkzeug zur digitalen Arbeit mit Sammlungsdaten benennen. (LZ-ID SODa\_01\_010\_0205)
 
-2\.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen (LZ-ID SODa\_03\_003\_0646a) und ...Thesauri zur Beschreibung von Konservierungs- und Restaurierungsmaßnahmen benennen. (LZ-ID SODa\_03\_006\_0752a)
+3\.3 das im WissKI des SODa Semantic Coworking-Space (SCS) implementierte semantische Standard-Datenmodell benennen. (LZ-ID SODa\_03\_007\_0858)
+
+3\.4 Nutzen der Wissenschaftlichen Kommunikationsinfrastruktur WissKI benennen. (LZ-ID SODa\_01\_010\_0204)
+
+3\.5 die Relevanz einer ereignisorienterten Dokumentation von Konservierungs- und Restaurierungsmaßnahmen benennen. (LZ-ID SODa\_03\_001\_0632)
+
+3\.6 Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa_03_007_0805)
+
+3\.7 die Ereignisorientierung bei der Datendokumentation von Konservierungs- und Restaurierungsmaßnahmen am Beispiel erläutern. (LZ-ID SODa\_03\_001\_0633)
+
+3\.8 die Ereignisorientierung bei der Datendokumentation von Konservierungs- und Restaurierungsmaßnahmen am Beispiel anwenden. (LZ-ID SODa\_03\_001\_0634)
+
+3\.9 die Ereignisorientierung bei der Datendokumentation von Konservierungs- und Restaurierungsmaßnahmen am Beispiel diskutieren. (LZ-ID SODa\_03\_001\_0635)
 
 ---
 
@@ -135,23 +151,24 @@ Lernende können...
 
 **Einheit 2**
 
-*keine*
+*Die Kenntnis des Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [1] als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen [2] sind von Vorteil.*
 
 **Einheit 3**
 
-*keine*
+*Die Kenntnis des Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [1] als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen [2] sind von Vorteil.*
 
 ---
 
-## Einheiten und Zeitbedarf im Modul 1
+## Einheiten und Zeitbedarf im Modul 2
 
-**Modul 1: 120 Min.**
+**Modul 2: 90 Min.**
 
 | Einheit | Inhalt | Zeit |
 |--------|--------|------|
-| 1 | Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie Reflexion eigener Rollen, Bedarfe und Kompetenzen| 70 Min. |
-| 2 | Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen | 50 Min. |
-
+| 0 | Begrüßung und Zielsetzung | 5 Min. |
+| 1 | Das KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten | 10 Min. |
+| 2 | Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten an medienarchäologischen Beispielen | 35 Min. |
+| 3 | Ereignisorientierte Datendokumentation im SCS-WissKI | 40 Min. |
 
 ---
 
@@ -186,11 +203,11 @@ version: v1.0.0
 
 language: DE
 
-sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren
+sessiontitle: Analyse und Strukturierung von Konservierungs- und Restaurierungsdaten am Beispiel medienarchäologischer Erschließung
 
-sessionnumber: 1
+sessionnumber: 2
 
-duration session: 120 Minuten (PT1H30M)
+duration session: 90 Minuten (PT1H30M)
 
 unittitle: Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie Reflexion eigener Rollen, Bedarfe und Kompetenzen  
 

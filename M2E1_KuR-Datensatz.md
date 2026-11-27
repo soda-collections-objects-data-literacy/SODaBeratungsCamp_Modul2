@@ -2,7 +2,7 @@
 author: Canan Hastik und Gudrun Schwenk
 email: soda@sammlungen.io
 
-title: SODa BeratungsCamp - Einheit 1
+title: SODa BeratungsCamp - Modul 2, Einheit 1
 version: v1.0.0
 language: DE
 

@@ -151,11 +151,11 @@ Lernende können...
 
 **Einheit 2**
 
-*Die Kenntnis des Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [1] als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen [2] sind von Vorteil.*
+*Die Kenntnis des Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [4] als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen [5] sind von Vorteil.*
 
 **Einheit 3**
 
-*Die Kenntnis des Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [1] als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen [2] sind von Vorteil.*
+*Die Kenntnis des Metadatenschemas für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) [4] als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten aus Einheit 1 (M2E1) und Kenntnis der Inhalte aus BeratungsCamp Modul 1: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation - Von der Theorie in die Praxis - erläutern und analysieren, Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen [5] sind von Vorteil.*
 
 ---
 
@@ -181,6 +181,8 @@ Lernende können...
 [3] Reichert, R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
 
 [4] Fischer, K., & Witt, N. (2026). Bericht zum Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Version v.1). Zenodo. https://doi.org/10.5281/zenodo.22871824
+
+[5] Hastik, C., & Schwenk, G. A. (2025, Dezember 5). SODaBeratungsCamp: Modul 1. Zenodo. https://doi.org/10.5281/zenodo.17832837
 
 ---
 

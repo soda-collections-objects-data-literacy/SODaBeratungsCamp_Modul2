@@ -40,8 +40,8 @@ Einheit 0: **Begrüßung und Zielsetzung**
 |--------|--------|------|
 | 0 | Begrüßung und Zielsetzung | 5 Min. |
 | 1 | Das KuR-MDS als Werkzeug zur Strukturierung von Konservierungs- und Restaurierungsdaten | 10 Min. | 
-| 2 | Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten am konkreten Beispiel | 35 Min. |
-| 3 | Modellierung und Erfassung in WissKI/SCS als graphbasierte Datenstruktur | 40 Min. |
+| 2 | Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten an medienarchäologischen Beispielen | 35 Min. |
+| 3 | Ereignisorientierte Datendokumentation im SCS-WissKI | 40 Min. |
 
 Das SODa BeratungsCamp fördert die Kompetenzentwicklung im Umgang mit Forschungsdaten in der Konservierungs- und Restaurierungsdokumentation.
 
@@ -88,7 +88,7 @@ Lernende können...
 
 ---
 
-### M2E2: Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten
+### M2E2: Analyse und Strukturierung unstrukturierter Konservierungs- und Restaurierungsdaten an medienarchäologischen Beispielen
 
 Lernende können...
 

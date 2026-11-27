@@ -18,7 +18,7 @@ Dieses Modul enthält Materialien für einen Präsenzworkshop im Format eines Be
 
 **Einheit 1** stellt in Kurzimpulsen das **Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS)** vor, das die NFDI4Objects-TWG (Temporary Working Group) „Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes“ entwickelt hat. **Einheit 2** widmet sich in Kurzimpulsen der Frage, wie man **von einer unstrukturierten Dokumentation konservierungs- und restaurierungsbezogener Daten zu strukturierten Daten** gelangt. Der Herausforderung nähert man sich dabei anhand **medienarchäologischer Beispiele**. **Einheit 3** zeigt exemplarisch die **ereignisorientierte Erfassung von Konservierungs- und Restaurierungsmaßnahmen im WissKI des SODa Semantic Coworking-Space (SCS)**.
 
-Die folienbasierten Kurzimpulse werden durch Gruppenarbeiten, gemeinsame Übungen (z. B. *Dokumentation lesen und annotieren*), die praktische Arbeit mit einer WissKI-Instanz und Diskussionsimpulse ergänzt. Die Formate eignen sich didaktisch für Präsenzveranstaltungen mit maximal 25 Personen.
+Die folienbasierten Kurzimpulse werden durch Gruppenarbeiten, gemeinsame Übungen (z.B. *Übung: Dokumentation lesen und annotieren*), die praktische Arbeit mit einer WissKI-Instanz und Diskussionsimpulse ergänzt. Die Formate eignen sich didaktisch für Präsenzveranstaltungen mit maximal 25 Personen.
 
 ---
 

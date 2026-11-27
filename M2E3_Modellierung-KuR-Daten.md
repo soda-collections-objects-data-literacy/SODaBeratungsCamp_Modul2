@@ -45,7 +45,7 @@ Lernende können...
 - Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel erläutern. (neu)
 
 - Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel anwenden. (neu)
-e
+
 - Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel diskutieren. (neu)
 
 
@@ -151,27 +151,33 @@ Im dargestellten Beispiel wird (rechts) die **Erhaltungsmaßnahme vom Typ Rekons
 
 ---
 
-## 3.3 Gemeinsame Aufgabe im Medienarchäologie WissKI/SCS
+## 3.3 Gemeinsame Aufgabe in einer SCS-WissKI-Instanz (wisski-medienarchaeologie)
 
-[Medienarchäologie WissKI/SCS](https://wisski-medienarchaeologie.wisski.scs.sammlungen.io)
+**Hinweis:**
 
-- Datensatz **„Rave Racer“** kennenlernen
+> Für die Durchführung dieser Übung und die anschließende Diskussion in 3.4 wurde eine SCS-WissKI-Instanz vorbereitet und Daten aus der Dokumentation zu den Projekten Rave Racer [10] und T42 / Tennis for Two [11] vorerfasst, die von den Workshopteilnehmenden zu ergänzen waren. Sie können sich zu diesem Zweck und zur Vorbereitung einer eigenen SCS-WissKI-Instanz auf dem SODa Semantic Co-Working Space anmelden: https://manager.scs.sammlungen.io/
+
+
+[SCS-WissKI Medienarchäologie](https://wisski-medienarchaeologie.wisski.scs.sammlungen.io)
+
+- Datensatz **Rave Racer** kennenlernen
 - fehlende Angaben gemeinsam ergänzen
-- Daten zu **T42 Tennis for Two"" erfassen
+- Daten zu **T42 / Tennis for Two** erfassen
   
 ---
 
 ## 3.4 Diskussion
 
-> **Was musstet ihr bei der Erfassung in WissKI/SCS anders denken als bei der Arbeit mit einer hierarchisch strukturierten Eingabemaske?**
+> **Was mussten Sie bei der Erfassung im SCS-WissKI anders denken als bei der Arbeit mit einer hierarchisch strukturierten Eingabemaske?**
 
 Weitere Diskussionsfragen:
 
 - An welchen Stellen der Dateneingabe muss **zu einer ereignisorientierten Perspektive** gewechselt werden?
-- Welche Information lässt sich nicht einfach aus den Dokumentationen in ein entsprechendes Feld im WissKI/SCS übertragen?
-- Welche Angaben wurden im WissKI/SCS zu **eigenständigen Ereignissen oder Entitäten**?
+- Welche Information lässt sich nicht einfach aus den Dokumentationen in ein entsprechendes Feld im SCS-WissKI übertragen?
+- Welche Angaben wurden im SCS-WissKI zu **eigenständigen Ereignissen oder Entitäten**?
 ...
 
+---
 
 ## Quellenangaben
 
@@ -192,6 +198,10 @@ Weitere Diskussionsfragen:
 [8] Mempel-Länger, L., Fischer, K., & Witt, N. (2025). Conservation Documentation Data [Webanwendung]. https://conservationdata.github.io/docu/#/ (Stand: 26.11.2026)
 
 [9] NFDI4Objects. (o. D.). Erhaltungskonzept. Conservation Metadata Schema. Conservation Data Framework Online-Portal. https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan (Stand: 26.11.2026)
+
+[10] Vonderau, P. (2026). Das Rave Racer Projekt (Version 1) [Projektseite]. Circuit Lab, Martin-Luther-Universität Halle-Wittenberg. https://racerprojekt.de/ (Stand: 26.11.2026)
+
+[11] MEGA Museum of Electronic Games & Art e. V. (o. D.). T42: Tennis For Two with New Media @ gamescom 2012 [Ausstellungsseite]. https://www.m-e-g-a.org/exhibition/t42-tennis-for-two-with-new-media-gamescom-2012/ (Stand: 26.11.2026)
 
 ---
 

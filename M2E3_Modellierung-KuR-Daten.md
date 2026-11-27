@@ -36,17 +36,15 @@ Lernende können...
 
 3\.4 Nutzen der Wissenschaftlichen Kommunikationsinfrastruktur WissKI benennen. (LZ-ID SODa\_01\_010\_0204)
 
-3\.5 die Relevanz einer ereignisorienterten Erfassung von Konservierungs- und Restaurierungsmaßnahmen benennen. (neu)
+3\.5 die Relevanz einer ereignisorienterten Dokumentation von Konservierungs- und Restaurierungsmaßnahmen benennen. (LZ-ID SODa\_03\_001\_0632)
 
 3\.6 Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa_03_007_0805)
 
-3\.7 Nutzen des ereignisorientierten Modellierungsprinzips am Beispiel der Erfassung von Konservierungs- und Restaurierungsmaßnahmen benennen. (neu)
+3\.7 die Ereignisorientierung bei der Datendokumentation von Konservierungs- und Restaurierungsmaßnahmen am Beispiel erläutern. (LZ-ID SODa\_03\_001\_0633)
 
-3\.8 die Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel erläutern. (neu)
+3\.8 die Ereignisorientierung bei der Datendokumentation von Konservierungs- und Restaurierungsmaßnahmen am Beispiel anwenden. (LZ-ID SODa\_03\_001\_0634)
 
-3\.9 die Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel anwenden. (neu)
-
-3\.10 die Ereignisorientierung bei der Datenerfassung von Konservierungs- und Restaurierungsmaßnahmen am Beispiel diskutieren. (neu)
+3\.9 die Ereignisorientierung bei der Datendokumentation von Konservierungs- und Restaurierungsmaßnahmen am Beispiel diskutieren. (LZ-ID SODa\_03\_001\_0635)
 
 ---
 

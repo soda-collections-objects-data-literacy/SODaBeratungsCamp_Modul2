@@ -62,25 +62,29 @@ Das Modul wird aktiv moderiert und ist interaktiv gestaltet; Teilnehmende sind e
 
 Lernende können...
 
-1\.1 den Begriff Metadaten erläutern. (LZ-ID 03\_02\_0626)
+1\.1 den Begriff Metadaten erläutern. (LZ-ID 03\_002\_0626)
 
-1\.2 verschiedene Arten von Metadaten benennen. (LZ-ID 03\_02\_0627)
+1\.2 verschiedene Arten von Metadaten benennen. (LZ-ID 03\_002\_0627)
 
-1\.3 die Relevanz von Metadaten benennen und erläutern. (LZ-ID 03\_02\_0628 & LZ-ID 03\_02\_0629)
+1\.3 die Relevanz von Metadaten benennen (LZ-ID 03\_002\_0628)
 
-1\.4 die Relevanz von Metadaten in der Konservierungs- und Restaurierungsdokumentation benennen (LZ-ID SODa\_03\_002\_0628a)
+1\.4 die Relevanz von Metadaten erläutern. (LZ-ID 03\_002\_0629)
 
-1\.5 die Relevanz von Metadaten in der Konservierungs- und Restaurierungsdokumentation erläutern. (LZ-ID SODa\_03\_002\_0629a)
+1\.5 die Relevanz von Metadaten in der Konservierungs- und Restaurierungsdokumentation benennen (LZ-ID SODa\_03\_002\_0628a)
 
-1\.6 den Begriff Metadatenschema erläutern (LZ-ID SODa\_03\_003\_0675)
+1\.6 die Relevanz von Metadaten in der Konservierungs- und Restaurierungsdokumentation erläutern. (LZ-ID SODa\_03\_002\_0629a)
 
-1\.7 die Relevanz von Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation benennen. (LZ-ID SODa\_03\_003\_0676)
+1\.7 den Begriff Metadatenschema erläutern (LZ-ID SODa\_03\_003\_0675)
 
-1\.8 die Relevanz von Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation erläutern. (LZ-ID SODa\_03\_003\_0677)
+1\.8 die Relevanz von Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation benennen. (LZ-ID SODa\_03\_003\_0676)
 
-1\.9 ein Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) benennen. (LZ-ID SODa\_03\_003\_0678)
+1\.9 die Relevanz von Metadatenschemata in der Konservierungs- und Restaurierungsdokumentation erläutern. (LZ-ID SODa\_03\_003\_0677)
 
-1\.10 ein Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) erläutern. (LZ-ID SODa\_03\_003\_0679)
+1\.10 ein Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) benennen. (LZ-ID SODa\_03\_003\_0678)
+
+1\.11 ein Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (KuR-MDS) erläutern. (LZ-ID SODa\_03\_003\_0679)
+
+1\.12 Thesauri zur Beschreibung von Konservierungs- und Restaurierungsmaßnahmen benennen. (LZ-ID SODa\_03\_006\_0752a)
 
 ---
 
@@ -97,6 +101,30 @@ Lernende können...
 2\.4  eigenständig unstrukturierte Datendokumentationen auf fehlende, mehrdeutige oder nur implizit dokumentierte Informationen analysieren. (LZ-ID SODa\_03\_001\_0630)
 
 2\.5  Herausforderungen bei der Überführung unstrukturierter Dokumentationen in strukturierte Dokumentationen erläutern. (LZ-ID SODa\_03\_001\_0631)
+
+---
+
+### M2E3: Modellierung und Erfassung im SCS-WissKI als graphbasierte Datenstruktur
+
+Lernende können...
+
+3\.1 für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen erläutern. (LZ-ID SODa\_01\_010\_0203)
+
+3\.2 den SODa Semantic Coworking-Space (SCS) als Werkzeug zur digitalen Arbeit mit Sammlungsdaten benennen. (LZ-ID SODa\_01\_010\_0205)
+
+3\.3 das im WissKI des SODa Semantic Coworking-Space (SCS) implementierte semantische Standard-Datenmodell benennen. (LZ-ID SODa\_03\_007\_0858)
+
+3\.4 Nutzen der Wissenschaftlichen Kommunikationsinfrastruktur WissKI benennen. (LZ-ID SODa\_01\_010\_0204)
+
+3\.5 die Relevanz einer ereignisorienterten Dokumentation von Konservierungs- und Restaurierungsmaßnahmen benennen. (LZ-ID SODa\_03\_001\_0632)
+
+3\.6 Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa_03_007_0805)
+
+3\.7 die Ereignisorientierung bei der Datendokumentation von Konservierungs- und Restaurierungsmaßnahmen am Beispiel erläutern. (LZ-ID SODa\_03\_001\_0633)
+
+3\.8 die Ereignisorientierung bei der Datendokumentation von Konservierungs- und Restaurierungsmaßnahmen am Beispiel anwenden. (LZ-ID SODa\_03\_001\_0634)
+
+3\.9 die Ereignisorientierung bei der Datendokumentation von Konservierungs- und Restaurierungsmaßnahmen am Beispiel diskutieren. (LZ-ID SODa\_03\_001\_0635)
 
 ---
 

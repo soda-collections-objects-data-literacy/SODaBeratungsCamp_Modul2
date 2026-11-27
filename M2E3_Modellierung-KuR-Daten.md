@@ -95,15 +95,15 @@ Die folgende **Abbildung 1** zeigt **links** einen Ausschnitt aus der [Mockup-Ap
 
 Auf derselben Abbildung 1 **rechts** werden Ausschnitte aus Beschreibungstexten des KuR-MDS zur **Sektion "Erhaltungskonzept"** und zu **Metadatenelementen** der Sektion aufgeführt. [9]
 
+Dazu gehören beispielsweise "Anlass der Erhaltungsmaßnahmen" und "Konservatorische Zielsetzung" (Planungsphase) sowie Angaben zur "Erhaltungsmaßnahme" selbst, etwa die "Zuständige Person" (Durchführungsphase).
+
+In der Mockup-App werden diese Metadaten in Form einer Eingabemaske visualisiert, die einer vertrauten Erfassungsoberfläche entspricht. Die einzelnen Erfassungsfelder sind hierarchisch angeordnet, sie bilden die hierarchische Struktur des KuR-MDS ab.
+
 ---
 
 ![Visualisierung Erfassung als Eigenschaft des Objekts](assets/2026_11_26-ModellierungalsObjekteigenschaft.png)
 
->**Abbildung 1:** Rechts: Ausschnitt aus Beschreibung von [Zweck und Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) [9] aus dem KuR-MDS. Links: Hierarchisch strukturierte Eingabemaske in der [Mockup-App](https://conservationdata.github.io/docu/#/). Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten [8]
-
-Dazu gehören beispielsweise **"Anlass der Erhaltungsmaßnahmen"** und **"Konservatorische Zielsetzung"** (Planungsphase) sowie Angaben zur **"Erhaltungsmaßnahme"** selbst, etwa die **"Zuständige Person"** (Durchführungsphase). 
-
-In der Mockup-App werden diese Metadaten in Form einer Eingabemaske visualisiert, die einer **vertrauten Erfassungsoberfläche** entspricht. Die einzelnen **Erfassungsfelder sind hierarchisch angeordnet**, sie bilden die hierarchische Struktur des KuR-MDS ab.
+>**Abbildung 1:** Links: Hierarchisch strukturierte Eingabemaske in der [Mockup-App](https://conservationdata.github.io/docu/#/). Screenshot (Ausschnitt) aus: Mockup-App für Konservierungsdaten [8]. Rechts: Ausschnitt aus Beschreibung von [Zweck und > Funktion der Sektion Erhaltungskonzept](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/conservation-plan/) aus dem KuR-MDS [9]
 
 ---
 

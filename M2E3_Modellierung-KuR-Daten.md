@@ -135,7 +135,7 @@ Im dargestellten Beispiel wird (rechts) die **Erhaltungsmaßnahme vom Typ Rekons
 
 ### Die "Zuständige Person" als Teil einer Ereignisstruktur
 
-**Abbildung 3** zeigt am Beispiel des Metadatums **"Zuständigen Person (Erhaltungsmaßnahme)**, wie eine hierarchisch unter der Erhaltungsmaßnahme eingeordnete Information im SCS-WissKI als Teil eine Ereignisstruktur erfasst wird. Während die **Zuständige Person** in der vertrauten Eingabemaske (links) unmittelbar als Angabe zur Erhaltungsmaßnahme erscheint, wird sie im SCS-WissKI über eine dazwischenliegende **Aktivität** modelliert: Die Erhaltungsmaßnahme (*Rekonstruktion*) **beginnt mit einer Aktivität** (*Beginnt mit Aktivität*) (mitte). Für diese Aktivität wird anschließend die ausführende Person über *Durchgeführt von* erfasst (rechts).
+**Abbildung 3** zeigt am Beispiel des Metadatums **Zuständigen Person (Erhaltungsmaßnahme)**, wie eine hierarchisch unter der Erhaltungsmaßnahme eingeordnete Information im SCS-WissKI als Teil eine Ereignisstruktur erfasst wird. Während die **Zuständige Person** in der vertrauten Eingabemaske (links) unmittelbar als Angabe zur Erhaltungsmaßnahme erscheint, wird sie im SCS-WissKI über eine dazwischenliegende **Aktivität** modelliert: Die Erhaltungsmaßnahme (*Rekonstruktion*) **beginnt mit einer Aktivität** (*Beginnt mit Aktivität*) (mitte). Für diese Aktivität wird anschließend die ausführende Person über *Durchgeführt von* erfasst (rechts).
 
 ![Visualisierung ereignisorientierte Erfassung des Erhaltungsmaßnahme](assets/2026_11_26-EreignisorientierteErfassungErhaltungsmasnahme.png)
 

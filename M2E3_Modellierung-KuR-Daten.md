@@ -175,7 +175,6 @@ Weitere Diskussionsfragen:
 - An welchen Stellen der Dateneingabe muss **zu einer ereignisorientierten Perspektive** gewechselt werden?
 - Welche Information lässt sich nicht einfach aus den Dokumentationen in ein entsprechendes Feld im SCS-WissKI übertragen?
 - Welche Angaben wurden im SCS-WissKI zu **eigenständigen Ereignissen oder Entitäten**?
-...
 
 ---
 
